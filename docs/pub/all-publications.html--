@@ -1,0 +1,762 @@
+<HTML>
+<!--This file created 98.8.3 5:47 PM by Home Page Pro version 3.0J Demo-->
+<HEAD>
+   <TITLE>all-puglications.html</TITLE>
+   <META NAME=GENERATOR CONTENT="Home Page Pro 3.0J Demo">
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=x-sjis">
+   <X-CLARIS-WINDOW TOP=73 BOTTOM=1024 LEFT=241 RIGHT=771>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<H1>PUBLICATIONS from Mizoguchi Lab.</H1>
+
+<P>Last modified: March 19, 1998 (not exhaustive).<BR>
+
+<HR>
+
+</P>
+
+<H2>KNOWLEDGE ENGINEERING</H2>
+
+<H3><I>1998 </I></H3>
+
+<P><B>Title:</B> Functional Ontology for Functional Understanding<BR>
+<B>Authors:</B> Y. Kitamura, M. Ikeda, R. Mizoguchi<BR>
+<B>Reference:</B> Working Papers of Twelfth International Workshop on
+Qualitative Reasoning (QR-98), Cape Cod, USA, May 26-29, AAAI
+Technical Report WS-98-01, AAAI Press, pp.77-87, 1998<BR>
+<A HREF="/pub/kita/kita-qr98.html">Abstract</A> and <A HREF="/pub/kita/kita-qr98.pdf">Article
+(PDF file, 403 KB)</A><BR>
+</P>
+
+<P><B>Title:</B> Construction of a Problem Solving Ontology - A
+Scheduling Task Ontology As an Example -<B><BR>
+Authors:</B> K. Seta, M. Ikeda, T. Shima, O. Kakusho, R.
+Mizoguchi<BR>
+<B>Reference:</B> Trans. of IEICE, Vol. J81-D-II, No.9 <B>(in
+Japanese)</B><BR>
+Abstract and Article <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-jsai98.pdf">(PDF
+file, 188 KB)</A></P>
+
+<P><B>Title:</B>CLEPE: a Task Ontology Based Conceptual Level
+Programming Environment<B><BR>
+Authors:</B> K. Seta, M. Ikeda, T. Shima, O. Kakusho, R.
+Mizoguchi<BR>
+<B>Reference:</B> Trans. of IEICE, Vol. J81-D-II, No.9 <B>(in
+Japanese)</B>.(to appear)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-ieice-98.html">Abstract</A>
+and Article <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-ieice98.pdf">(PDF
+file, 92 KB)</A></P>
+
+<P>Å@</P>
+
+<H3><I>1997 </I></H3>
+
+<P><B>Title:</B> Roles of Shared Ontology in AI-ED Research --
+Intelligence, Conceptualization, Standardization, and Reusability
+--<BR>
+<B>Author:</B> Riichiro Mizoguchi, Mitsuru Ikeda, and Katherine
+Sinitsa<BR>
+<B>Reference:</B> Proc. of AIED-97, also as Technical Report
+AI-TR-97-4, I.S.I.R., Osaka University, 1997<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-aied97.html">Abstract</A>
+and Article <A HREF="http:///www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-aied97.pdf">(PDF
+file, 43 KB) </A>or <A HREF="/pub/miz/ikeda-ijcai97.ps">(Postscript
+file, 1.0 MB)</A><BR>
+</P>
+
+<P><B>Title:</B> Task Ontology Makes It Easier To Use Authoring
+Tools<BR>
+<B>Author:</B> Mitsuru Ikeda, Kazuhisa Seta, and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proc. of IJCAI-97 (to appear), also as Technical
+Report AI-TR-97-3, I.S.I.R., Osaka University, 1997<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-ijcai97.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-ijcai97.ps">article</A>
+(PostScript file, 1050401 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Opportunistic Group Formation- A Theory for
+Intelligent Support in Collaborative Learning -<BR>
+<B>Author:</B> Mitsuru IKEDA, Shogo GO, Riichiro MIZOGUCHI<BR>
+<B>Reference:</B> Proc. of AI-ED-97<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-aied97.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-aied97.pdf">article</A>
+(PDF file, 184 KB<BR>
+</P>
+
+<P><B>Title:</B> Role Explication of Simulation in Intelligent
+Training Systems by Training Task Ontology,<BR>
+<B>Author:</B> Lai JIN, Mitsuru IKEDA, Riichiro MIZOGUCHI, Yoshiyuki
+TAKAOKA:<BR>
+<B>Reference:</B> Proc. of AI-ED-97 Workshop<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-aied97.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-aied97.pdf">article</A>
+(PDF file, 91 KB)<BR>
+</P>
+
+<P><B>Title:</B> A Causal Time Ontology for Qualitative Reasoning<BR>
+<B>Authors:</B> Y. Kitamura, M. Ikeda, R. Mizoguchi<BR>
+<B>Reference:</B> Proc. of IJCAI-97, pp.501-506, 1997<BR>
+<A HREF="/pub/kita/kita-ijcai97.html">Abstract</A> and article
+<A HREF="/pub/kita/kita-ijcai97.pdf">PDF file, 78KB</A> or <A HREF="/pub/kita/kita-ijcai97.ps">(PostScript
+file, 425KB)</A><BR>
+</P>
+
+<P><B>Title:</B>An Ontological Consideration of Causal Time in
+Qualitative Reasoning Systems<BR>
+<B>Authors:</B>Yoshinobu Kitamura, Mitsuru Ikeda, and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B>Proc. of The Eleventh International Workshop on
+Qualitative Reasoning (QR-97), pp.277-285, 1997.<BR>
+</P>
+
+<P><B>Title: </B>Capturing a Conceptual Model for End-user
+Programming -Task Ontology as a Static User Model-<B><BR>
+Authors:</B> K. Seta, M. Ikeda, O. Kakusho, R. Mizoguchi<BR>
+<B>Reference:</B> Proc. of UM'97<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.html">Abstract</A>
+and Article <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.pdf">(PDF
+file, 185 KB)</A><BR>
+</P>
+
+<H3><I>1996</I></H3>
+
+<P><B>Title:</B>Towards Ontology Engineering<BR>
+<B>Authors:</B> R. Mizoguchi, M. Ikeda<BR>
+<B>Reference:</B> Technical Report AI-TR-96-1, I.S.I.R., Oska
+Univ.<BR>
+<A HREF="miz/miz-onteng.html">Abstract</A> and <A HREF="miz/miz-onteng.pdf">article
+(PDF, 30KB)</A></P>
+
+<P><B>Title:</B> A Qualitative Reasoning based on an Ontology of
+Fluid Systems and Its Evaluation on a Power Plant<BR>
+<B>Authors:</B> Y. Kitamura, M. Ikeda, R. Mizoguchi<BR>
+<B>Reference:</B> Proc. of PRICAI-96, pp.288-299, Cairns, Australia,
+August, 1996. Lecture Notes in AI 1114, Springer-Verlag.<BR>
+<A HREF="/pub/kita/kita-pricai96.html">Abstract</A> and article
+<A HREF="/pub/kita/kita-pricai96.pdf">(PDF file, 102KB)</A> or
+<A HREF="/pub/kita/pricai96.ps">(Postscript file, 284KB)</A><BR>
+</P>
+
+<P><B>Title:</B> A method of qualitative reasoning for model-based
+problem solving and its application to a nuclear plant<BR>
+<B>Authors:</B> Y. Kitamura, M. Sasajima, M. Ikeda, S. Yoshikawa, A.
+Endou, O. Kakusyo, R. Mizoguchi<BR>
+<B>Reference:</B> Expert Systems with Applications Vol.10, No.3/4,
+pp.441-448, 1996<BR>
+<A HREF="/pub/kita/kita-eswa96.html">Abstract</A> and <A HREF="/pub/kita/kita-eswa96.ps">article</A>
+(PS file, 359279 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Task Ontology Design for Intelligent
+Educational/Training Systems.. <BR>
+<B>Authors:</B> R. Mizoguchi, K. Sinitsa<BR>
+<B>Reference:</B> Proc. of Workshop on " Architectures and Methods
+for Designing Cost-Effective and Reusable ITSs, ", ITS'96, Montreal,
+1996<BR>
+<A HREF="/pub/miz/miz-its96.html">Article</A><BR>
+</P>
+
+<P><B>Title:</B> Knowledge Engineering of Educational Systems for
+Authoring System Design -A preliminary results of task ontology
+design-<BR>
+<B>Authors:</B> R. Mizoguchi, K. Sinitsa and M. Ikeda<BR>
+<B>Reference:</B> Proc. of EAIED, pp.329-335, Lisbon, 1996<BR>
+<A HREF="/pub/miz/miz-eaied96.html">Article</A><BR>
+</P>
+
+<P><B>Title: </B>Design of a Conceptual Level Programming Environment
+Based on Task Ontology<B><BR>
+Authors:</B> K. Seta, M. Ikeda, O. Kakusho, R. Mizoguchi<BR>
+<B>Reference:</B> Proc. of BKK'97<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-BKK96.html">Abstract</A>
+and Article <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.pdf">(PDF
+file, 82 KB)</A><BR>
+</P>
+
+<H3><I>1995 </I></H3>
+
+<P><B>Title:</B> FBRL:A Function and Behavior Representation
+Language<BR>
+<B>Authors:</B> Munehiko Sasajima, Yoshinobu Kitamura, Mitsuru Ikeda,
+and Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of IJCAI'95, pp.1830-1836, 1995<BR>
+<A HREF="/pub/kita/sasa-ijcai95.html">Abstract</A> and <A HREF="/pub/kita/sasa-ijcai95.ps">article
+(PS file, 495KB)</A></P>
+
+<P>Å@</P>
+
+<P><B>Title:</B> Adaptation of Reusable Knowledge for Workplace
+Integration<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> IJCAI-95 Workshop on Context in Knowledge and
+Reasoning Modelling<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.7.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/ijcai95.ps">article</A>
+(ps-file, 304686 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Augmenting Conceptual Software Designs with their
+Rationales<BR>
+<B>Author:</B> Vanwelkenhuysen Johan<BR>
+<B>Reference:</B> IEEE Expert (forthcoming)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.1.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/ieee-expert.ps">article</A>
+(ps-file, 440642 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Ontologies and Guidelines for Modeling Digital
+Systems<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, Banff, Canada.<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.2.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kaw95.1.ps">article</A>
+(ps-file, 446136 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Embedding Non-Functional Requirements Analyses in
+Conceptual Knowledge System Designs<BR>
+<B>Author:</B> Vanwelkenhuysen Johan<BR>
+<B>Reference:</B> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, Banff, Canada.<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.3.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kaw95.2.ps">article</A>
+(ps-file, 317272 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Workplace-Adapted Behaviors: Lessons Learned for
+Knowledge Reuse<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> Proceedings of the Second International Conference
+on Building and Sharing of Very Large-Scale Knowledge Bases (KB &amp;
+KS'95)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.4.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kbks1.ps">article</A>
+(ps-file, 457505 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Task Ontology for Reuse of Problem Solving
+Knowledge<BR>
+<B>Author:</B> Mizoguchi Riichiro and Vanwelkenhuysen Johan and Ikeda
+Mitsuru<BR>
+<B>Reference:</B> Proceedings of the Second International Conference
+on Building and Sharing of Very Large-Scale Knowledge Bases (KB &amp;
+KS'95)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.5.html">Abstract</A>
+and article (ps-file, bytes)<BR>
+</P>
+
+<P><B>Title:</B> Capturing the Problem Solving Context When Creating
+Ontologies<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> Japanese Society for Artificial Intelligence,
+SIG-KBS-9403, pages 33-40, Japan<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.6.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/jsai-kbs.ps">article</A>
+(ps-file, bytes)<BR>
+</P>
+
+<P><B>Title:</B> <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-pricai95.html">Ontological
+Issues on Computer-based Training</A><BR>
+<B>Author:</B> Lai JIN, Mitsuru IKEDA, Riichiro MIZOGUCHI, Yoshiyuki
+TAKAOKA, Kenji HIROBE<BR>
+<B>Reference:</B> Proc. of PRICAI-95 Workshop<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-pricai95.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-pricai95.pdf">article</A>
+(PDF file, 43 KB)<BR>
+</P>
+
+<H3><I>1994 </I></H3>
+
+<P><B>Title:</B> Current state of the art of knowledge sharing and
+reuse<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.9, No.1, pp.3-9, 1994<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.1.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> Effort for building a reusable knowledge base --
+Generating operation sequences for the acceident restoration of
+primary substations based on the reusable knowledge base<BR>
+<B>Author:</B> Qianren Zhang, Yoshiyuki Takaoka, Morihiro Sakamoto,
+Kazuhiro Kidokoro, Masayuki, Yamashita, Kenji Hirobe, and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> J. of IEICE, Vol.J77-D-II, No.5, pp.970-980,
+1994<BR>
+</P>
+
+<P><B>Title:</B> Functional extension of EBL by introducing
+comparison viewpoints<BR>
+<B>Author:</B> Matsushi Matsuda, Mitsuru Ikeda, and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.9, No.5, pp.755-764, 1994<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.2.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> User's utterance model and cooperative answering for
+question- answering systems<BR>
+<B>Author:</B> Koichi Yamada, Riichiro Mizoguchi, and Naoki
+Harada<BR>
+<B>Reference:</B> J. of Information Processing Society of Japan,
+Vol.35, No.11, pp.2265-2275, 1994<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.3.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> An Investigation on Domain Ontology to Represent
+Functional Models<BR>
+<B>Authors:</B> Munehiko SASAJIMA, Yoshinobu KITAMURA, Mitsuru IKEDA,
+Shinji YOSHIKAWA, Akira ENDOU, and Riichiro MIZOGUCHI<BR>
+<B>Reference:</B> In proceedings of the Eighth International Workshop
+on Qualitative Reasoning QR94, pp.224-233<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/sasa/1994.1.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/homedir/sasajima/paper/QR94/cam/camready.ps">article</A>
+(ps-file, 602373 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Maintaining the Workplace Context in a Knowledge
+Level Analysis<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> Proceedings of the Third Japanese Knowledge
+Acquisition for Knowledge-Based Systems Workshop '94, Hatoyama,
+Japan<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.1.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/jkaw94.ps">article</A>
+(ps-file, 363157 bytes)<BR>
+</P>
+
+<P><B>Title:</B> Task ontologies for explaining expertise in problem
+solving context<BR>
+<B>Author:</B> Mizoguchi Riichiro and Vanwelkenhuysen Johan<BR>
+<B>Reference:</B> ECAI'94 Workshop on Comparison of Implemented
+Ontologies, pages 163-174, Amsterdam, Netherlands.<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.2.html">Abstract</A>
+and article (ps-file, bytes)<BR>
+</P>
+
+<P><B>Title:</B> Enabling Validation of Knowledge Level Analyses<BR>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<BR>
+<B>Reference:</B> AI Technical Report AI-TR-94-9, ISIR, Osaka
+University, 20 pages, Osaka, Japan<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.3.html">Abstract</A>
+and <A HREF="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/validating-kl-analysis.ps">article</A>
+(ps-file, 433228 bytes)<BR>
+</P>
+
+<H3><I>1993 </I></H3>
+
+<P><B>Title:</B> A Methodology for Building Expert Systems Based on
+Task Ontology and Reuse of Knowledge - Underlying Philosophy of a
+Task Analysis Interview System MULTIS<BR>
+<B>Author:</B> Yuri Adrian Tijerino, Mitsuru Ikeda, Tadahiro
+Kitahashi and Riichiro Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.8, No.4, pp.476-487, 1993 (in
+Japanese)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.1.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> An Efficient Knowledge Management Method for
+ATMS-based Problem Solving -Treatment of Detailed Assumptions and
+Knowledge Compilation<BR>
+<B>Author:</B> Shingo Mishioka, Mitsuru Ikeda, Osamu Kakusho and
+Riichiro Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.8, No.4, pp.465-475, 1993 (in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> Expert Systems and Knowledge Base Technology<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> International Journal of Computer and Engineering
+Management, Vol.1, No2., pp.24-39, 1993.<BR>
+</P>
+
+<P><B>Title:</B> Task Analysis Interview Based on Task Ontology<BR>
+<B>Author:</B> Riichiro Mizoguchi, Yuri Tijerino and Mitsuru
+Ikeda<BR>
+<B>Reference:</B> Proc. of '93 Korea/Japan Joint Conference on ESs
+(Seoul, Korea), pp.63-76, 1993<BR>
+</P>
+
+<P><B>Title:</B> Expert Systems and Knowledge Base Technology<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proceedings of the International Conference on
+Expert Systems Technology and Applications, pp.24-42, 1993<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.2.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> Towards a Model of Tutor's Decision Making<BR>
+<B>Author:</B> Koichiro Morihiro, Yu He, Mitsuru Ikeda and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proceedings of Artificial Intelligence in
+Education, pp.574-574, 1993<BR>
+</P>
+
+<P><B>Title:</B> Model of Utterance and Its Use in Cooperative
+Response Generation<BR>
+<B>Author:</B> Koichi Yamada, Riichiro Mizoguchi, et al.<BR>
+<B>Reference:</B> Proc. of East-West International Conference on
+Human-computer Interaction (EWHCI '93), pp.252-264, 1993<BR>
+</P>
+
+<P><B>Title:</B> Intention Recognition Based on Normal Use for Topic
+Object and Generation of Cooperative Responses<BR>
+<B>Author:</B> Koichi Yamada, Riichiro Mizoguchi, et al<BR>
+<B>Reference:</B> Proc. of the 5th International Conference on
+Human-Computer Interaction jointly with 9th Symposium on Human
+Interface(Japan), pp.280-280, 1993<BR>
+</P>
+
+<P><B>Title:</B> MULTIS II : Enabling End-Users to Design
+Problem-Solving Engines Via Two-Level Task Ontologies<BR>
+<B>Author:</B> Yuri Adrian Tijerino and Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of EKAW '93, pp. 340-359, 1993<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.3.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> Knowledge acquisition and ontology<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of KB&amp;KS'93, Tokyo, pp.121-128, 1993<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.4.html">Abstract</A><BR>
+</P>
+
+<H3><I>1992 </I></H3>
+
+<P><B>Title:</B> Knowledge compiler II based on domain model and
+failure model<BR>
+<B>Author:</B> Yamaguchi, T., R. Mizoguchi et al.<BR>
+<B>Reference:</B> J. of JSAI, Vol.7,No.4, pp.663-674, 1992<BR>
+</P>
+
+<P><B>Title:</B> An Interview System for Acquiring Design Knowledge
+based on Understanding of Example<BR>
+<B>Author:</B> Katsushi Matsuda, Hiroshi Niina and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.7, No.6, pp.1038-1048, 1992<BR>
+</P>
+
+<P><B>Title:</B> Expert system development in Japan<BR>
+<B>Author:</B> Mizoguchi, R.<BR>
+<B>Reference:</B> 1st International Conference on Artificial
+Intelligence Applications, Cairo, pp.1-17, 1992<BR>
+</P>
+
+<P><B>Title:</B> Two-level mediating representation for a task
+analysis interview systems<BR>
+<B>Author:</B> Mizoguchi, R. et al.<BR>
+<B>Reference:</B> Proc. of AAAI-92 Workshop on Knowledge
+representation aspects of Knowledge acquisition, pp.107-114, 1992<BR>
+</P>
+
+<P><B>Title:</B> Generation of Operation Sequences for Accident
+Restoration of Primary Substations Based on Object Model<BR>
+<B>Author:</B> Qianren Zhang, Kazuaki Kidororo, Riichiro Mizoguchi,
+et al.<BR>
+<B>Reference:</B> Proc. of PRICAI '92 (Seoul, KOREA), pp.328-333,
+1992<BR>
+</P>
+
+<P><B>Title:</B> An Interview System for Acquiring Design Knowledge
+based on Understanding of Examples<BR>
+<B>Author:</B> Katsushi Matsuda, Hiroshi Niina and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proc. of PRICAI '92 (Seoul, KOREA), pp.854-860,
+1992.<BR>
+</P>
+
+<P><B>Title:</B> Modeling of Materials Design Process<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of Intel. Sympo. on IDSEMS '92, pp.13-16,
+1992.<BR>
+</P>
+
+<P><B>Title:</B> Task Ontology and its Use in a Task Analysis
+Interview System --- Two-level Mediating Representation in MULTIS<BR>
+<B>Author:</B> Riichiro Mizoguchi, Yuri Tijerino and Mitsuru
+Ikeda<BR>
+<B>Reference:</B> Proc. of the 2nd Japanese JKAW '92 (Hatoyama,
+Japan), pp.185-198, 1992.<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1992.2.html">Abstract</A><BR>
+</P>
+
+<H3><I>1991 </I></H3>
+
+<P><B>Title:</B> Knowledge acquisition for knowledge-based
+systems<BR>
+<B>Author:</B> Motoda H., Mizoguchi R., et al.<BR>
+<B>Reference:</B> IEEE EXPERT, Vol.6, No.4, pp.53-64, 1991<BR>
+</P>
+
+<P><B>Title:</B> Interview-based knowledge acquisition using dynamic
+analysis<BR>
+<B>Author:</B>Kawaguchi A.,Motoda H., and Mizoguchi R.<BR>
+<B>Reference:</B> IEEE EXPERT, Vol.6, No.5, pp.47-60, 1991<BR>
+</P>
+
+<P><B>Title:</B> Knowledge acquisition systems<BR>
+<B>Author:</B> Mizoguchi, R.<BR>
+<B>Reference:</B> J. of JSAI, Vol.4, No.4, pp.411-420, 1988(in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> MULTIS:A knowledge acquisition system based on
+problem-solving primitives<BR>
+<B>Author:</B> Tijerino, Y., T.Kitahashi and R.Mizoguchi<BR>
+<B>Reference:</B> Proc. of 6th KAW, Banff, pp.32-1 - 32-20, 1991.<BR>
+</P>
+
+<H3><I>1985 - 1990 </I></H3>
+
+<P><B>Title:</B> Recent trends of expert system research<BR>
+<B>Author:</B> Mizoguchi Riichiro<BR>
+<B>Reference:</B> Trans. of Information Processing, Vol.28, No.2,
+pp.207-217, 1987(in Japanese)<BR>
+</P>
+
+<P><B>Title:</B> Basic design of knowledge compiler based on deep
+knowledge<BR>
+<B>Author:</B> Yamaguchi T, Mizoguchi R., et al.<BR>
+<B>Reference:</B> J. of Japanese Society for AI(JSAI), Vol.2, No.3,
+pp.333-340, 1987(in Japanese)<BR>
+</P>
+
+<P><B>Title:</B> Explanation facilities for novice users based on
+deep knowledge<BR>
+<B>Author:</B> Yamaguchi T, Mizoguchi R., et al.<BR>
+<B>Reference:</B> Trans. of Institute of Electronic, Information and
+Communication Engineers(IEICE), Vol.J70-D, No.11, pp.2083-2088,
+1987(in Japanese)<BR>
+</P>
+
+<P><B>Title:</B> Interactive synthesis of conceptual schema based on
+queries -- Toward an expert system of relational database design<BR>
+<B>Author:</B> Mizoguchi Riichiro et al.<BR>
+<B>Reference:</B> J. of Information Processing, Vol.8, No.3,
+pp.207-216, 1985<BR>
+</P>
+
+<P><B>Title:</B> An architecture for knowledge acquisition by
+interview<BR>
+<B>Author:</B> Kawaguchi, A. H. Motoda and R.Mizoguchi<BR>
+<B>Reference:</B> Proc. of Japanese Knowledge Acquisition for
+Knowledge-based Systems Workshop(JKAW90), Kyoto, pp.81-96, 1990.<BR>
+</P>
+
+<P><B>Title:</B> ISAK: Interview system for acquiring design
+knowledge --A unified architecture of interview systems using
+examples<BR>
+<B>Author:</B> Mizoguchi, R. et al.<BR>
+<B>Reference:</B> Proc. of JKAW90, Kyoto, pp.277-286, 1990.<BR>
+</P>
+
+<P><B>Title:</B> A task analysis interview system that uses a
+problem-solving model<BR>
+<B>Author:</B> Tijerino, Y., T. Kitahashi and R.Mizoguchi<BR>
+<B>Reference:</B> Proc. of JKAW90, Kyoto, pp.331-344, 1990.<BR>
+</P>
+
+<P><B>Title:</B> A generic framework for ITS and its evaluation<BR>
+<B>Author:</B> Mizoguchi, R. et al<BR>
+<B>Reference:</B> Proc. of IFIP TC3 International Conference on ARCE,
+Tokyo, pp.303-312, 1990.<BR>
+</P>
+
+<P><B>Title:</B> SIS: A shell for interview systems<BR>
+<B>Author:</B> Kawaguchi, A., R. Mizoguchi et al.<BR>
+<B>Reference:</B> Proc. of IJCAI'87, Vol.1, Milan, pp.359-361,
+1987.</P>
+
+<P><B>Title:</B> An intelligent interview systems for conceptual
+design of database<BR>
+<B>Author:</B> Kawaguchi, A., N.Taoka, R.Mizoguchi, M.Yanagida and
+O.Kakusho<BR>
+<B>Reference:</B> Proc. of ECAI, Vol.2, Brighton, pp.39-45, 1986.<BR>
+
+<HR>
+
+</P>
+
+<H2>INTELLIGENT EDUCATION SYSTEMS</H2>
+
+<H3><I>1994 </I></H3>
+
+<P><B>Title:</B> An Inductive Student Modeling Method which Deals
+with Student contradictions<BR>
+<B>Author:</B> Yasuyuki Kono, Mitsuru Ikeda and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> IEICE Trans. on Information and Systems, E77-D,
+pp.39-48, 1994<BR>
+</P>
+
+<P><B>Title:</B> Design of an ITS for Strategic Knowledge in Proving
+Logical Formulas<BR>
+<B>Author:</B> Koichiro Morihiro, Mitsuru Ikeda and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> IEICE Trans. on Information and Systems, E77-D,
+pp.98-107, 1994<BR>
+</P>
+
+<P><B>Title:</B> FITS: A Framework for ITS -- A Computational Model
+of Tutoring<BR>
+<B>Author:</B> Mitsuru Ikeda and Riichiro Mizoguchi<BR>
+<B>Reference:</B> J. of AI in Education, Vol.5, No.3, 1994(to be
+published)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.4.html">Abstract</A><BR>
+</P>
+
+<P><B>Title:</B> THEMIS: A Nonmonotonic Inductive Student Modeling
+System,<BR>
+<B>Author:</B> Yasuyuki Kono, Mitsuru Ikeda, and Riichiro
+Mizoguchi:<BR>
+<B>Reference:</B> J. of AI in Education, Vol.5, No.3, 1994(to be
+published)<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.5.html">Abstract</A><BR>
+</P>
+
+<H3><I>1993 </I></H3>
+
+<P><B>Title:</B> A Student Model Building Method based on
+Formalization of Nonmonotonicity<BR>
+<B>Author:</B> Yasuyuki Kono, Takeo Tokimori, Mitsuru Ikeda, Yasuo
+Nomura and Riichiro Mizoguchi<BR>
+<B>Reference:</B> J. of JSAI, Vol.8, No.4, pp.488-498, 1993 (in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> Selecting Hints Which Reminds a Student of an
+Appropriate Strategy in Problem Solving<BR>
+<B>Author:</B> Koichiro Morihiro, Yu He, Mitsuru Ikeda and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proceedings of the East-West Conference on
+Artificial Intelligence (EWIC '93), pp.296-300, 1993<BR>
+</P>
+
+<P><B>Title:</B> A Modeling Method for Students with
+Contradictions<BR>
+<B>Author:</B> Yasuyuki Kono, Mitsuru Ikeda and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proceedings of Artificial Intelligence in
+Education, 1993 (AI-ED 93), pp.481-488, 1993<BR>
+</P>
+
+<P><B>Title:</B> Nonmonotonic Model Inference --A Formalization of
+Student Modeling<BR>
+<B>Author:</B> Mitsuru Ikeda, Yasuyuki Kono and Riichiro
+Mizoguchi<BR>
+<B>Reference:</B> Proc. of the 13th International Joint Conference on
+Artificial Intelligence (IJCAI 93), pp.467-473, 1993<BR>
+</P>
+
+<P><B>Title:</B> Next Utterance Prediction Based on Two Kinds of
+Dialog Models<BR>
+<B>Author:</B> Yoichi Yamashita and Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of Eurospeech '93, Berlin, pp.1161-1164,
+1993<BR>
+</P>
+
+<P><B>Title:</B> Nonmonotonic Student Model Inference System<BR>
+<B>Author:</B> Riichiro MIZOGUCHI, Mitsuru IKEDA, and Yasuyuki
+KONO<BR>
+<B>Reference:</B> Proc. of ICCE'93, Taipei, pp.55-71, 1993.<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.5.html">Abstract</A><BR>
+</P>
+
+<H3><I>1992 </I></H3>
+
+<P><B>Title:</B> Classification of teaching material from the view
+point of tutoring strategy<BR>
+<B>Author:</B> Okuhata, K. et al<BR>
+<B>Reference:</B> J. of IEICE, Vol.J75-A, No.2, pp.305-313, 1992 (in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> FITS: A generic framework for ITS<BR>
+<B>Author:</B> Ikeda, M. et al.<BR>
+<B>Reference:</B> J. of IEICE, Vol.J75-A, No.2, pp.314-322, 1992 (in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> To contradict is human<BR>
+<B>Author:</B> Kono, Y., M.Ikeda and R. Mizoguchi<BR>
+<B>Reference:</B> Proc. of International Conference on Intelligent
+Tutoring Systems: ITS'92, Montreal, pp.451-458, 1992<BR>
+</P>
+
+<P><B>Title:</B> Brief Survey of Japanese ITS Research<BR>
+<B>Author:</B> Riichiro Mizoguchi<BR>
+<B>Reference:</B> Proc. of East-West Conference on Emerging Computer
+Technologies in Education (Moscow), pp.220-225, 1992<BR>
+</P>
+
+<P><B>Title:</B> FITS: A Generic Framework for ITS -Student modeling
+and tutoring strategies<BR>
+<B>Author:</B> Riichiro Mizoguchi and Mitsuru Ikeda<BR>
+<B>Reference:</B> Proc. of Expert and Tutoring Systems Conference
+(Saratov), pp.1-14, 1992<BR>
+<A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1992.1.html">Abstract</A><BR>
+</P>
+
+<H3><I>1985 - 1990 </I></H3>
+
+<P><B>Title:</B> Intelligent tutoring system -- Current state of the
+art<BR>
+<B>Author:</B> Mizoguchi, R.<BR>
+<B>Reference:</B> J. of IEICE, Vol.E73, No.7, pp.297-307, 1990 (in
+Japanese)<BR>
+</P>
+
+<P><B>Title:</B> A hypothetical model inference system<BR>
+<B>Author:</B> Ikeda, M., R. Mizoguchi, et al.<BR>
+<B>Reference:</B> Trans. on IEICE, Vol.J71-D, No.9, pp.1761-1771,
+1988(in Japanese)<BR>
+</P>
+
+<P><B>Title:</B> A framework for ICAI systems based on inductive
+inference and logic programming<BR>
+<B>Author:</B> Kawai K, Mizoguchi R., et al.<BR>
+<B>Reference:</B>New Generation Computing, Vol.5, pp.115-129,
+1987<BR>
+</P>
+
+<P><B>Title:</B> Knowledge engineering and ICAI<BR>
+<B>Author:</B> Mizoguchi Riichiro et al.<BR>
+<B>Reference:</B> J. of Japan Society for CAI, Vol.4,No.4, pp.13-24,
+1986(in Japanese)<BR>
+</P>
+
+<P><B>Title:</B> An innovative framework for intelligent tutoring
+systems<BR>
+<B>Author:</B> Mizoguchi, R. et al<BR>
+<B>Reference:</B> Proc. of the IFIP TC3 Working Conference on
+Artificial Intelligence Tools in Education, Frascati, pp.105-120,
+1988.<BR>
+</P>
+
+<P>
+
+<HR>
+
+</P>
+
+<H2>SPOKEN LANGUAGE PROCESSING</H2>
+
+<P><A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1995"><B>1995</B></A><B>
+</B></P>
+
+<P><A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1994"><B>1994</B></A><B>
+</B></P>
+
+<P><A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1993"><B>1993</B></A><B>
+</B></P>
+
+<P><A HREF="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1992"><B>1992</B></A><B>
+</B>
+
+<HR>
+
+</P>
+
+<P><A HREF="http://www.ei.sanken.osaka-u.ac.jp/.index.html"><B>MizLab
+Homepage</B></A></P>
+</BODY>
+</HTML>

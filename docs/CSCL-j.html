@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mizlab homepage template.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+	<!-- InstanceBeginEditable name="doctitle" --><title>Framework for group learning: FITS/CSCL</title><!-- InstanceEndEditable -->
+	
+	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	
+	
+	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
+	
+	<!-- InstanceParam name="Toppage" type="boolean" value="false" -->
+	<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+	
+	<!-- InstanceParam name="Japanese" type="boolean" value="true" -->
+	<!-- InstanceParam name="menu_index" type="number" value="3" -->
+	<link rel="alternate" type="application/rss+xml" href="mizlab.rdf"/>
+  </head>
+  <body>
+	<div class="top-title">
+	  <span class="top-text">
+		<span class="mizlab">Mizoguchi Lab</span><br/>
+		I.S.I.R., Osaka University<br/>
+	  </span>
+	  <span class="pagelang">
+		
+		
+		<!-- InstanceBeginEditable name="JumpLinkInEnglish" --><a href="CSCL-e.html">English</a><!-- InstanceEndEditable -->
+	  </span>
+	</div>
+	<div class="right-area">
+	  
+
+	  <div class="boxStyle">
+		<h1 class="heading">
+		  <!-- InstanceBeginEditable name="Title" -->知的協調学習支援システム FITS/CSCL<!-- InstanceEndEditable -->
+		</h1>
+		<div class="boxBody">
+		  
+		</div>
+	  </div>
+
+	  <!-- InstanceBeginRepeat name="Paragraph" --><!-- InstanceBeginRepeatEntry -->
+	  <div class="boxStyle">
+		<h2 class="heading">
+		  <!-- InstanceBeginEditable name="ParagraphTitle" --><!-- InstanceEndEditable -->
+		</h2>
+		<div class="boxBody">
+		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>知識を人から人へ伝達するための「もの」としてではなく，社会的な相互作用の結果として形成されるものと認識する立場から協調学習の重要
+
+性を重視した研究への取り組みが増えてきている．もちろん，この学習形態は目新しいものではなく，古くから教育の現場では実践されてきたものである．個別
+
+学習に対するグループ学習の優位性は大きくみて以下の３点について考えることができる．</p><ul>
+
+<li>学習の動機づけ：社会的刺激により学習が動機づけられる</li>
+
+<li>学習の形態 
+
+    <ul>
+
+<li>Learning by Teaching: 説明を外化することによって理解を強化する．</li>
+
+<li>Leaning by Diagnosing: 相手の誤りを診断する過程で理解を深める．</li>
+
+<li>Learning by open discussion: 議論を通じて思考力を高め理解を深める．</li>
+
+</ul>
+
+</li>
+
+<li>社会的相互作用に関する学習：議論の仕方を身につける．</li>
+
+</ul><p>言うまでもなく教育的にはこれら３つは全て同程度に重要かつ魅力的であるが，本研究では第２の要素に研究対象を限定してグループ学習の知的支援を実現する知識モデルを考えることにする．</p><p>知識工学応用の立場からもグループ学習を視野にいれた知的教育支援の枠組み(CSCL:Computer Supported
+
+Collaborative
+
+Learning)それ自体を革新的研究分野と見る必要はない．むしろITSやILEの個対個の学習形態を支えるモデルからグループ学習を支えるモデルへ
+
+の自然な拡張と考えるべきである．拡張に際して教育システムに新たに導入されるべき機能は，大きく次の２つに分けることができる．</p><ol>
+
+<li>分散環境での教具に必要な機能：ネットワーク技術，マルチメディア教材のグループ共有モデル，教具を構成する知的部品</li>
+
+<li>学習者間の交流を支援する機能：コミニュケーションモデル，グループ学習の管理モデル</li>
+
+</ol><p>これらの機能を実現すべく既に様々な研究が進められている．本研究ではBの機能を対象として，以下の３点を技術的課題として取り上げている．</p><ul>
+
+<li>学習目的の整理と決定モデル</li>
+
+<li>コミニュケーションの形態の整理と決定モデル</li>
+
+<li>分散学習環境での学習者モデルのありかた</li>
+
+</ul><p>学習目的は，学習グループが学習の結果として達成すべき目的を表し，新しい概念の導入，誤りの修正などがある．システムからみれば学習グループに対
+
+するあらゆる働きかけの根拠になる．つまり，どういう局面で，どういう学習を目的として，どのように学習者に働きかけるのか，というシステムの振る舞いの
+
+合理性を正当化する基本的な枠組みである．一般に学習に参加するエージェントは，学習エージェント，教授エージェントとしての役割をもっており，それぞれ
+
+がそれぞれの立場で目的を持っている．ITSで扱われた教授目的は学習に参加するエージェントを，学習エージェント１と教授エージェント１というように制
+
+約した場合のコミニュケーション目的に相当していたと言える．この考え方をグループ学習を包括するモデルへと展開することが本研究の目的の一つである．本
+
+研究での学習目的の捉え方を端的に表すと「何（ターゲット概念）をどのように(モーダス)学ぶのか」となる．ターゲット概念は学習の目標となる教材概念を
+
+表し，モーダスは演繹的な仮説を実験的に検証する思考形態なのか，帰納的な仮説形成・修正によるものなのか，またはLeaning by doing
+
+的な熟練によるべきものなのかといった学習の形態を表す．</p><p>学習目的を達成する手段はコミニュケーション形態として，ITSの教授戦略とグループ学習でのコミニュケーションを包括するモデルを設定する．例え
+
+ば，学習グループが「データを共有しながら，そこから正しい知識を帰納する」という形態や，「法則の妥当性をデータを参照しながら議論する」といったコミ
+
+ニュケーション形態を考えることができる．</p><p>こういった様々な形態のグループ内コミュニケーションを背後で支えるシステムを構築するためには，グループ学習のコミュニケーションに関わる幾つか
+
+の知識レベルモデルを設定することが重要になる．例えば，知識状態を表すための表現プリミティブとして何が必要か？，その意味は何か？，そして他のプリミ
+
+ティブとの関係は？といったことを深く検討し，知的システムの基盤となるモデル記述体型を確立しようという試みである．本研究の目的はコミニュケーション
+
+目的，教材モデル，コミニュケーション形態，学習者モデル，に関するオントロジーを構築し，それに基づいたシステムの実現を目指すことにある。</p><p>主要論文</p><ol>
+
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/thep/thep-aied99.pdf">Learning 
+
+    Goal Ontology Supported by Learning Theories for Opportunistic Group Formation</a><br/>
+
+
+
+    Proc. of AIED'99, (to appear)</li>
+
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ikeda/cscl-96.pdf">協調学習のモデル 
+
+    -Opportunistic Group Formation-</a>, 電子情報通信学会論文誌, Vol.J80-D-II, pp.855-865, 
+
+    No.4, (1997)</li>
+
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-aied97.html">Opportunistic 
+
+    Group Formation- A Theory for Intelligent Support in Collaborative Learning 
+
+    -</a>, Proc. of AIED-97, pp.319-348, (1997).</li>
+
+<li>Ontological Issues of CSCL Systems Design, Proc. of AIED-95, Washington, 
+
+    DC, pp.242-249 (1995)</li>
+
+</ol><!-- InstanceEndEditable -->
+		</div>
+	  </div>
+	  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+	  
+	  <div id="w3c">
+		<a href="http://validator.w3.org/check?uri=referer">
+		  <img class="w3c-link" src="images/valid-xhtml11.png" alt="Valid XHTML 1.1!"/>
+		</a>
+		<a href="http://jigsaw.w3.org/css-validator">
+		  <img class="w3c-link" src="images/vcss.gif" alt="Valid CSS!"/>
+		</a>
+		<!--a href="http://www.w3.org/RDF/" title="RDF Resource Description Framework">
+		  <img src="images/rdf_metadata_button.32.gif"
+		  alt="RDF Resource Description Framework Metadata Icon"/>
+		  </a-->
+		<div id="copyright">
+		  Copyright (C) 2004 MIZOGUCHI Laboratory, I.S.I.R., Osaka University. All Rights Reserved.
+		</div>
+	  </div>
+	</div>
+	<div class="leftmenu">
+	  <ul>
+	  
+		<li class="leftmenu-head">
+		  
+		  <a href="index.html">Home</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="about_us.html">溝口研究室について</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="ontology.html">オントロジーについて</a>
+		  
+		</li>
+		
+		<li class="leftmenu-selected">
+		  
+		  <a href="topics_index.html">研究トピック</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="project.html">研究プロジェクト</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="pub-index-jp.html">発表論文</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="http://www.hozo.jp/">オントロジーエディタ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="members.html">構成員</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="meeting.html">国際・国内会議情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="opportunities.html">溝口研に関心のある方へ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="access.html">アクセス情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="link.html">リンク</a>
+		  
+		</li>
+		
+	  </ul>
+	  <div class="last-update">
+		(last update: <!-- #BeginDate format:Ja1 -->06/01/26 <!-- #EndDate -->)
+	  </div>
+	  <div class="google">
+	  <!-- SiteSearch Google -->
+<form method="get" action="http://www.google.co.jp/search">
+<div>
+<a href="http://www.google.co.jp/">
+	<img src="http://www.google.com/logos/Logo_40wht.gif" alt="Google" />
+</a>
+<input type="text" name="q" size="10" maxlength="255" value=""/>
+<input type="hidden" name="hl" value="ja"/>
+<input type="hidden" name="ie" value="Shift_JIS"/>
+<input type="submit" name="btnG" value="GO"/>
+<input type="hidden" name="domains" value="ei.sanken.osaka-u.ac.jp"/><br/>
+<input type="radio" name="sitesearch" value=""/> WWW 
+<input type="radio" name="sitesearch" value="ei.sanken.osaka-u.ac.jp" checked="checked"/> MIZLAB
+</div>
+</form>
+<!-- SiteSearch Google --></div>
+	</div>
+  </body>
+<!-- InstanceEnd --></html>

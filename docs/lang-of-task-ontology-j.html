@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mizlab homepage template.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+	<!-- InstanceBeginEditable name="doctitle" --><title>タスクオントロジー記述言語</title><!-- InstanceEndEditable -->
+	
+	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	
+	
+	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
+	
+	<!-- InstanceParam name="Toppage" type="boolean" value="false" -->
+	<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+	
+	<!-- InstanceParam name="Japanese" type="boolean" value="true" -->
+	<!-- InstanceParam name="menu_index" type="number" value="3" -->
+	<link rel="alternate" type="application/rss+xml" href="mizlab.rdf"/>
+  </head>
+  <body>
+	<div class="top-title">
+	  <span class="top-text">
+		<span class="mizlab">Mizoguchi Lab</span><br/>
+		I.S.I.R., Osaka University<br/>
+	  </span>
+	  <span class="pagelang">
+		
+		
+		<!-- InstanceBeginEditable name="JumpLinkInEnglish" --><a href="lang-of-task-ontology-e.html">English</a><!-- InstanceEndEditable -->
+	  </span>
+	</div>
+	<div class="right-area">
+	  
+
+	  <div class="boxStyle">
+		<h1 class="heading">
+		  <!-- InstanceBeginEditable name="Title" -->タスクオントロジー記述言語<!-- InstanceEndEditable -->
+		</h1>
+		<div class="boxBody">
+		  
+		</div>
+	  </div>
+
+	  <!-- InstanceBeginRepeat name="Paragraph" --><!-- InstanceBeginRepeatEntry -->
+	  <div class="boxStyle">
+		<h2 class="heading">
+		  <!-- InstanceBeginEditable name="ParagraphTitle" --><!-- InstanceEndEditable -->
+		</h2>
+		<div class="boxBody">
+		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>知識ベースシステムを構築する際の原則的な手法がないことが知識の獲得・再利用・共有といった重要課題の解決を阻害する要因になってい
+
+るとの認識から知識工学における「オントロジー」の概念が産まれ、知識獲得・大規模知識ベース・分散問題解決などの基盤技術として様々なアプローチで研究
+
+が進められている。オントロジーに関する研究領域は広範であり、十分に成熟した状態にあるとは言えないので「オントロジー」の一般的な定義を与えることは
+
+非常に難しい。人工知能一般の立場からオントロジーは「概念の明確な体系的記述」であり、知識ベースの立場からは、より目的を意識して「人工システムを構
+
+築する際のビルディングブロックとして用いられる基本概念・語彙の体系」という意味を持っている。</p><p>知識ベースシステムに関する研究では伝統的に「知識として何をどのように準備しておけば、人間の知的行為のどの部分を代行できるのか？」という問題意識のもとで、</p><p>(1)どのようにすれば人間の知識を、容易に知識ベース化できるのか？</p><p>(2)どのようにすれば人間との親和性が高い協調的な問題解決を実現できるか？</p><p>といった問題への回答を模索しつづけてきている。その回答に基盤を与えると期待されるのが人間が平易に理解できる語彙・概念の体系としてのオントロ
+
+ジーという概念である。オントロジーを基礎におくことによって、知識ベースが構築しやすくなり、知識ベースシステム全体の振る舞いも人間にとって合理的で
+
+理解しやすいものになる。つまり，オントロジーの基礎には知識工学の分野で培われてきた「知識」に関する知識があり、それが対象のモデルを人間とコン
+
+ピュータの双方にとって理解可能とするための重要な役割を担っている。人間の認識に素直な対象の「モデル化」の実現が知識工学の根本的課題である。</p><p>オントロジーの一般的構成を考えることはオントロジー工学の基礎を考えるうえで重要な問題である。下の図はオントロジーの役割を直感的に表したものである。</p><div style="text-align:center ">
+
+<img src="../../japanese/topic/ontology/ont-model-2.gif" width="261" height="189"/>
+
+</div><p>図中の上段に現れているモデル化はオントロジーオーサがオントロジーを構築する作業であり、実対象群を概念化し、オントロジーとしてモデル化する。
+
+このモデル化のDR（図中DR(a))を提供するのが最上位のオントロジーであり，「知識一般に関するモデル」として一般にメタオントロジーと呼ばれてい
+
+る.一方，下段のモデル化は個別の実対象をオントロジーのDR(図中DR(b))に従ってモデル化する過程であり，情報処理システムが処理の対象とするの
+
+は通常はこのモデルとなる。オントロジー記述言語が目的とするものは，この図式を適切に捉える枠組みとして機能し，人間の対象に対する認識を適切に反映す
+
+るような十分な質と量オントロジーを蓄積する土台を作り上げることにある。「コンピュータと人間のモデルに対する意味の共有」がメタオントロジーが規定す
+
+る意味論の範囲で実現することになる。このような図式を適切に捉え、２種類のモデル化を支援するためには、オントロジーとモデルの関係を明確に区別し、モ
+
+デル構築者の作業に沿って適切なタイミングで適切な内容の記述支援情報を提供する必要がある。本プロジェクトでは上図に見られるようなオントロジーのリフ
+
+レクティブな構造を支えるオントロジー記述言語の開発を進めている。</p><p>主要論文 (工事中)</p><ol>
+
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-jsai98.ps">問題解決オントロジーの構成-スケジューリングタスクオントロジーを例にして-</a>, 
+
+    人工知能学会誌, Vol.13, No.4, pp.597-608, (1998)</li>
+
+<li>瀬田 和久, 池田 満, 角所 収, 溝口 理一郎:概念レベルプログラミング環境のためのオントロジー記述言語の開発, 人工知能学会全国大会(第十回)論文集, 
+
+    pp.207-210, (1996).</li>
+
+</ol><!-- InstanceEndEditable -->
+		</div>
+	  </div>
+	  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+	  
+	  <div id="w3c">
+		<a href="http://validator.w3.org/check?uri=referer">
+		  <img class="w3c-link" src="images/valid-xhtml11.png" alt="Valid XHTML 1.1!"/>
+		</a>
+		<a href="http://jigsaw.w3.org/css-validator">
+		  <img class="w3c-link" src="images/vcss.gif" alt="Valid CSS!"/>
+		</a>
+		<!--a href="http://www.w3.org/RDF/" title="RDF Resource Description Framework">
+		  <img src="images/rdf_metadata_button.32.gif"
+		  alt="RDF Resource Description Framework Metadata Icon"/>
+		  </a-->
+		<div id="copyright">
+		  Copyright (C) 2004 MIZOGUCHI Laboratory, I.S.I.R., Osaka University. All Rights Reserved.
+		</div>
+	  </div>
+	</div>
+	<div class="leftmenu">
+	  <ul>
+	  
+		<li class="leftmenu-head">
+		  
+		  <a href="index.html">Home</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="about_us.html">溝口研究室について</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="ontology.html">オントロジーについて</a>
+		  
+		</li>
+		
+		<li class="leftmenu-selected">
+		  
+		  <a href="topics_index.html">研究トピック</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="project.html">研究プロジェクト</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="pub-index-jp.html">発表論文</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="http://www.hozo.jp/">オントロジーエディタ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="members.html">構成員</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="meeting.html">国際・国内会議情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="opportunities.html">溝口研に関心のある方へ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="access.html">アクセス情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="link.html">リンク</a>
+		  
+		</li>
+		
+	  </ul>
+	  <div class="last-update">
+		(last update: <!-- #BeginDate format:Ja1 -->06/01/26 <!-- #EndDate -->)
+	  </div>
+	  <div class="google">
+	  <!-- SiteSearch Google -->
+<form method="get" action="http://www.google.co.jp/search">
+<div>
+<a href="http://www.google.co.jp/">
+	<img src="http://www.google.com/logos/Logo_40wht.gif" alt="Google" />
+</a>
+<input type="text" name="q" size="10" maxlength="255" value=""/>
+<input type="hidden" name="hl" value="ja"/>
+<input type="hidden" name="ie" value="Shift_JIS"/>
+<input type="submit" name="btnG" value="GO"/>
+<input type="hidden" name="domains" value="ei.sanken.osaka-u.ac.jp"/><br/>
+<input type="radio" name="sitesearch" value=""/> WWW 
+<input type="radio" name="sitesearch" value="ei.sanken.osaka-u.ac.jp" checked="checked"/> MIZLAB
+</div>
+</form>
+<!-- SiteSearch Google --></div>
+	</div>
+  </body>
+<!-- InstanceEnd --></html>

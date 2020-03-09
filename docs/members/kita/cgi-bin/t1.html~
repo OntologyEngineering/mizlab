@@ -1,0 +1,50 @@
+<form action=http://www.ei.sanken.osaka-u.ac.jp/~kita/cgi-bin/w2.cgi method=POST>
+<p>お名前：<br><input type=text name=お名前 size=24></p>
+<p>E-Mail：<br><input type=text name=email size=32></p>
+<p>HP：<br><input type=text name=HP size=32></p>
+<p>住所：<br>
+<select name=住所 size=1>
+<option>北海道 </option>
+<option>東北</option>
+<option>北陸</option>
+<option>関東</option>
+<option>中部</option>
+<option>関西</option>
+<option>中国</option>
+<option>四国</option>
+<option>九州</option>
+<option>海外／地球以外</option>
+</select></p>
+<p>使用ＰＣ：<br>
+<select name=使用ＰＣ size=1>
+<option>ＮＥＣ</option>
+<option>富士通</option>
+<option>エプソン</option>
+<option>東芝</option>
+<option>ソニー</option>
+<option>ＩＢＭ</option>
+<option>ＤＥＬＬ</option>
+<option>自作／その他</option>
+</select></p>
+<p>ＯＳ：<br>
+<input type=radio value=Windows95 name=OS checked>Windows95 
+<input type=radio value=WindowsNT name=OS>WindowsNT 
+<input type=radio value=MAC name=OS>MAC 
+<input type=radio value=UNIX name=OS>UNIX 
+<input type=radio value=その他 name=OS>その他</p>
+<p>Ｉネット接続：<br>
+<input type=radio name=inet value=モデム checked>モデム 
+<input type=radio name=inet value=ＩＳＤＮ>ＩＳＤＮ 
+<input type=radio name=inet value=常時接続>常時接続 
+<input type=radio name=inet value=その他>その他 </p>
+<p>Ｉネット歴：<br>
+<select name=ネット歴 size=1>
+<option>１年以内</option>
+<option>１から２年</option>
+<option>２から３年</option>
+<option>３から４年</option>
+<option>５年以上</option>
+</select></p>
+<input type="submit" value="送信する">　　<input type="reset" value="書き直す"><br>      
+</form>
+

@@ -1,0 +1,39 @@
+package talkabout;
+
+/**
+ * タイトル:
+ * 説明:
+ * 著作権:   Copyright (c) 2002
+ * 会社名:
+ * @author
+ * @version 1.0
+ */
+
+public class Node {
+    double x;
+    double y;
+
+    double x1;
+    double y1;
+    double x2;
+    double y2;
+
+    Vector child_no = new Vector();
+    int parent_no = -1;
+    boolean selected = false;
+
+    String lbl;
+
+    //座標がノード上であるかどうか
+    boolean on_node(double xx,double yy){
+
+      if(xx>=x1 && xx<=x2 && yy>=y1 && yy<=y2){
+        return true;
+      }
+      else{
+
+        return false;
+      }
+    }
+
+}

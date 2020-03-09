@@ -1,0 +1,54 @@
+<TITLE>Members Mizoguchi Lab</TITLE>
+<H1>MEMBERS of MIZOGUCHI Lab.</H1>
+
+<EM>
+Institute of Scientific and Industrial Research<BR>
+Osaka University<BR>
+8-1 Mihogaoka, Ibaraki, Osaka, 567 Japan<BR>
+Tel.: +81-6-879-8416 - Fax : +81-6-879-2123
+</EM>
+
+<HR>
+<P>
+<H2>STAFF</H2>
+<P>
+<DL>
+<DT> <H3>Professor:</H3>
+     <UL>
+     <LI> <A HREF="miz/overview.html">Dr. Riichiro Mizoguchi</A>
+     </UL>
+<DT> <H3>Associate Professor:</H3>
+     <UL>
+     <LI> <A HREF="ikeda/overview.html">Dr. Mitsuru Ikeda</A>
+     </UL>
+<DT> <H3>Research Associates:</H3>
+     <UL>
+     <LI> <A HREF="kita/overview.html">Mr. Yoshinobu Kitamura</A>
+     <LI> <A HREF="seta/overview.html">Dr. Kazuhisa Seta</a>
+     <LI> <A HREF="wendy/overview.html">Dr. Weiqin Chen (JSPS)</A>
+</UL>
+<DT> <H3>Former Staff:</H3>
+     <UL>
+     <LI> <A HREF="http://www.slp.cs.ritsumei.ac.jp/~yama/overview.html">
+	Dr. Yoichi Yamashita (April, 1984 - March, 1997, Currently Ritsumekan University)</A>
+
+     <LI> <A HREF="/OB/johan/overview.html">Dr. Johan Vanwelkenhuysen (April, 1994 - April, 1995)</A>
+     </UL>
+
+<DT> <H3>Secretary:</H3>
+     <UL>
+     <LI> <A HREF="naomi/overview.html">Miss Bano Naomi</A>
+     </UL>
+</DL>
+
+In addition to this staff, this laboratory includes many master's
+course and doctoral <A HREF="students.html">students</A> and a few <A
+HREF="guest-researchers.html">guest researchers</A>. In principle,
+each research associate is responsible for a particular project. He
+aids one or more students to contribute to the project. Research
+project teams are described <A HREF="/projects/project-groups.html">here</A>.
+<HR>
+<P>
+<H5><A HREF="http://www.ei.sanken.osaka-u.ac.jp/.index.html">MizLab Homepage</A></H5>
+
+

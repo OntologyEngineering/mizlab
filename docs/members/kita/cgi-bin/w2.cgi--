@@ -1,0 +1,87 @@
+#! /usr/local/bin/perl
+require 'jcode.pl';
+
+#-----------------------------------------------------
+#ログを保存するデータファイル名
+$datafile = 'webhandler.dat';
+#-----------------------------------------------------
+#あなたのメールアドレスを指定します。
+#このアドレスにメールが届きます
+$mailto = 'kita@ei.sanken.osaka-u.ac.jp';
+#-----------------------------------------------------
+#送信後あなたのページに戻るためのホームページアドレス
+$homepage = 'http://www.ei.sanken.osaka-u.ac.jp/~kita/';
+#-----------------------------------------------------
+#送られてきたメールの題名を設定
+$subject = 'Test';
+#-----------------------------------------------------
+#sendmailのパス　利用できないプロバイダは '' にする。
+$sendmail = '';
+#-----------------------------------------------------
+#未記入を許可しない項目名（フィールド名）をいくつでも
+#送信されたフォームの項目に次の項目名(nameプロパティ)
+#があり、訪問者が未記入ならば送信を中止します。
+#$CHECK[0] = 'お名前';
+#$CHECK[1] = 'email';
+#$CHECK[2] = 'ご意見';
+#$CHECK[3] = 'ご希望';
+#$CHECK[4] = '内容';
+#-----------------------------------------------------
+#ログを集計する最大件数
+$max = 1000;
+#----------------------------------------------------------
+#各項目　最大表示行数 0にするとすべてを表示
+$max_vew = 20;
+#----------------------------------------------------------
+#グラフの最大表示幅（ピクセル）
+$graphvew = 200;
+#-----------------------------------------------------
+#ログを集計しないフィールド名
+#訪問者からのメッセージなどは毎回異なる為集計の意味がない。
+#（メールには送信される）
+#$NO_LOG[0] = 'コメント';
+#$NO_LOG[1] = 'ご意見';
+#$NO_LOG[2] = 'ご希望';
+#$NO_LOG[3] = 'メモ';
+#$NO_LOG[4] = 'お名前';
+#$NO_LOG[5] = 'name';
+#$NO_LOG[6] = 'email';
+#$NO_LOG[7] = 'HP';
+#=======================================================================================
+#			ここからは変更する必要はありません
+#=======================================================================================
+$ENV{'TZ'} = "JST-9"; 
+#@DATE = localtime(time);
+$DATE[5] += 1900;
+$DATE[4] = sprintf("%02d",$DATE[4] + 1);
+$DATE[3] = sprintf("%02d",$DATE[3]);
+$DATE[2] = sprintf("%02d",$DATE[2]);
+$DATE[1] = sprintf("%02d",$DATE[1]);
+$DATE[6] = ('日','月','火','水','木','金','土') [$DATE[6]];
+$DATE = "$DATE[5]年$DATE[4]月$DATE[3]日($DATE[6])";
+$DATE_TIME = "$DATE[5]年$DATE[4]月$DATE[3]日($DATE[6]) $DATE[2]時$DATE[1]分";
+##$hostaddr = &domain_name;
+if ($ENV{'REQUEST_METHOD'} eq "POST") {
+	read(STDIN, $QUERY_DATA, $ENV{'CONTENT_LENGTH'});
+##@pairs = split(/&/,$QUERY_DATA);
+##if (!($email =~ /.+\@.+\..+/)) { $email = 'nobody@xxx.xxx.or.jp'; }
+##$count = @NAME;
+
+$msg = 'ありがとうございました。正常に送信しました。'; 
+	print "Content-type: text/html\n";
+	print "\n";
+	print "<html><head><title>formmail</title></head>\n";
+	print "<body bgcolor=#FFFFFF>\n";
+	print "<div align=center><center>\n";
+	print "<p>　</p><p>　</p>\n";
+	print "<table border=5 width =70%><tr>\n";
+		print "<td align=center><p>　</p>\n";
+		print "<p><font size=6><b><i>$msg</i></b></font></p>";
+		print "<p><a href=$homepage>[ホームに戻る]</font></a></p><p>　</p></td>\n";
+	print "</tr></table>\n";
+	print "</center></div>\n";
+	print "<p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>WebHandler Terra</a></font></p>\n";
+	print "</body></html>\n";
+	exit;
+}
+

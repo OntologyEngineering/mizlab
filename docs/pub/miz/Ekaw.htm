@@ -1,0 +1,252 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./Ekaw.files/filelist.xml">
+<title>Construction and Deployment of a Plant Ontology</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>R. Mizoguchi</o:Author>
+  <o:LastAuthor>R. Mizoguchi</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2000-12-26T08:18:00Z</o:Created>
+  <o:LastSaved>2000-12-26T08:18:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Company>I.S.I.R., Osaka Univ.</o:Company>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Courier;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"\@ＭＳ 明朝";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Century;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.title, li.title, div.title
+	{mso-style-name:title;
+	mso-style-next:author;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:23.0pt;
+	margin-left:0mm;
+	text-align:center;
+	text-indent:11.35pt;
+	page-break-before:always;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-hyphenate:none;
+	tab-stops:14.2pt;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.author, li.author, div.author
+	{mso-style-name:author;
+	mso-style-next:address;
+	margin-top:0mm;
+	margin-right:0mm;
+	margin-bottom:11.0pt;
+	margin-left:0mm;
+	text-align:center;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";}
+p.address, li.address, div.address
+	{mso-style-name:address;
+	mso-style-next:email;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";}
+p.email, li.email, div.email
+	{mso-style-name:email;
+	mso-style-next:abstract;
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	text-indent:11.35pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Courier;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";}
+p.abstract, li.abstract, div.abstract
+	{mso-style-name:abstract;
+	mso-style-next:標準;
+	margin-top:30.0pt;
+	margin-right:10.0mm;
+	margin-bottom:6.0pt;
+	margin-left:10.0mm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:9.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"ＭＳ 明朝";
+	mso-bidi-font-family:"Times New Roman";}
+ /* Page Definitions */
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:99.25pt 30.0mm 30.0mm 30.0mm;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:18.0pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body lang=JA link=blue vlink=purple style='tab-interval:42.0pt;text-justify-trim:
+punctuation'>
+
+<div class=Section1 style='layout-grid:18.0pt'>
+
+<p class=title><span lang=EN-US style='font-family:"Times New Roman"'>Construction
+and Deployment of a Plant Ontology<o:p></o:p></span></p>
+
+<p class=author><span lang=EN-US style='font-family:"Times New Roman"'>Riichiro
+Mizoguchi, Kouji Kozaki, Toshinobu Sano and Yoshinobu Kitamura<o:p></o:p></span></p>
+
+<p class=address><span lang=EN-US style='font-family:"Times New Roman"'>ISIR,
+Osaka University<br>
+8-1 Mihogaoka, Ibaraki, Osaka, 567-0047 Japan<o:p></o:p></span></p>
+
+<p class=email><span lang=EN-US style='font-family:"Times New Roman"'>{miz, kozaki,
+sanop, <a href="mailto:kita%7D@ei.sanken.osaka-u.ac.jp">kita}@ei.sanken.osaka-u.ac.jp</a><o:p></o:p></span></p>
+
+<p class=abstract><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-family:"Times New Roman"'>Abstract.</span></b><span lang=EN-US
+style='font-family:"Times New Roman"'> Although the necessity of an ontology
+and ontological engineering is well-understood, there has been few success
+stories about ontology construction and its deployment to date. This paper
+presents an activity of ontology construction and its deployment in an interface
+system for an oil-refinery plant operation which has been done under the
+umbrella of Human-Media Project for four years. It also describes the reasons
+why we need an ontology, what ontology we built, what environment we used for
+building the ontology and how the ontology is used in the system. The interface
+has been developed intended to establish a sophisticated technology for
+advanced interface for plant operators and consists of several agents. The
+system has been implemented and preliminary evaluation has been done
+successfully. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,94 @@
+WEIQIN CHEN
+
+PERSONAL DETAILS
+
+Name:		Weiqin Chen
+Address:             Department of Knowledge Systems
+                           Institute of Scientific and Industrial Research
+                           Osaka University,
+                           8-1 Mihogaoka, Ibaraki, Osaka 567-0047, JAPAN
+Phone:	 	+81-6-879-8416
+Fax: 		+81-6-879-2123
+E-mail: 		wendy@ei.sanken.osaka-u.ac.jp
+URL: 		http://www.ei.sanken.osaka-u.ac.jp/members/wendy/
+
+EDUCATION
+
+Ph.D.	Department of Computer Science, Institute of Mathematics, Chinese Academy of Sciences, Beijing, China, September 1997.
+Thesis: "Research on Automatic Generation of ITSs and Chinese Speech Synthesis". 
+
+M.S.	Department of Computer Science and Engineering,
+Taiyuan University of Technology, Taiyuan, Shanxi, China, April 1994.
+Thesis: "Design and Implementation of an Expert System Shell in Power Systems"
+
+B.S. 	Department of Computer Science, Shandong University, Jinan, Shandong, China, July 1991.
+
+PROFESSIONAL ACTIVITIES
+
+Jan. 1997--Now	Post-doctoral researcher, Fellowship of Japan Society for the Promotion of Sciences(JSPS). Mizoguchi Laboratory, Institute of Scientific and Industrial Research, Osaka University, Japan. Research on Ontology-based Computer-Based Training(CBT) authoring tool. The aim of this project is to construct a task ontology, which helps to model training knowledge and provides guideline for the construction of CBT systems.
+
+Sept. 1994--July 1996	Research assistant, Department of Computer Science, Beijing, China. Designed and programmed the tool for automatic generation of intelligent tutoring systems. Its aim was to build a knowledge-based tool to generate Intelligent Tutoring Systems automatically. 
+
+May 1992--August 1993	Research assistant, Department of Computer Science and Engineering, Taiyuan, China. Designed and programmed the electronic switches operation expert system. In this project we implemented a blackboard-based expert system with Prolog. 
+
+
+
+PUBLICATIONS
+
+1. "Ontology Issues in ITS Authoring Tool", accepted by ECAI Workshop on Model Based Reasoning for Intelligent Education Environments. Brighton, UK, August 23-28, 1998.
+2. "An Ontology-based ITS Authoring Tool", submitted to ICCE98, Beijing, China, Oct. 14-18, 1998.
+3. "A Tool for Automatic Generation of Multimedia ICAI Systems", Prof. AIED97, Kobe, Japan. Aug. 23-28, 1997.
+4. "Chinese Speech Synthesis By Multiwavelets", ICCPOL'97, HongKong, April 2-4, 1997.
+5. "From Expert System EOSES to Intelligent Tutoring System EOSITS", The 4th Chinese Joint Conference on Artificial Intelligence, Beijing, China. Oct. 15-17, 1996.
+6. "To Improve HI-KONGZI Using Qualitative Techniques", ITS'96 Workshop on the Role of Qualitative Reasoning Techniques in Intelligent Tutoring Systems, Montreal, Canada, June 10-14, 1996.
+7. "Hypermedia ICAI systems", Proc. of the 2nd Intelligent Interface and Application Congress, Weihai, China. July 24-28, 1995.
+8. "The Design and Implementation of Inference Engine Based on Meta-knowledge and Blackboard", Collected Works of Computer Application, pp. 30-34, Xinan Normal University Publisher, 1995.
+9. "The Design and Implementation of EOSES", Proc. of PACES'95, Huangshan, China.  May 15-18, 1995.
+10. "Interpreting Mechanism in Expert System and its Implementation", Journal of Taiyuan University of Technology, 1994, 25(3).
+
+LANGUAGES
+
+TOEFL--640 (8/3/1996)
+Beginning Japanese
+
+RESEARCH INTERESTS
+
+Ontology Theory and Applications
+Intelligent Tutoring Systems and Authoring Tools
+Adaptive Interface
+Knowledge Systems
+Artificial Intelligence
+
+SKILLS
+
+Computers: 		PC computer, Sun workstation, Macintosh
+Operator Systems: 	MS-DOS, UNIX, Microsoft Windows
+Languages: 		C, C++, Prolog, Lisp
+Network : 		Windows NT Network, Internet
+
+REFERENCES
+
+Prof. Weiming Lu
+Director
+Department of Computer Science
+Institute of mathematics
+Chinese Academy of Sciences
+Beijing, 100080, China
+Tel: 86-10-62541849
+Email: wmlu@math20.math.ac.cn
+
+Prof. Xueli Yu
+Department of Computer Science and Engineering
+Taiyuan University of Technology
+Taiyuan, 030024, Shanxi, China
+
+Email: xlyu@tyutsvr.tyut.edu.cn
+
+Prof. Jianxiang Lin
+CAI Laboratory
+Center of Educational Technology
+Peking University
+Beijing, 100871, China
+Tel: 86-10-62755803
+Email: linjx@pku.edu.cn
+

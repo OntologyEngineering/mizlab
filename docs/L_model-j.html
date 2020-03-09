@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mizlab homepage template.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+	<!-- InstanceBeginEditable name="doctitle" --><title>非単調推論を用いた学習者モデル構築手法</title><!-- InstanceEndEditable -->
+	
+	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	
+	
+	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
+	
+	<!-- InstanceParam name="Toppage" type="boolean" value="false" -->
+	<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+	
+	<!-- InstanceParam name="Japanese" type="boolean" value="true" -->
+	<!-- InstanceParam name="menu_index" type="number" value="3" -->
+	<link rel="alternate" type="application/rss+xml" href="mizlab.rdf"/>
+  </head>
+  <body>
+	<div class="top-title">
+	  <span class="top-text">
+		<span class="mizlab">Mizoguchi Lab</span><br/>
+		I.S.I.R., Osaka University<br/>
+	  </span>
+	  <span class="pagelang">
+		
+		
+		<!-- InstanceBeginEditable name="JumpLinkInEnglish" --><a href="L_model-e.html">English</a><!-- InstanceEndEditable -->
+	  </span>
+	</div>
+	<div class="right-area">
+	  
+
+	  <div class="boxStyle">
+		<h1 class="heading">
+		  <!-- InstanceBeginEditable name="Title" -->非単調推論を用いた学習者モデル構築手法<!-- InstanceEndEditable -->
+		</h1>
+		<div class="boxBody">
+		  
+		</div>
+	  </div>
+
+	  <!-- InstanceBeginRepeat name="Paragraph" --><!-- InstanceBeginRepeatEntry -->
+	  <div class="boxStyle">
+		<h2 class="heading">
+		  <!-- InstanceBeginEditable name="ParagraphTitle" --><!-- InstanceEndEditable -->
+		</h2>
+		<div class="boxBody">
+		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>知識を円滑に伝達するためには，伝達相手の状況を十分に認識した上でその伝達方法を決定する必要がある。計算機を用いた教育においては，
+
+いかに適切に学習者の状態を把握するかということが，システムの能力を左右すると言っても過言ではない．知識伝達の対象である人間とコミュニケートして相
+
+手の理解状況を判定し，その情報を教育システムの内部に捉える役割を担っているのが学習者モデルである．</p><p>本研究の目的は学習者モデルのための高機能・汎用な推論メカニズムを設計することである。基本的な枠組みは以下のような人間の推論制御構造に基づいている。</p><p>人間は推論の流を操作し枝刈りするための様々な仮定を立てながら問題解決を行なっている。そして，その後の過程において推論続行を阻害する要素が現れると，過去に立てた仮定を修正しながら推論の流れを制御すること柔軟でかつ一貫性を保った問題解決を可能とする．</p><p>このような問題解決の制御は，</p><ol>
+
+<li>推論プロセスの各時点で様々な仮定を立てて</li>
+
+<li>それらの仮定から推論データを導き，</li>
+
+<li>何らかの矛盾が検出されると</li>
+
+<li>その原因となっている仮定の集合を修正することで矛盾を解消し，</li>
+
+<li>問題解決を続行する，</li>
+
+</ol><p>という仮説推論の枠組を適用することで実現することができる．</p><p>本研究では，仮説推論の枠組みであるATMSをベースとして学習者モデル推論に柔軟性をもたらす制御を推論プロセスの各時点において立てる仮定の間
+
+の矛盾とその解消として捉えてメカニズムを定式化し，汎用性と柔軟性，そして高いモデル構築能力を兼ね備えた学習者モデル構築アーキテクチャを構築した。</p><p>主要論文</p><ol>
+
+<li>Yasuyuki Kono, Mitsuru Ikeda, and Riichiro Mizoguchi::THEMIS: A Nonmonotonic 
+
+    Inductive Student Modeling System, J. of AI in Education, Vol.5, No.3, pp.371-413,1994.</li>
+
+<li>Mitsuru Ikeda, Yasuyuki Kono and Riichiro Mizoguchi: Nonmonotonic Model 
+
+    Inference --A Formalization of Student Modeling, Proc. of the 13th International 
+
+    Joint Conference on Artificial Intelligence (IJCAI 93), pp.467-473, 1993</li>
+
+<li>河野恭之, 時森健夫, 池田満, 野村康雄, 溝口理一郎 : 非単調性の定式化に基づく学習者モデル構築方式, 人工知能学会誌,8(1993),488-498.</li>
+
+<li>池田満，溝口理一郎，角所収 : 学生モデル記述言語SMDLと学生モデルの帰納推論アルゴリズムSMIS, 電子情報通信学会論文誌,J72-DI(1989),112-120.</li>
+
+</ol><!-- InstanceEndEditable -->
+		</div>
+	  </div>
+	  <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
+	  
+	  <div id="w3c">
+		<a href="http://validator.w3.org/check?uri=referer">
+		  <img class="w3c-link" src="images/valid-xhtml11.png" alt="Valid XHTML 1.1!"/>
+		</a>
+		<a href="http://jigsaw.w3.org/css-validator">
+		  <img class="w3c-link" src="images/vcss.gif" alt="Valid CSS!"/>
+		</a>
+		<!--a href="http://www.w3.org/RDF/" title="RDF Resource Description Framework">
+		  <img src="images/rdf_metadata_button.32.gif"
+		  alt="RDF Resource Description Framework Metadata Icon"/>
+		  </a-->
+		<div id="copyright">
+		  Copyright (C) 2004 MIZOGUCHI Laboratory, I.S.I.R., Osaka University. All Rights Reserved.
+		</div>
+	  </div>
+	</div>
+	<div class="leftmenu">
+	  <ul>
+	  
+		<li class="leftmenu-head">
+		  
+		  <a href="index.html">Home</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="about_us.html">溝口研究室について</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="ontology.html">オントロジーについて</a>
+		  
+		</li>
+		
+		<li class="leftmenu-selected">
+		  
+		  <a href="topics_index.html">研究トピック</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="project.html">研究プロジェクト</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="pub-index-jp.html">発表論文</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="http://www.hozo.jp/">オントロジーエディタ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="members.html">構成員</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="meeting.html">国際・国内会議情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="opportunities.html">溝口研に関心のある方へ</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="access.html">アクセス情報</a>
+		  
+		</li>
+		
+		<li class="leftmenu-head">
+		  
+		  <a href="link.html">リンク</a>
+		  
+		</li>
+		
+	  </ul>
+	  <div class="last-update">
+		(last update: <!-- #BeginDate format:Ja1 -->06/01/26 <!-- #EndDate -->)
+	  </div>
+	  <div class="google">
+	  <!-- SiteSearch Google -->
+<form method="get" action="http://www.google.co.jp/search">
+<div>
+<a href="http://www.google.co.jp/">
+	<img src="http://www.google.com/logos/Logo_40wht.gif" alt="Google" />
+</a>
+<input type="text" name="q" size="10" maxlength="255" value=""/>
+<input type="hidden" name="hl" value="ja"/>
+<input type="hidden" name="ie" value="Shift_JIS"/>
+<input type="submit" name="btnG" value="GO"/>
+<input type="hidden" name="domains" value="ei.sanken.osaka-u.ac.jp"/><br/>
+<input type="radio" name="sitesearch" value=""/> WWW 
+<input type="radio" name="sitesearch" value="ei.sanken.osaka-u.ac.jp" checked="checked"/> MIZLAB
+</div>
+</form>
+<!-- SiteSearch Google --></div>
+	</div>
+  </body>
+<!-- InstanceEnd --></html>

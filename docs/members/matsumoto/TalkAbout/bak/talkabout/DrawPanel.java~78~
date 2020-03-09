@@ -1,0 +1,214 @@
+package talkabout;
+
+import java.awt.*;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.event.MouseMotionListener;
+import java.util.Vector;
+import java.lang.*;
+
+/**
+ * タイトル:
+ * 説明:
+ * 著作権:   Copyright (c) 2002
+ * 会社名:
+ * @author
+ * @version 1.0
+ */
+
+public class DrawPanel
+extends Panel
+implements MouseListener, MouseMotionListener {
+  BorderLayout borderLayout1 = new BorderLayout();
+  Frame f = new Frame();
+  ClearDialog dlg;
+  talkabout base;
+  ControlPanel control;
+
+  Vector nodes = new Vector(); //ノードのベクター
+  Vector edges = new Vector(); //エッジのベクター
+
+  Graphics g;
+
+  public DrawPanel() {
+    try {
+      jbInit();
+      base = new talkabout();
+      base.drawpanel = this;
+
+    }
+    catch(Exception ex) {
+      ex.printStackTrace();
+    }
+  }
+  void jbInit() throws Exception {
+    this.setFont(new java.awt.Font("SansSerif", 0, 12));
+    this.setLayout(borderLayout1);
+    addMouseListener(this);
+    addMouseMotionListener(this);
+  }
+
+  public void mouseClicked(MouseEvent e) {
+
+  }
+  public void mousePressed(MouseEvent e) {
+    double x = e.getX();
+    double y = e.getY();
+    int selected_i = -1;
+
+    for(int i = 0;i < nodes.size();i++){
+      Node n = (Node)nodes.elementAt(i);
+      if(n.on_node(x,y)){
+        selected_i = i;
+      }
+      n.selected = false;
+      nodes.setElementAt(n,i);
+    }
+
+    if(selected_i >= 0){
+      Node n = (Node)nodes.elementAt(selected_i);
+      n.selected = true;
+      nodes.setElementAt(n,selected_i);
+      control.txtWord.setText(n.lbl);
+      control.btnArrow.setLabel("↓");
+    }
+    else{
+      control.txtWord.setText("");
+    }
+
+    paint(getGraphics());
+
+
+
+  }
+  public void mouseReleased(MouseEvent e) {
+    double x = e.getX();
+    double y = e.getY();
+    int selected_i = -1;
+    for(int i = 0;i < nodes.size();i++){
+      Node n = (Node)nodes.elementAt(i);
+      if(n.on_node(x,y)){
+        selected_i = i;
+      }
+      n.selected = false;
+    }
+    if(selected_i >= 0){
+      Node n = (Node)nodes.elementAt(selected_i);
+      n.selected = true;
+      if(e.getX()<0){
+        n.x = 0;
+      }
+      if(e.getX()>this.getSize().width){
+        n.x = this.getSize().width;
+      }
+      if(e.getY()<0){
+        n.y = 0;
+      }
+      if(e.getY()>this.getSize().height){
+        n.y = this.getSize().height;
+      }
+      if(n.parent_no>=0){
+        Node np = (Node)nodes.elementAt(n.parent_no);
+        if(e.getY()<=np.y){
+          n.y = np.y +20;
+        }
+      }
+      if(n.child_no>=0){
+        Node nc = (Node)nodes.elementAt(n.child_no);
+        if(e.getY()>=nc.y){
+          n.y = nc.y - 20;
+        }
+      }
+
+      nodes.setElementAt(n,selected_i);
+      paint(getGraphics());
+    }
+
+  }
+  public void mouseEntered(MouseEvent e) {
+
+  }
+  public void mouseExited(MouseEvent e) {
+
+  }
+  public void mouseDragged(MouseEvent e) {
+    double x = e.getX();
+    double y = e.getY();
+    int selected_i = -1;
+
+    for(int i = 0;i < nodes.size();i++){
+      Node n = (Node)nodes.elementAt(i);
+      if(n.on_node(x,y)){
+        selected_i = i;
+      }
+      n.selected = false;
+    }
+    if(selected_i >= 0){
+      Node n = (Node)nodes.elementAt(selected_i);
+      n.selected = true;
+      n.x = e.getX();
+      n.y = e.getY();
+      nodes.setElementAt(n,selected_i);
+      paint(getGraphics());
+    }
+
+  }
+  public void mouseMoved(MouseEvent e) {
+
+  }
+
+  final Color selectColor = Color.red;
+  final Color nodeColor = new Color(250, 220, 100);
+  //描画
+  public void paint(Graphics g){
+    FontMetrics fm = g.getFontMetrics();
+    g.clearRect(0,0,this.getWidth(),this.getHeight());
+
+/*    for(int i = 0;i < edges.size();i++){
+      Edge eg = (Edge)edges.elementAt(i);
+      Node nfrom = (Node)nodes.elementAt(eg.from);
+      int x1 = (int)nfrom.x;
+      int y1 = (int)nfrom.y;
+      Node nto = (Node)nodes.elementAt(eg.to);
+      int x2 = (int)nto.x;
+      int y2 = (int)nto.y;
+      g.drawLine(x1,y1,x2,y2);
+    }*/
+
+    //ノードの描画
+    for(int i = 0;i < nodes.size();i++){
+      Node n = (Node)nodes.elementAt(i);
+
+      //エッジの描画
+      for(int j=0;j<nodes.size();j++){
+        Node nc = (Node)nodes.elementAt(j);
+        if(nc.parent_no==i){
+          g.drawLine((int)n.x,(int)n.y,(int)nc.x,(int)nc.y);
+        }
+      }
+
+      double w = fm.stringWidth(n.lbl)+10;
+      double h = fm.getHeight()+5;
+      n.x1 = n.x - w/2;
+      n.y1 = n.y - h/2;
+      n.x2 = n.x + w/2;
+      n.y2 = n.y + h/2;
+      if(n.selected){
+        g.setColor(selectColor);
+      }
+      else{
+        g.setColor(nodeColor);
+      }
+      g.fillRect((int)n.x1,(int)n.y1,(int)w,(int)h);
+      g.setColor(Color.black);
+      g.drawRect((int)n.x1,(int)n.y1,(int)w-1,(int)h-1);
+      double sx = n.x - (w-10)/2;
+      double sy = n.y - (h-5)/2 + fm.getAscent();
+      g.drawString(n.lbl,(int)sx,(int)sy);
+
+      nodes.setElementAt(n,i);
+    }
+  }
+
+
+}

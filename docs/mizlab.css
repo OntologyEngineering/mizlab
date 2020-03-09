@@ -1,0 +1,177 @@
+BODY {
+	font-size:15px;
+	background: #EEEEEE;
+	width:800px;
+}
+
+A {
+	color: blue;
+}
+A:visited {
+	color: blue;
+}
+A:active {
+	color: blue;
+}
+A:hover {
+	color: #886666;
+}
+
+.pagelang A {
+	font-size:16px;
+	position: relative;
+	top: 28px;
+	right:5px;
+	color: white;
+}
+.pagelang A:visited {
+	color: white;
+}
+
+/* メニュー ******************************/
+
+.leftmenu A {   /*リンク文字*/
+	color:black;
+	border-left: 12px solid #AA8888;
+	text-decoration:none;
+	padding: 2px;
+	font-family  : Tahoma;
+	height:100%;
+	display : block;
+}
+
+.leftmenu A:visited {  /*訪問済リンクの色*/
+	color : black;
+} 
+
+.leftmenu A:active { /*アクティブ中リンク色*/
+	color: black;
+}
+
+.leftmenu A:hover { /*オンマウスのリンク文字の色*/
+	color:black;
+	border-left: 12px solid #886666;
+	text-decoration:underline;
+	background-color: #CCCCCC;
+}
+
+.leftmenu-selected {
+	background-color: #CCCCCC;
+	text-decoration:underline;
+}
+
+.leftmenu-head {
+}
+
+.leftmenu {
+	width: 180px;
+}
+
+.leftmenu ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.leftmenu li {
+  list-style: none;
+  text-align: left;
+  line-height: 1.5;
+  padding-left: 10px;
+}
+
+/* google ******************************/
+.google {
+	margin-top: 30px;
+	text-align:center;
+}
+.google IMG {
+	border-width: 0px;
+}
+.google A {
+	border-width: 0px;
+	display : block;
+}
+.google A:hover {
+	background: #EEEEEE;
+	border-width: 0px;
+}
+
+/*****************************************/
+
+.whats-new-date{
+	font-family: "Times New Roman";
+	font-style: italic;
+	padding-right: 5px;
+}
+
+.top-text {
+	font-size:20px;
+	font-family: "Monotype Corsiva" "Arial";
+	margin-right:2px;
+	display:block;
+}
+.mizlab {
+	font-family: "Times New Roman" "Arial";
+	font-weight: bold;
+	font-size:36px;	
+}
+
+.top-title {
+	background: url("images/ys-06.jpg") no-repeat;
+	width: 800px;
+	height: 130px;
+	padding-top:20px;
+	text-align:right;
+}
+
+.last-update {
+	line-height: 1.5;	
+	text-align: center;
+}
+
+.right-area{
+	width: 600px;
+	float: right;
+}
+
+.boxStyle {
+	background-image: url(images/boxside.gif);
+	background-repeat: repeat-y;
+	margin: 0px;
+	width:100%; /*for IE bug */
+}
+
+.heading {
+	background: url(images/boxtop.gif) no-repeat top left;
+	margin: 0px;
+	padding: 15px 10px 5px 10px; 
+	font-weight: bold; 
+	line-height: 1em;
+	font-size: 20px;
+	font-family: "Arial";
+	/*border-bottom: 1px solid gray;*//*text-decoration:underline;*/
+	width: 580px;
+}
+
+.boxBody {
+	background: url(images/boxbottom.gif) no-repeat bottom right;
+	margin: 0px;
+	padding: 5px 15px 15px 15px;
+}
+
+/********************************/
+
+#w3c {
+	text-align:right;
+	
+}
+.w3c-link {
+	border:0px;
+	height: 31px;
+	width:88px;
+}
+
+#copyright {
+	font-size: 12px;
+	text-align:right;
+}

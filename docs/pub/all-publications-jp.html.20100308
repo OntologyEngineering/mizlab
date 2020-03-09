@@ -1,0 +1,3831 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>溝口研究室 発表論文リスト</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+  <meta content="ontology,ontological engineering,knowledge engineering"
+ name="Keywords">
+  <meta content="オントロジー,オントロジー工学,知識工学" name="Keywords">
+  <script type="text/javascript" src="/script.js"></script>
+  <style type="text/css">
+
+<!--
+.style1 {font-size: 16px}
+-->
+
+  </style>
+</head>
+<body>
+<h1>溝口研 発表論文リスト</h1>
+<p><span lang="EN-US">Last modified: 2010/2/8
+</span></p>
+<hr size="2" width="100%" align="center">
+<ul style="margin-top: 0pt; margin-bottom: 0pt;">
+  <li><a href="#2010">2010</a>
+  <li><a href="all-publications-jp.html#2009">2009</a>, <a href="#2008">2008</a>,
+&nbsp;<a href="#2007">2007</a>, <a href="#2006">2006</a>, <a
+ href="#2005">2005</a>,&nbsp;<a href="#2004">2004,</a>&nbsp; <a
+ href="#2003">2003,</a> <a href="#2002">2002</a>, <a href="#2001">2001</a>,
+    <a href="#2000">2000</a></li>
+  <li><a href="#1999">1999</a>, <a href="#1998">1998,</a> <a
+ href="#1997">1997,</a>&nbsp; <a href="#1996">1996,</a> <a
+ href="#1995">1995,</a> <a href="#1994">1994</a>, <a href="#1993">1993,</a>
+    <a href="#1992">1992</a>, <a href="#1991">1991,</a>&nbsp; <a
+ href="#1985">1985-1990</a></li>
+</ul>
+
+<hr>
+<h3><a name="2010" id="2010"><i><span xml:lang="EN-US" lang="EN-US">2010</span></i></a></h3>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">オントロジーに基づく学習教授活動のデザイン<br />
+<b>Authors: </b>溝口 理一郎，林 雄介<br />
+<b>Reference: </b>人工知能学会誌, Vol. 25, No. 2, (in press), 2010.<br />
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Strategy-centered Modeling for Better Understanding of Learning/Instructional Theories<br />
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br />
+<b>Reference: </b>International journal of Knowledge and web Intelligence, Vol. 1, No. 3/4, (in press), 2010.<br />
+</p>
+
+<hr>
+<h3><a name="2009" id="2009"></a><i><span lang="EN-US" xml:lang="EN-US">2009</span></i></h3>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">The water falls but the waterfall does not fall: New perspectives on objects, processes and events<br>
+<b>Authors:</b> Antony Galton and Riichiro Mizoguchi<br>
+<b>Reference:</b> Journal of Applied Ontology, Vol. 4, No. 2, pp. 71-107, 2009.<br>
+<a href="http://dx.doi.org/10.3233/AO-2009-0067">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">A Functional Ontology of Artifacts<br>
+<b>Authors:</b> Riichiro Mizoguchi and Yoshinobu Kitamura<br>
+<b>Reference:</b> The Monist - An Int'l Quarterly J. of General Philosophical Inquiry, Vol. 92, No.3, pp.387-402, July, 2009.<br>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Semantic Web Technologies for e-learning<br>
+<b>Authors: </b>Darina Dicheva, Riichiro Mizoguchi and Jim Greer<br>
+<b>Reference: </b>IOS press, Amsterdam, The Netherlands, Nov., 2009.<br>
+<a href="http://www.iospress.nl/loadtop/load.php?isbn=9781607500629">Book information (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Inside a Theory-aware Authoring System<br>
+<b>Authors: </b>Riichiro Mizoguchi, Yusuke Hayashi and Jacqueline Bourdeau<br>
+<b>Reference: </b>Semantic Web Technologies for E-learning, IOS press, Amsterdam, The Netherlands, pp. 59-76, Nov., 2009.<br>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">An Ontology-Based Test Generation System<br>
+<b>Authors: </b>Larisa N. Soldatova and Riichiro Mizoguchi<br>
+<b>Reference: </b>Semantic Web Technologies for E-learning, IOS press, Amsterdam, The Netherlands, pp. 96-110, Nov., 2009.<br>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">The foundations of a theory-aware authoring tool for CSCL design<br>
+<b>Authors: </b>Seiji Isotani, Riichiro Mizoguchi, Akiko Inaba and Mitsuru Ikeda<br>
+<b>Reference: </b>International Journal of Computers and Education, (in press), 2009.<br>
+<a href="http://dx.doi.org/10.1016/j.compedu.2009.09.010">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Distributed reasoning with ontologies and rules in order-sorted logic programming<br>
+<b>Authors: </b><a href="http://kc.nict.go.jp/kaneiwa/index-j.html">Ken Kaneiwa</a> and Riichiro Mizoguchi<br>
+<b>Reference: </b>Journal of Web Semantics: Science, Services and Agents on the World Wide Web, 7(3), pp. 252-270, 2009.<br>
+<a href="http://dx.doi.org/10.1016/j.websem.2009.05.003">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Using Ontological Engineering to Organize Learning/Instructional Theories and Build a Theory-Aware Authoring System<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>International Journal of Artificial Intelligence in Education, Vol. 19, No. 2, pp. 211-252, 2009.<br>
+<a href="http://iaied.org/pub/1152/">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">An Ontological Approach to Support Teachers in Designing Instruction Using ICT<br>
+<b>Authors: </b>Toshinobu Kasai, Kazuo Nagano, and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of 17th International Conference of Computers in Education (ICCE'09), pp. 11-18, HongKong, China, Nov. 30-Dec. 4, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kasai/ICCE2009_kasai.pdf">Article (PDF, 652KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Towards Better Unsderstanding of Learning/Instructional Design Knowledge with Strategy-centered Structuring<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of 17th International Conference of Computers in Education (ICCE'09), pp. 91-98, HongKong, China, Nov. 30-Dec. 4, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ICCE2009_hayashi.pdf">Article (PDF, 548KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">An Ontology Engineering Approach to the Realization of Theory-Driven Group Formation<br>
+<b>Authors: </b>Seiji Isotani, Akiko Inaba, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference: </b>International Journal of Computer-Supported Collaborative Learning, 4(4), pp. 445-478, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/isotani/isotani_CSCLJournal_draft.pdf">Article(PDF, Final draft)</a>
+<a href="http://dx.doi.org/10.1007/s11412-009-9072-x">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Toward a Learning/Instruction Process Model for Facilitating Instructional Design Cycle<br>
+<b>Authors: </b>Yusuke Hayashi, Seiji Isotani, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of 9th IFIP World Conference on Computers in Education (WCCE2009), pp. 138-147, Bento Goncalves, Brazil, July 27-31, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/WCCE2009_hayashi.pdf">Article(PDF, 792KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">An Advanced Clinical Ontology<b><br />
+Authors: </b>Riichiro Mizoguchi, Hiroko Kou, Jun Zhou, Kouji Kozaki, Ken Imai and Kazuhiko Ohe<b><br />
+Reference:</b> In Proc. of International Conference on Biomedical Ontology (ICBO), pp.119-122, Buffalo, NY, June 24 - 26, 2009<b><br />
+</b><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ICBO09miz.pdf">Article(PDF, 158KB)</a>, 
+Online precedings:<a href="http://dx.doi.org/10.1038/npre.2009.3498.1">Article</a>, <a href="http://dx.doi.org/10.1038/npre.2009.3506.1">Presentation</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Ontology Mapping of PATO to YATO for the improvement of interoperability of quality description<b><br />
+Authors: </b>Hiroshi Masuya, Nobuhiko Tanaka, Kazunori Waki, Tatsuya Kushida, Kouji Kozaki and Riichiro Mizoguchi<b><br />
+Reference:</b> In Proc. of International Conference on Biomedical Ontology (ICBO), p.180, Buffalo, NY, June 24 - 26, 2009<b><br />
+</b><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ICBO2009masuya.pdf">Article(PDF, 255KB)</a>, 
+Online precedings:<a href="http://dx.doi.org/10.1038/npre.2009.3508.1">Poster</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Dynamic is-a Hierarchy Generation from a Clinical Medical Ontology<b><br />
+Authors: </b>Hiroko Kou, Jun Zhou, Mamoru Ohta, Kouji Kozaki, Ken Imai, Kazuhiko Ohe and Riichiro Mizoguchi<b><br />
+Reference:</b>Software Demonstration in International Conference on Biomedical Ontology (ICBO), Buffalo, NY, June 24 - 26, 2009<b><br />
+</b><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/icbo09demo_kozaki.pdf">Article(PDF, 96KB)</a>, 
+Online precedings:<a href="http://dx.doi.org/10.1038/npre.2009.3501.1">Article</a>, <a href="http://dx.doi.org/10.1038/npre.2009.3502.1">Presentation</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Structuring Learning/Instructional Strategies through a State-based Modeling<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of 14th International Conference on Artificial Intelligence in Education (AIED2009), pp. 215-222, Brighton, UK, July 6-10, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/AIED2009_hayashi.pdf">Article(PDF, 640KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Looking into collaborative learning: design from macro- and micro-script perspectives<br>
+<b>Authors: </b>Eloy David Villasclaras-Fernandez, Seiji Isotani, Yusuke Hayashi and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of 14th International Conference on Artificial Intelligence in Education (AIED2009), pp. 231-238, Brighton, UK, July 6-10, 2009.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/documents/AIED2009_Eloy.pdf">Article(PDF, 3.76MB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">理論の組織化とその利用への内容指向アプローチ－オントロジー工学による学習・教授理論の組織化とTheory-awareオーサリングシステムの実現－<b>（AIフロンティア論文）</b><br>
+<b>Authors: </b>林 雄介，Jacqueline Bourdeau，溝口 理一郎<br>
+<b>Reference: </b>人工知能学会論文誌，Vol. 24, No. 5，pp. 351-375，2009.<br>
+<a href="http://joi.jlc.jst.go.jp/JST.JSTAGE/tjsai/24.351?lang=ja">Article(PDF, 3054KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Prototyping of Task-Oriented Mobile Navigation System with Real Scale Mobile Services<br>
+<b>Authors: </b>Munehiko Sasajima, Koichiro Furutani, Yoshinobu Kitamura, Takefumi Naganuma, Shoji Kurakake and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of Advances in Computer Science and Engineering (ACSE 2009), pp.205-210, Mar.16-18, 2009<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/members/msasa/documents/ACSE2009forFinalSubmit.pdf">Article(PDF, Final draft)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Yet Another Top-level Ontology: YATO<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the Second Interdisciplinary Ontology
+Meeting, pp.91-101, Tokyo, Japan, February 28 - March 1, 2009<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/YATO%20revised.pdf">Article(PDF, 159KB)</a><br>
+YAMATO, the next version of YATO, is also available at:
+<a href="http://www.ei.sanken.osaka-u.ac.jp/hozo/onto_library/upperOnto.htm">http://www.ei.sanken.osaka-u.ac.jp/hozo/onto_library/upperOnto.htm</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Toward Integration of Mouse Phenotype Information<br>
+<b>Authors:</b> Hiroshi Masuya and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the Second Interdisciplinary Ontology
+Meeting, pp.35-44, Tokyo , Japan , February 28 - March 1, 2009<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/MasInterOnto.pdf">Article(PDF, 147KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Toward Knowledge Structuring of Sustainability Science
+Based on Ontology Engineering<br>
+<b>Authors:</b> Terukazu Kumazawa, Osamu Saito, Kouji Kozaki, Takanori
+Matsui and Riichiro Mizoguchi<br>
+<b>Reference:</b> Sustainability Science, Vol.4, No.1, 2009.<br>
+<a href="http://www.springerlink.com/content/6802158534536030/?p=876c312ec3074376a85ab62b8e9cef05&pi=7">Article (publisher site) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">A Device-oriented Definition of Functions of Artifacts and Its Perspectives<br>
+<b>Authors:</b> Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+<b>Reference:</b> Functions in Biological and Artificial Worlds: Comparative Philosophical Perspectives,&nbsp; Ulrich Krohs, Peter Kroes
+(eds.), MIT Press, pp. 203-221, March 2009
+</p>
+
+<hr>
+<h3><a name="2008" id="2008"></a><i><span lang="EN-US" xml:lang="EN-US">2008</span></i></h3>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Knowledge Structuring and an Exploration System for Global Sustainability and its Application to the Biofuel Issue<br>
+<b>Authors:</b> Osamu Saito, Kouji Kozaki, Takeru Hirota, Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proc. of Climate Change: Global Risks, Challenges and
+Decisions, Copenhagen, Denmark, March 10-12, 2009
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Knowledge Structuring Tool for Sustainability Science Based on Ontology Engineering<br>
+<b>Authors:</b> Terukazu Kumazawa, Osamu Saito, Kouji Kozaki, Takanori Matsui and Riichro Mizoguchi<br>
+<b>Reference:</b> Proc. of the 1st International Workshop on Intelligent Systems for Environmental (Knowledge) Engineering and EcoInformatics (i-SEEK'09), Fukuoka, Japan, March 16-19, 2009</p>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/i-seek09kumazawa.pdf">Article (PDF, 1,104KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Knowledge Structuring Process of Sustainability Science based on Ontology Engineering<br>
+<b>Authors:</b> Terukazu Kumazawa, Takanori Matsui, Keishiro Hara, Michinori Uwasu, Yohei Yamaguchi, Yugo Yamamoto, Kouji Kozaki, Osamu Saito and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the 8th International Conference on Eco Balance, December 10-12, Tokyo, Japan, 2008.
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">TUnderstanding Semantic Web Applications<br>
+<b>Authors:</b> Kouji Kozaki, Yusuke Hayashi, Munehiko Sasajima, Shinya Tarumi and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the 3rd Asian Semantic Web Conference (ASWC 2008), LNCS 5367, pp. 524-539, February 2-5, Bangkok, Thailand, 2008<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ASWC2008kozaki.pdf">Article (final draft:PDF, 501KB)</a>,
+<a href="http://www.springerlink.com/content/dgv127260225j87p/">publisher site</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Deep Semantic Mapping between Functional Taxonomies for Interoperable Semantic Search<br>
+<b>Authors:</b> Yoshinobu Kitamura, Sho Segawa, Munehiko Sasajima, Shinya Tarumi and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the 3rd Asian Semantic Web Conference (ASWC 2008), LNCS 5367, pp. 137-151, February 2-5, Bangkok, Thailand, 2008.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-aswc08.pdf">Article (preprint, PDF, 920KB),</a>
+<a href="http://www.springerlink.com/content/x1300450m264ng10/">publisher site</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Instance Management Problems in the Role Model of Hozo<br>
+<b>Authors: </b>Kouji Kozaki, Satoshi Endo and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of the 10th Pacific Rim International Conference on Artificial Intelligence (PRICAI-08), LNAI 5351, pp. 614-625, Dec. 15-19, Hanoi, Vietnam, 2008.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/pricai08kozaki_endo.pdf">Article(final draft:PDF, 162KB)</a>, 
+<a href="http://www.springerlink.com/content/428863mr311n3727/">publisher site</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Divergent Exploration of an Ontology<br>
+<b>Authors: </b>Takeru Hirota, Kouji Kozaki and Riichiro Mizoguchi<br>
+<b>Reference: </b>(Poster)Poster &amp; Demo Notes of the 7th International Semantic Web Conference (ISWC 2008), October 26-30, Karlsruhe, Germany, 2008<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/iswc08demo_hirota0725cr.pdf">Article(PDF, 868KB)</a>, 
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ISWC08poster_hirota_koza.pdf">Poster(PDF, 566KB) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">オントロジー工学とXML技術に基づく技術知識統合管理プ ラットフォームの構築<br>
+人工物の機能的知識の外化・共有・共創支援基盤の実現<br>
+<b>Authors: </b>高藤 淳, 來村 徳信, 溝口 理一郎<br>
+<b>Reference</b>: 人工知能学会論文誌，Vol. 23, No. 6&nbsp; pp.424-436, 2008<br>
+<a href="http://dx.doi.org/10.1527/tjsai.23.424">Article(PDF,1705KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">OBSTACLES REVEAL THE NEEDS OF MOBILE INTERNET SERVICES <br>
+-OOPS:ONTOLOGY-BASED OBSTACLE,PREVENTION AND SOLUTION MODELING FRAMEWORK-<br>
+<b>Authors: </b>Munehiko Sasajima, Yoshinobu Kitamura, Takefumi Naganuma, Kunihiro Fujii, Shoji Kurakake and Riichiro Mizoguchi<br>
+<b>Reference: </b>Journal of Web Engineering, Vol. 7, No. 2., pp. 133-157, Rinton Press, 2008.<br>
+<a href="documents/sasajima-JoWE2008-JWE070501-work.pdf">Article(Final draft, PDF, 1368KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">モバイルサービスのタスク指向型メニュー搭載を目指して－ユーザ行動モデル記述方式とその利用についての一考察－<br>
+<b>Authors: </b>笹島 宗彦，來村 徳信，長沼 武史，倉掛 正治，溝口 理一郎<br>
+<b>Reference: </b>日本知能情報ファジィ学会誌　20巻2号，pp.171-189, 2008.<br>
+<a href="documents/sasajima-Fuzzy-J-2008-20_171.pdf">Article(PDF, 1962KB)</a><br>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Semantics of the Integrated BioMedical Database Project -A Japanese National Project-<br>
+<b>Authors: </b>Jun Nakaya, Saburo Sakota, Riichiro Mizoguchi, Kouji Kozaki, Kaei Hiroi, Keisuke Ido, Michio Kimura, Hiroshi Tanaka<br>
+<b>Reference: </b>Proc. of 9th International HL7 Interoperability Conference (IHIC2008), to appear, Crere, Greece, Oct.8-11, 2008.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/IHI2008_Nakaya.pdf">Article (PDF, 571KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">メタ認知活動の困難さに関するフレームワークの提案<br>
+<b>Authors: </b>茅島 路子，稲葉 晶子，溝口 理一郎<br>
+<b>Reference: </b>教育システム情報学会誌, Vol. 25, No.1, pp.19-31, July, 2008.<br>
+<a href="documents/JSiSEFinal.pdf">Article(PDF, 415KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Multi-Entry System for Supporting Teachers in Designing Instruction<br>
+<b>Authors: </b>Toshinobu Kasai, Kazuo Nagano and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of 16th International Conference of Computers in Education (ICCE'08), pp. 79-86, Taipei, Taiwan, Nov.27-31, 2008. <br>
+<a href="kasai/ICCE2008_kasai-inProceedings.pdf">Article (PDF, 1.42MB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Toward Accumulation of Learning/Instructional Design Knowledge for Authoring Systems<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of 16th International Conference of Computers in Education (ICCE'08), pp. 19-26, Taipei, Taiwan, Nov. 27-31, 2008.<br>
+<a href="hayashi/ICCE2008_hayashi-inProceedings.pdf">Article (PDF, 1.52MB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Adventure in the Boundary between Domain-Independent Ontologies and Domain-Specific Content for CSCL<br>
+<b>Authors: </b>Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of the 12th International Conference on Knowledge-Based and Intelligent Information &amp; Engineering Systems (KES'08), pp. 523-532, Sep. 3-5, 2008.<br>
+<a href="isotani/CSCLboundary_final.pdf">Article (PDF, 288KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Research Directions on Semantic Web and Education<br>
+<b>Authors: </b>Ig Ibert Bittencourt, Seiji Isotani, Evandro Costa and Riichiro Mizoguchi<br>
+<b>Reference: </b>Journal Scientia - Interdisciplinary Studies in Computer Science, 19(1), pp. 59-66, 2008.<br>
+<a  href="isotani/semanticweb.pdf">Article (PDF, 571KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">HOZO: An ontology building environment<br>
+<b>Authors: </b>Riichiro Mizoguchi and Kouji Kozaki<br>
+<b>Reference: </b>(Demo) Demonstrations Program of 9th International Conference of Intelligent Tutoring Systems (ITS'08), pp. 35-36, Montreal, Canada, June 23-27, 2008.
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ITS2008demo_miz.pdf">Article(PDF, 124KB)</a>, <a  href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ITS2008demoHozo.pdf">Poster(PDF, 2,426KB) </a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Theory-Driven Group Formation through Ontologies<br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of the 9th International Conference on Intelligent Tutoring Systems (ITS'08) , pp. 646-655, 2008.<br>
+<a href="isotani/groupformation.pdf">Article (PDF, 280KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Tying Ontologies to Domain Contents for CSCL<br>
+<b>Authors: </b>Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference: </b>(Poster) Proc. of the 9th International Conference on Intelligent Tutoring Systems (ITS'08) , pp. 752-754, 2008.<br>
+<a href="isotani/tying_ontology_cscl.pdf">Article (PDF, 280KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">CHOCOLATO: A Concrete and Hepful Ontology-Aware Collaborative Learning Authoring Tool<br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: (Demo) Demonstrations Program of 9th International Conference of Intelligent Tutoring Systems (ITS'08), pp. 21-24, Montreal, Canada, June 23-27, 2008.<br>
+<a href="isotani/demo_chocolato.pdf">Article (PDF, 80.6KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Structurization of Learning/Instructional Design Knowledge for Theory-aware Authoring Systems<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of the 9th International Conference on Intelligent Tutoring Systems (ITS'08) , pp. 573-582, 2008.<br>
+<a href="hayashi/ITS2008-hay-CR.pdf">Article (PDF, 1.53MB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">SMARTIES: a Theory-aware and Standard-compliant Authoring System<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>(Demo) Demonstrations Program of 9th International Conference of Intelligent Tutoring Systems (ITS'08), pp. 65-67, Montreal, Canada, June 23-27, 2008.<br>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Toward Establishing an Ontological Structure for the Accumulation of Learning/Instructional Design Knowledge<br>
+<b>Authors: </b>Yusuke Hayashi, Jacqueline Bourdeau and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of 6th International Workshop on Ontologies and Semantic Web for E-Learning (SWEL'08), pp. 1-10, Montreal, Canada, June 23-27, 2008.<br>
+<a href="hayashi/SWEL2008-hay-CR-final.pdf">Article (PDF, 893KB)</a>
+</p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Development of a Conceptual Map Generation Tool for Exploring Ontologies <br>
+<b>Authors: </b>Kouji Kozaki, Takeru Hirota and Riichiro Mizoguchi<br>
+<b>Reference: </b>Poster Noets of the 5th European Semantic Web Conference (ESWC 2008), Tenerife, Spain, Jun. 1-5th, 2008.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/Eswc08pos_kozaki_cr.pdf">Article (PDF, 369KB)</a>, 
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ESWC2008_koza_poster.pdf">Poster (PDF, 1,004KB)</a>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Functional Ontology of Artifacts<br>
+<b>Authors: </b>: Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of the First Interdisciplinary Ontology Meeting, Tokyo, Japan, pp. 51-60, Feb. 26-27, 2008<br>
+<a href="documents/InterOntologyMiz.pdf">Article (PDF, 60KB)</a><
+</p>
+
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: </span>機能発揮・製造プロセス知識統合的記述枠組みに基づくナノテク材料設計支援システムの開発<span
+ lang="EN-US"><br>
+<b>Authors</b>: </span>垂見 晋也<span lang="EN-US">, </span>古崎 晃司<span
+ lang="EN-US">, </span>來村
+徳信<span lang="EN-US">, </span>田中 秀和<span lang="EN-US">, </span>溝口 理一郎</p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="PT-BR" style="">Reference</span></b><span
+ lang="PT-BR" style="">: </span>人工知能学会論文誌<span lang="PT-BR" style="">,
+Vol. 23, No. 1, pp.36-49, 2008<o:p></o:p></span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="http://www.jstage.jst.go.jp/article/tjsai/23/1/36/_pdf/-char/ja/">Article
+(PDF, 1160K)</a></span></p>
+
+<div class="MsoNormal" align="center" style="text-align: center;"></div>
+<hr size="2" width="100%" align="center">
+<p style="margin-top: 0pt; margin-bottom: 0pt;"><span lang="EN-US"></span></p>
+<h3 style="margin-top: 0pt;"><a name="2007" id="2007"></a><i><span
+ lang="EN-US">2007</span></i></h3>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: </span>オントロジーを基盤としたメタデータ記述による課題解決力育成を目的とした学習指導案検索支援<span
+ lang="EN-US"><br>
+<b>Authors</b>: </span>笠井俊信，山口晴久，永野和男，溝口理一郎</p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="EN-US">Reference</span></b><span
+ lang="EN-US">: </span>日本教育工学会論文誌，第<span lang="EN-US">31</span>巻<span
+ lang="EN-US">3</span>号，<span lang="EN-US">pp.337-348</span>，<span
+ lang="EN-US">Dec. 2007</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="kasai/JSET07kasai-final.pdf">Article
+(PDF, 886KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Development of a Design Supporting System for
+Nano-Materials based
+on a Framework for Integrated Knowledge of Functioning-Manufacturing
+Process<br>
+<b>Authors</b>: Shinya Tarumi, Kouji Kozaki, Yoshinobu Kitamura,
+Hidekazu
+Tanaka and Riichiro Mizoguchi</span></p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="EN-US">Reference</span></b><span
+ lang="EN-US">: In Proc. of the 10th IASTED International Conference
+Intelligent
+Systems and Control(ISC2007),<st1:place w:st="on"><st1:city w:st="on">Cambridge</st1:city>,
+<st1:state w:st="on">Massachusetts</st1:state>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>,
+Novemb 19-21,pp.446-454, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="tarumi/isc07tarumi.pdf">Article
+(PDF, 451KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: A Framework for Cooperative Ontology Construction Based
+on
+Dependency Management of Modules<br>
+<b>Authors</b>: Kouji Kozaki, Eiichi Sunagawa, Yoshinobu Kitamura,
+Riichiro
+Mizoguchi</span></p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="EN-US">Reference</span></b><span
+ lang="EN-US">: In Proc. of International Workshop on Emergent
+Semantics and
+Ontology Evolution (ESOE2007), Nov. 12, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="kozaki/esoe2007kozaki.pdf">Article
+(PDF, 926KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Towards A Reference Ontolog y for Functional Knowledge
+Interoperability<br>
+<b>Authors</b>: Kitamura, Y., Takafuji, S., Mizoguchi, R.</span></p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="EN-US">Reference</span></b><span
+ lang="EN-US">: In Pro c. of ASME IDETC/CIE 2007, DETC2007-35373, Sep.
+4-7, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/documents/kita-asme07.pdf">Article
+(PDF, 810KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Towards Interoperability between Functional Taxonomies
+using an
+Ontollogy-based Mapping<br>
+<b>Authors</b>: Ookubo, M., Koji, Y., Sasajima, M., Kitamura, Y.,
+Mizoguchi, R.</span></p>
+<p style="margin: 0mm 0mm 0.0001pt;"><b><span lang="EN-US">Reference</span></b><span
+ lang="EN-US">: In Proc. of the 16th International Conference on
+Engineering
+Design (ICED '07), Paris, France, 28-30 August 2007, CD-ROM, No. 154
+(Abstract:
+pp.419-420), 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="documents/ICED07_okubo.pdf">Article
+(PDF, 381KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A Model
+of Roles
+within an Ontology Development Tool: Hozo <br>
+<b>Authors</b>: Mizoguchi R., Sunagawa E., Kozaki K. and Kitamura Y.<br>
+<b>Reference</b>: J. of Applied Ontology, Vol.2, No.2, pp.159-179. Sep.
+2007.<br>
+<a href="miz/AO038%281%29.pdf">Article (PDF, 616KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Semantic Web system
+for supporting teachers using ontology alignment<br>
+<b>Authors</b>: Toshinobu Kasai, Haruhisa Yamaguchi, Kazuo Nagano and
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Int. J. Metadata, Semantics and Ontologies, Vol. 2,
+No. 1,
+pp.35-44, Sep. 2007.<br>
+<a href="IJMSO2%281%29Paper4.pdf">Article (PDF, 942KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Role
+Representation
+Model Using OWL and SWRL<br>
+<b>Authors</b>: K. Kozaki, E. Sunagawa, Y. Kitamura and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of 2nd Workshop on Roles and Relationships in
+Object
+Oriented Programming, Multiagent Systems, and Ontologies, Berlin,July
+30-31,
+pp.39-46, 2007 <br>
+<a href="kozaki/Role07kozaki.pdf">Article (PDF, 218 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Distributed and
+Collaborative Construction of Ontologies Using Hozo<br>
+<b>Authors</b>: K. Kozaki, E. Sunagawa, Y. Kitamura and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of Workshop on Social and Collaborative
+Construction of
+Structured Knowledge, <st1:place w:st="on"><st1:city w:st="on">Banff</st1:city>,
+<st1:country-region w:st="on">Canada</st1:country-region></st1:place>,
+May 8,
+2007 <br>
+<a href="kozaki/ckc2007kozaki_cr3.pdf">Article (PDF, 389 KB)</a></span></p>
+
+<p style="margin-bottom: 0mm;">
+<b><span lang="EN-US">Title: </span></b><span lang="EN-US">Development of Contents Management System
+Based on Light-Weight Ontology</span><span lang="EN-US"><br>
+<b>Authors</b>: K. Kozaki, Y. Kitamura and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of the 2007 IAENG International Conference on
+Internet
+Computing and Web Services, Hong Kong, 21-23 March, pp.987-992, 2007<br>
+<a href="kozaki/IMECS2007_koza_cr.pdf">Article (PDF, 323 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>知識
+成長過程を指向した設計意図知識管理システムの構築<span lang="EN-US"><br>
+<b>Authors</b>: </span>武内 雅宇<span lang="EN-US">, </span>小路 悠介<span
+ lang="EN-US">, </span>來村
+徳信<span lang="EN-US">, </span>林 雄介<span lang="EN-US">, </span>池田 満<span
+ lang="EN-US">,
+</span>溝口 理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol. 22, No. 3,
+pp.263-275, 2007.<br>
+<a
+ href="http://www.jstage.jst.go.jp/article/tjsai/22/3/22_263/_article/-char/ja">Article
+(PDF, 974 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>相互
+運用性を指向した機能・不具合知識の統合とその概念写像に基づく知識変換<span lang="EN-US"><br>
+<b>Authors</b>: </span>小路 悠介<span lang="EN-US">, </span>來村 徳信<span
+ lang="EN-US">, </span>加藤
+義清<span lang="EN-US">, </span>筒井 良夫<span lang="EN-US">, </span>溝口 理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.22, No.1,
+pp. 78-92,
+2007.<br>
+<a href="documents/koji-jsai07.pdf">Article (PDF, 647 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Inside Theory-Aware and Standards-Compliant Authoring
+System<br>
+<b>Authors</b>: Riichiro Mizoguchi, Yusuke Hayashi and Jacqueline
+Bourdeau<br>
+<b>Reference</b>: (Inveited talk) Proc. of The Fifth International
+Workshop on
+Ontologies and Semantic Web for E-Learning (SWEL'07) , pp. 1-18, <st1:city
+ w:st="on">Marina</st1:city> <st1:place w:st="on"><st1:city w:st="on">del
+Rey</st1:city>, <st1:state w:st="on">CA</st1:state>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>,
+July. 9, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="miz/SWEL07-miz.pdf">Article
+(PDF, 668 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: The Unfolding of Learning Theories: Its Application to
+Effective
+Design of Collaborative Learning<br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of The Fifth International Workshop on
+Ontologies and
+Semantic Web for E-Learning (SWEL'07) , pp. 44-53, <st1:city w:st="on">Marina</st1:city>
+<st1:place w:st="on"><st1:city w:st="on">del Rey</st1:city>, <st1:state
+ w:st="on">CA</st1:state>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>,
+July. 9,
+2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="isotani/SWEL07-isotani.pdf">Article
+(PDF, 465 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Standard-compliant Scenario Building with Theoretical
+Justification in a Theory-aware Authoring Tool <br>
+<b>Authors</b>: Yusuke Hayashi, Jacqueline Bourdeau and Riichiro
+Mizoguchi<br>
+<b>Reference</b>: (Poster) Proc. of The 13th International Conference
+on
+Artificial Intelligence in Education (AIED 2007), pp. 572-574, Marina
+del Rey,
+CA, USA, July. 9-13, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="../../../../hayashi/AIED07_CR-hayashi-final.pdf">Article (PDF,
+457 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Using Ontologies for an Effective Design of
+Collaborative Learning
+Activities <br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: (Poster) Proc. of The 13th International Conference
+on
+Artificial Intelligence in Education (AIED 2007), pp. 578-580, Marina
+del Rey,
+CA, USA, July. 9-13, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="isotani/AIED200_isotani.pdf">Article
+(PDF, 45.8KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Deployment of Ontologies for an Effective Design of
+Collaborative
+Learning Scenarios<br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of 13th International Workshop on Groupware
+(CRIWG2007), Springer-Verlag, LNCS 4715, pp. 223-238, Bariloche,
+Argentina,
+Sept. 16-20, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="isotani/criwg2007_isotani.pdf">Article (PDF, 484KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: When the Domain of the Ontology is Education<br>
+<b>Authors</b>: Bourdeau, J., Mizoguchi, R., Hayashi, Y., Psyche, V.,
+and
+Nkambou, R.<br>
+<b>Reference</b>: Proc. of the 4th Conf. on Intelligent, Interactive
+Learning
+Objects Repository Networks (I2LOR’07), CD-ROM, Nov. 4-7, 2007.</span></p>
+<p style="margin-bottom: 0.0001pt;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Theory-aware Explanation Support for Standard-compliant
+Scenario
+Building<br>
+<b>Authors</b>: Yusuke Hayashi, Jacqueline Bourdeau and Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Proc. of the workshop on &nbsp;Semantic Technology
+for
+Learning ,&nbsp;pp. 104-109, Hiroshima, Japan, Nov. 5, 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="../../../../hayashi/ICCE2007WS-CR-hay-final.pdf">Article (PDF,
+653KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Towards a Complete Ontology-aware Authoring Tool for
+Collaborative
+Learning<br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: Supplementary Proc. of the 15th International
+Conference on
+Computers in Education (ICCE2007), Vol. 2, pp. 353-356, Hiroshima,
+Japan, Nov.
+6, 2007.</span></p>
+<p style="margin-bottom: 0.0001pt;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: </span>知的活動支援のためのオントロジー工学的アプローチ<span lang="EN-US"><br>
+<b>Authors</b>: </span>林<span lang="EN-US"> &nbsp;</span>雄介，溝口 理一郎<span
+ lang="EN-US"> <br>
+<b>Reference</b>: </span>ヒューマンインタフェース学会誌・論文誌　人間の知的活動支援へのアプローチ特集，<span
+ lang="EN-US">Vol. 9</span>，<span lang="EN-US">No. 4</span>，<span
+ lang="EN-US">pp.
+21-26</span>，<span lang="EN-US">Nov., 2007.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="hayashi/TOKUSYU_HAYASHI_071024.pdf">Article (PDF, 117KB)</a></span></p>
+<p style="margin-top: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">:
+</span>発話意図理解と回答誘導による異言語間会話支援ツー ルの試作<span lang="EN-US"><br>
+<b>Authors</b>: </span>笹島 宗彦，井本 和範，下森 大志，山中 紀子，矢島 真人，福永 幸弘，正井 康之<span
+ lang="EN-US"><br>
+<b>Reference</b>:</span>情報処理学会論文誌 　<span lang="EN-US">48</span>巻<span
+ lang="EN-US">3</span>号，<span lang="EN-US">1262-1273, 2007 <br>
+<a href="documents/papertube-ipsj-forcameraready-v1.pdf">Article(FinalDraft)
+(PDF, 559KB)</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2006" id="2006"></a><i><span lang="EN-US">2006</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Role
+organization
+model in Hozo<br>
+<b>Authors</b>: Eiichi Sunagawa, Kouji Kozaki, Yoshinobu Kitamura,
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Managing Knowledge in a World of Networks (Proc. of
+EKAW 2006
+- 15th International Conference on Knowledge Engineering and Knowledge
+Management Managing Knowledge in a World of Networks), Lecture Notes in
+Computer Science (LNCS), Springer Verlag, Vol. 4248, pp.67-81,
+Podebrady, Czech
+Republic, 2-6 Oct., 2006. <br>
+<a href="documents/47-EKAW2006SunagawaE.pdf">Article (PDF, 3182 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>実
+践・教育複合型協調学習場の設計支援に向けたオントロジー工学的アプローチ<span lang="EN-US"><br>
+<b>Authors</b>: </span>武内 雅宇<span lang="EN-US">, </span>林 雄介<span
+ lang="EN-US">, </span>池田
+満<span lang="EN-US">, </span>溝口 理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol. 21, No. 2,
+pp.184-194, Jun. 24, 2006.<br>
+<a href="documents/jsai2006_takeuchi.pdf">Article (PDF, 1474 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: An Ontological Model of Device Function: Industrial
+Deployment and
+Lessons Learned<br>
+<b>Authors</b>: Yoshinobu Kitamura, Yusuke Koji and Riichiro Mizoguchi,<br>
+<b>Reference</b>: Journal of Applied Ontology (Special issue on “Formal
+Ontology Meets Industry”), Vol. 1, No. 3-4, pp. 237-262, 2006</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="documents/kita-AO2006-preprint.pdf">Article (Preprint version)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Building
+an ontology
+of IT education goals<br>
+<b>Authors</b>: Toshinobu Kasai, Haruhisa Yamaguchi, Kazuo Nagano and
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Int. J. Cont. Engineering Education and Lifelong
+Learning,
+Vol. 16, Nos. 1/2, pp.1-17, 2006.<br>
+<a href="documents/IJCEELL06_Kasai_000.pdf">Article (PDF, 1912 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Ontology-Based
+Annotation Framework for Representing the Functionality of Engineering
+Devices,
+<br>
+<b>Authors</b>: Kitamura, Y., Washio, N., Koji, Y., Sasajima, M.,
+Takafuji, S.,
+Mizoguchi, R., <br>
+<b>Reference</b>: In Proc. of ASME 2006 International Design
+Engineering
+Technical Conferences &amp; Computers and Information in Engineering
+Conference
+(ASME IDETC/CIE 2006), September 10-13, 2006, Philadelphia,
+Pennsylvania, USA,
+DETC2006-99131, 2006.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/members/kita/pub/documents/kita-asme06.pdf">Article
+(PDF, 700 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Roles of
+Ontologies
+of Engineering Artifacts for Design Knowledge Modeling, <br>
+<b>Authors</b>: Yoshinobu Kitamura,<br>
+<b>Reference</b>:In Proc. of the 5th International Seminar and Workshop
+Engineering Design in Integrated Product Development (EDIProD 2006),
+21-23
+September 2006, Gronow, Poland, pp. 59-69, 2006. (Invited) <br>
+<a
+ href="//D%7C/Users/kozaki.EI2/%7Ekita/pub/documents/kita-ediprod06.pdf">Article
+(Preprint version) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Towards
+Ontologies of
+Functionality and Semantic Annotation for Technical Knowledge Management<br>
+<b>Authors</b>: Yoshinobu&nbsp;Kitamura, Naoya&nbsp;Washio,
+Yusuke&nbsp;Koji,
+and Riichiro&nbsp;Mizoguchi<br>
+<b>Reference</b>:New Frontiers in Artificial Intelligence: Joint JSAI
+2005
+Workshop Post-Proceedings, LNCS 4012, Springer <st1:state w:st="on">Berlin</st1:state>
+/ <st1:city w:st="on"><st1:place w:st="on">Heidelberg</st1:place></st1:city>,
+pp. 17-28, June, 2006.<br>
+<a href="//D%7C/Users/kozaki.EI2/%7Ekita/pub/documents/kita-lncs06.pdf">Article
+(Preprint version)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Collaborative
+Learning Design Environment to Integrate Practice and Learning based on
+Collaborative Space Ontology and Patterns<br>
+<b>Authors</b>: Masataka Takeuchi, Yusuke Hayashi, Mitsuru Ikeda,
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Proc. of the 8th International Conference on
+Intelligent
+Tutoring Systems(ITS2006), pp.187-196, Jhongli, Taiwan, June 26-30,
+2006.<br>
+<a href="documents/ITS2006_en-tak-15-tak.pdf">Article (PDF, 665 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A Multi
+Modal
+Supporting Tool for Multi Lingual Communication by Inducing Partner's
+Reply<br>
+<b>Authors</b>: Kazunori IMOTO, Munehiko SASAJIMA, Taishi SHIMOMORI,
+Noriko
+YAMANAKA, Makoto YAJIMA and Yasuyuki MASAI<br>
+<b>Reference</b>: Proc. of the International Conference on Intelligent
+User
+Interfaces (IUI2006), pp. 330-332, Sydney, Australia, Jan 29 - Feb 1,
+2006.<br>
+<a href="documents/IUI2006sp7966-camera.pdf">Article (PDF, 437 KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Fundamental
+Consideration of Role Concepts for Ontology Evaluation<br>
+<b>Authors</b>: Kouji Kozaki, Eiichi Sunagawa, Yoshinobu Kitamura and
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Proc. of&nbsp; Evaluation of Ontologies for the Web
+(EON2006)
+4th EON Workshop, <st1:place w:st="on"><st1:city w:st="on">Edinburgh</st1:city>,
+<st1:country-region w:st="on">United Kingdom</st1:country-region></st1:place>,
+May 22, 2006.<br>
+<a href="kozaki/Eon2006-kozaki-CR.pdf">Article (PDF, 626 KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Towards a
+Reference
+Ontology of Functionality for Interoperable Annotation for Engineering
+Documents, <br>
+<b>Authors</b>: Yoshinobu Kitamura, Naoya Washio, Masanori Ookubo,
+Yusuke Koji,
+Munehiko Sasajima, Sunao Takafuji, Riichiro Mizoguchi<br>
+<b>Reference</b>: In Proc. of Posters and Demos of ESWC 2006, pp.
+75-76, 11-14
+June 2006, Budva, Montenegro, 2006.<br>
+<a href="//D%7C/Users/kozaki.EI2/%7Ekita/pub/documents/kita-eswc06.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Task
+Ontology-Based
+Framework for Modeling Users’ Activities for Mobile Service Navigation,
+<br>
+<b>Authors</b>: Munehiko Sasajima,Yoshinobu Kitamura, Takefumi
+Naganuma, Shoji
+Kurakake, Riichiro Mizoguchi<br>
+<b>Reference</b>: In Proc. of Posters and Demos of ESWC 2006, pp.
+71-72, 11-14
+June 2006, Budva, Montenegro, 2006.<br>
+<a href="../../../../pub/documents/ESWC2006PosterSasajima-v3.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontological Support
+for a Theory-Eclectic Approach to Instructional and Learning Design<br>
+<b>Authors</b>: Yusuke Hayashi, Jacqueline Bourdeau and Riichiro
+Mizoguchi<br>
+<b>Reference</b>: W. Nejdl and K. Tochtermann (Eds.): Innovative
+Approaches for
+Learning and Knowledge Sharing (Proc. of First European Conference on
+Technology Enhanced Learning, EC-TEL2006, Crete, Greece, Oct. 1-4,
+2006),
+pp.155-169, LNCS 4227, Springer-Verlag Berlin Heidelberg, Oct, 2006.<br>
+<a href="hayashi/EC-TEL2006-hayashi-CameRaready.pdf">Article (PDF, 688
+KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Ontological Modeling Approach to Blending Theories for
+Instructional
+and Learning Design<br>
+<b>Authors</b>: Yusuke Hayashi, Jacqueline Bourdeau and Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Proc. of The 14th International Conference on
+Computers in
+Education (ICCE2006), pp. 37-44, Beijing, China, Nov.30-Dec. 4, 2006.</span></p>
+<p style="margin-top: 0mm;"><strong><span lang="EN-US"
+ style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">(Recieved the Best Paper Award)</span></strong><span
+ lang="EN-US"> <br>
+<a href="hayashi/ICCE2006_CR-hayashi-final.pdf">Article (PDF, 371 KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: An Integrated Framework for Fine-Grained Anlysis and
+Design of
+Group Learning <br>
+<b>Authors</b>: Seiji Isotani and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of The 14th International Conference on
+Computers in
+Education (ICCE2006), pp. 193-200, Beijing, China, Nov.30-Dec. 4, 2006.</span></p>
+<p style="margin-top: 0mm;"><strong><span lang="EN-US"
+ style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">(Recieved the Best Student Paper
+Award)</span></strong><span lang="EN-US"> <br>
+<a href="documents/ICCE2006-Isotani.pdf">Article (PDF, 224 KB)</a></span></p>
+<p><strong><span lang="EN-US" style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Title</span></strong><span
+ lang="EN-US">: Surmonter l'interference culturelle
+et linguistique a l'aide de CALL<br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Authors</span></strong>:
+Allard Daniele, Riichiro Mizoguchi, Jacqueline Bourdeau<br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Reference</span></strong>:
+Actes de colloque de la Journee Scientifique Francophone (JSF) 2006.(</span>フ
+ランス語による科学シンポジウム講演論文集<span lang="EN-US">(CD-ROM)), <st1:place w:st="on"><st1:city
+ w:st="on">Tokyo</st1:city>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>,
+Dec. 1,
+2006. <strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">(in
+French)</span></strong> <br>
+<a href="documents/allard%20JSF%202006%20_soumis_.pdf">Article (PDF,
+248 KB)</a></span></p>
+<p><strong><span lang="EN-US" style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Title</span></strong><span
+ lang="EN-US">: Towards mapping cultural
+differences in CALL.<br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Authors</span></strong>:
+Allard Daniele, Riichiro Mizoguchi, Jacqueline Bourdeau<br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Reference</span></strong>:
+In K. Bradford-Watts (Ed), JALT 2006 Conference Proceedings, <st1:city
+ w:st="on"><st1:place w:st="on">Tokyo</st1:place></st1:city>: JALT.
+2006. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/E127-JALT2006.pdf">Article
+(PDF, 92 KB)</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2005" id="2005"></a><i><span lang="EN-US">2005</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Talkabout: </span>ユーザ同士の概念木生成作業を介したコミュニケーション支援<span lang="EN-US"><br>
+<b>Authors</b>: </span>角薫<span lang="EN-US">, </span>松本崇志<span
+ lang="EN-US">, </span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>ヒューマンインタフェース学会論文誌<span lang="EN-US">, Vol.7
+No.3 pp.347-360.
+<br>
+<a href="documents/Talkabout.pdf">Article (PDF, 1820 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>コン
+テキスト依存性に基づくロール概念組織化の枠組み<span lang="EN-US"><br>
+<b>Authors</b>: </span>砂川英一<span lang="EN-US">, </span>古崎晃司<span
+ lang="EN-US">, </span>來村徳信<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.20 No.6
+pp.461-472. <br>
+<a href="sunagawa/20_461.pdf">Article (PDF, 1115 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>デバ
+イスオントロジーに基づくシグナル伝達パスウェイの統一的記述枠組みの開発<span lang="EN-US"><br>
+<b>Authors</b>: </span>高井貴子（東京大学）<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.20 No.6
+pp.406-416. <br>
+<a href="documents/C-O4CD.pdf">Article (PDF, 617 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>形式
+オントロジーと順序ソート論理の拡張<span lang="EN-US"><br>
+<b>Authors</b>: <a href="http://research.nii.ac.jp/%7Ekaneiwa/"><span
+ lang="EN-US"><span lang="EN-US">兼岩　憲 (NII)</span></span></a>, </span>溝
+口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.20 No.6
+pp.387-395. <br>
+<a href="documents/O491.pdf">Article (PDF, 123 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>機能
+分解木記述による設備異常の原因究明とその解決事例<span lang="EN-US"><br>
+<b>Authors</b>: </span>柏瀬雅一，篠木秀次，布瀬雅義，溝口理一郎，來村徳信<span lang="EN-US"><br>
+<b>Reference</b>: </span>設備管理学会誌<span lang="EN-US">, Vol. 16, No. 4,
+pp.164-170,
+2005. <br>
+<a href="miz/kashiwase2004.pdf">Article (PDF, 869 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>オン
+トロジー理論に基づく情報教育目標の体系的記述<span lang="EN-US"><br>
+<b>Authors</b>: </span>笠井俊信，山口晴久，永野和男，溝口理一郎<span lang="EN-US"><br>
+<b>Reference: </b></span>電子情報通信学会論文誌，<span lang="EN-US">Vol.J88-D-I,
+No.1,
+pp.3-15, 2005.<br>
+<a href="documents/ieice04final.pdf">Article (PDF, 4202KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>オン
+トロジー構築ツールの現状<span lang="EN-US"><br>
+<b>Authors</b>: </span>古崎晃司，溝口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会誌<span lang="EN-US">,Vol.20, No.5
+pp.707-714,2005<br>
+<a href="kozaki/jsai05_onto_tools.pdf">Article (PDF, 700KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: The role
+of
+ontological engineering for AIED research <br>
+<b>Authors</b>: Riichiro MIZOGUCHI<br>
+<b>Reference</b>: Computer Science and Information Systems, Vol.2,
+No.1, 31-42,
+2005.<br>
+<a href="documents/Comsis.pdf">Article (PDF, 711KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: What Do
+You Mean by
+to Help Learning of Metacognition?<br>
+<b>Authors</b>: Michiko KAYASHIMA, Akiko INABA and Riichiro MIZOGUCHI<br>
+<b>Reference</b>: Proc. of the 12th Artificial Intelligence in
+Education
+(AIED2005), pp. 346-353, <st1:city w:st="on">Amsterdam</st1:city>, The
+<st1:country-region w:st="on"><st1:place w:st="on">Netherlands</st1:place></st1:country-region>,
+July 18-22, 2005.<br>
+<a href="documents/AIED05-Kaya.pdf">Article (PDF, 94KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Goal
+Transition Model
+and Its Application for Supporting Teachers based on Ontologies<br>
+<b>Authors</b>: Toshinobu KASAI, Haruhisa YAMAGUCHI, Kazuo NAGANO and
+Riichiro
+MIZOGUCHI<br>
+<b>Reference</b>: Proc. of the 12th Artificial Intelligence in
+Education
+(AIED2005), pp. 330-337, Amsterdam, The Netherlands, July 18-22, 2005.<br>
+<a href="documents/AIED05-Kasai.pdf">Article (PDF, 1.10MB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Making
+Learning
+Design Standards Work with an Ontology of Educational Theories<br>
+<b>Authors</b>: Valery PSYCHE, Jacqueline BOURDEAU, Roger NKAMBOU,
+Riichiro
+MIZOGUCHI<br>
+<b>Reference:</b> Proc. of the 12th Artificial Intelligence in
+Education
+(AIED2005), pp. 539-546, Amsterdam, The Netherlands, July 18-22, 2005.<br>
+<a href="documents/Psyche-al_AIED05.pdf">Article (PDF, 332KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Ontological Model
+of Device Function and its Deployment for Engineering Knowledge Sharing<br>
+<b>Authors</b>: Kitamura, Y., Koji, Y., Mizoguchi R.,<br>
+<b>Reference:</b> Proc. of the First Workshop FOMI 2005 - Formal
+Ontologies
+Meet Industry, Castelnuovo del Garda (VR), <st1:country-region
+ w:st="on"><st1:place w:st="on">Italy</st1:place></st1:country-region>,
+June 9-10, 2005, CD-ROM<br>
+<a href="kita/documents/kita-fomi05.pdf">Article (PDF, 523KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Functional Metadata
+Schema for Engineering Knowledge Management<br>
+<b>Authors</b>: Yoshinobu Kitamura, Naoya Washio, Yusuke Koji and
+Riichiro
+Mizoguchi,<br>
+<b>Reference:</b> In Proc. of the Workshop on Activities on Semantic
+Web
+Technologies in <st1:country-region w:st="on">Japan</st1:country-region>,
+CD-ROM, The 14th International World Wide Web Conference (WWW2005), May
+10,
+2005, <st1:place w:st="on"><st1:city w:st="on">Chiba</st1:city>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>.<br>
+<a href="documents/kita-www05.pdf">Article (PDF, 770KB) </a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title:</span></b><span
+ lang="EN-US"> Ontology-based Transformation from an Extended
+Functional Model to
+FMEA<br>
+<b>Authors:</b>Koji, Y., Kitamura, Y., Mizoguchi, R..<br>
+<b>Reference:</b>In Proc. of the 15th International Conference on
+Engineering
+Design (ICED '05), Melbourne, Australia, 15-18 August 2005, CD-ROM,
+264.81
+(Abstract: pp.323-324), 2005.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="documents/iced05.pdf">Article
+(PDF, 1.33MB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Order-Sorted
+Quantified Modal Logic for Meta-Ontology<br>
+<b>Authors</b>: <a href="http://research.nii.ac.jp/%7Ekaneiwa/">Kaneiwa,
+K.</a>
+&amp; Mizoguchi, R. <br>
+<b>Reference: </b>Proceedings of the International Conference on
+Automated
+Reasoning with Analytic Tableaux and <br>
+Related Methods (TABLEAUX 2005), Koblenz, Germany, Sep. 14-17, pp.
+169-184,
+LNCS 3702, 2005. Springer-Verlag<br>
+<a href="documents/tableaux05.pdf">Article (PDF, 194KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">A
+Framework for
+Organizing Role Concepts in Ontology Development Tool: Hozo<br>
+<b>Authors: </b>Sunagawa, E., Kozaki, K., Kitamura, Y., Mizoguchi, R.<br>
+<b>Reference: </b>"Roles, an Interdisciplinary Perspective:
+Ontologies,
+Programming Languages, and Multiagent Systems" Papers from the AAAI
+Fall
+Symposium Technical Report FS-05-08, pp.136-143, <st1:place w:st="on"><st1:city
+ w:st="on">Arlington</st1:city>, <st1:state w:st="on">Virginia</st1:state>,
+<st1:country-region w:st="on">USA</st1:country-region></st1:place>, 4-6
+November 2005. <br>
+<a href="sunagawa/FS805SunagawaE.pdf">Article (PDF, 611KB)</a> <a
+ href="../../../../sunagawa/AAAI-Role05-20051104.ppt">Presentation
+(PPT, 1349KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Developing
+Ontology-based Applications using Hozo<br>
+<b>Authors: </b>Kouji Kozaki, Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proceedings of the Fourth IASTED International
+Conference on
+Computational Intelligence (CI2005), Calgary, Canada, July 4-6, 2005<br>
+<a href="kozaki/CI2005_kozaki.pdf">Article (PDF, 790KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Hozo: an
+Ontology
+Development Environment</span>　<span lang="EN-US">-Treatment of "Role
+Concept" and Dependency Management-<br>
+<b>Authors: </b>Kouji Kozaki, Eiichi Sunagawa, Yoshinobu Kitamura, and
+Riichiro
+Mizoguchi<br>
+<b>Reference: </b>In Proc. of Posters and Demos of&nbsp; the 4th
+International
+Semantic Web Conference (ISWC2005), PID-79, <st1:place w:st="on"><st1:city
+ w:st="on">Galway</st1:city>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>,
+Nov. 6-10th, 2005<br>
+<a href="kozaki/ISWC05_pos_kozaki.pdf">Article</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title: </span></b><span
+ lang="EN-US">Toward Task Ontology-based Modeling for Mobile Phone
+Users' Activity<br>
+<b>Authors: </b>Munehiko Sasajima, Yoshinobu Kitamura, Takefumi
+Naganuma, Shoji
+Kurakake and Riichiro Mizoguchi<br>
+<b>Reference: </b>In Proc. of Posters and Demos of the 4th
+International
+Semantic Web Conference (ISWC2005), PID-29, Galway, Ireland, Nov.
+6-10th, 2005<br>
+<a
+ href="../../../../pub/documents/PID-29-ISWC2005PosterCameraReadySasajima.pdf">Article</a></span></p>
+<p style="margin: 0mm 0mm 0.0001pt;"><span lang="EN-US">&nbsp;</span></p>
+<p style="margin-top: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">:
+Can Language and Culture Go Hand in Hand? Cross-Linguistic Influence in
+the L2
+Acquisition Process<br>
+<b>Authors</b>: Allard D., Mizoguchi R. and Bourdeau, J.<br>
+<b>Reference</b>: Proc. of JALT 2005 (Japanese Association of Language
+Teachers
+Conference), <st1:place w:st="on"><st1:city w:st="on">Shizuoka</st1:city>,
+<st1:country-region w:st="on">Japan</st1:country-region></st1:place>,
+Oct 7-10, 2005.. <br>
+<a href="documents/Allard%20JALT%202005%20Proceedings%20FINAL.pdf">Article
+(PDF, 312KB)</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2004" id="2004"></a><i><span lang="EN-US">2004</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>工学
+ドメインオントロジー<span lang="EN-US"><br>
+<b>Author: </b></span>來村徳信<span lang="EN-US"><br>
+<b>Reference: </b></span>人工知能学会誌，<span lang="EN-US">Vol. 19, No. 2,
+pp. 179-186,
+2004</span>年<span lang="EN-US">3</span>月<span lang="EN-US"><br>
+<a href="kita/kita-jsai04-engont.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontology-based
+Functional-Knowledge Modeling Methodology and its Deployment<br>
+<b>Authors</b>: Kitamura, Y., Mizoguchi, R., <br>
+<b>Reference: </b>Proc. of the 14th International Conference on
+Knowledge
+Engineering and Knowledge Management EKAW 2004, pp. 99-115, October
+2004. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/%7Ekita/pub/kita-ekaw04.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Coping
+with
+Unintended Behavior of Users and Products: Ontological Modelling of
+Product
+Functionality and Use <br>
+<b>Authors</b>: Wilfred van der Vegte, Yoshinobu Kitamura, Yusuke Koji,
+Riichiro Mizoguchi <br>
+<b>Reference: </b>Proceedings of CIE 2004: ASME 2004 Design
+Engineering
+Technical Conferences and Computers in Engineering Conference,
+September
+28-October 2, 2004, Salt Lake City, Utah, DETC2004-57720, 2004.</span></p>
+<p><b><span lang="FR" style="">Title</span></b><span lang="FR" style="">:
+Le role de l'ingenierie ontologique dans le
+domaine des EIAH<br>
+<b>Authors</b>: Riichiro Mizoguchi<br>
+Translated by: </span><span lang="EN-US"><a
+ href="http://sticef.univ-lemans.fr/num/vol2004/mizoguchi-06/sticef_2004_mizoguchi_06.htm#auteurs"><span
+ lang="FR" style="">Jacqueline Bourdeau </span></a></span><span
+ lang="FR" style="">Centre de recherche LICEF,
+Tele-universite, Montreal<br>
+<b>Reference: </b>Sciences et Technologies de l´Information et de la
+Communication pour l´Education et la Formation, Vol.11, 2004.<br>
+</span><span lang="EN-US"><a
+ href="http://sticef.univ-lemans.fr/num/vol2004/mizoguchi-06/sticef_2004_mizoguchi_06.htm">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Towards
+Modeling
+Design Rationale of Supplementary Functions in Conceptual Design<br>
+<b>Authors</b>: Y. Koji, Y, Kitamura and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of Tools and Methods of Competitive
+Engineering - TMCE
+2004 (TMCE2004), pp. 117-130, <st1:place w:st="on"><st1:city w:st="on">Lausanne</st1:city>,
+<st1:country-region w:st="on">Switzerland</st1:country-region></st1:place>,
+April. 13-17, 2004.<br>
+<a href="koji/tmce%202004%28koji%29.pdf">Article (PDF, KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Learning
+Design
+Palette: An Ontology-aware Authoring System for Learning Design<br>
+<b>Authors</b>: A. Inaba and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of International Conference on Computers in
+Education
+(ICCE2004), Melbourne, Australia, Nov. 30-Dec. 3, pp.597-607, 2004.<br>
+<a href="ina/ina_icce04.pdf">Article (PDF, 546 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Selecting
+Theories in
+an Ontology-Based ITS Authoring Environment<br>
+<b>Authors</b>: Jacqueline BOURDEAU, Riichiro MIZOGUCHI, Valery PSYCHE,
+Roger
+NKAMBOU<br>
+<b>Reference: </b>Proc. of the seventh International Conference on
+Intelligent
+Tutoring Systems (ITS2004), Alagoas, Brazil, Aug. 30-Sep. 3, pp.
+150-161, 2004.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: EASE:
+Evolutional
+Authoring Support Environment<br>
+<b>Authors</b>: L. Aroyo, A. Inaba, L. Soldatova, and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of the seventh International Conference on
+Intelligent
+Tutoring Systems (ITS2004), Alagoas, Brazil, Aug. 30-Sep. 3, pp.
+140-149, 2004.<br>
+<a href="lora/ITS2004-aroyo-etal.pdf">Article (PDF, 315 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Learners'
+Roles and
+Predictable Educational Benefits in Collaborative Learning - An
+Ontological
+Approach to Support Design and Analysis of CSCL<br>
+<b>Authors</b>: A. Inaba and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of the seventh International Conference on
+Intelligent
+Tutoring Systems (ITS2004), Alagoas, Brazil, Aug. 30-Sep. 3, pp.
+285-294, 2004.<br>
+<a href="ina/ina_its04.pdf">Article (PDF, 207 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Towards
+Shared
+Understanding of Metacognitive Skill and Facilitating Its Development <br>
+<b>Authors</b>: M. Kayashima, A. Inaba, and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of the seventh International Conference on
+Intelligent
+Tutoring Systems (ITS2004), Alagoas, Brazil, Aug. 30-Sep. 3, pp.
+251-261, 2004.<br>
+<a href="ina/kaya_its04.pdf">Article (PDF, 207 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: What is
+Metacognitive
+Skill? - Collaborative Learning Strategy to Facilitate Development of
+Metacognitive Skill<br>
+<b>Authors</b>: M. Kayashima, A. Inaba, and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of the sixteenth World Conference on
+Educational
+Mutimedia, Hypermedia &amp; Telecommunications (ED-MEDIA 2004), Lugano,
+Switzerland, June 21-26, pp. 2660-2665, 2004.<br>
+<a href="ina/kaya_EDMEDIA04.pdf">Article (PDF, 99 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Development of a
+System that Provides Teachers with Useful Resources from Various
+Viewpoints
+Based on Ontology<br>
+<b>Authors</b>: T. Kasai, H. Yamaguchi, K. Nagano, and R. Mizoguchi<br>
+<b>Reference: </b>Proc. of the sixteenth World Conference on
+Educational
+Mutimedia, Hypermedia &amp; Telecommunications (ED-MEDIA 2004), Lugano,
+Switzerland, June 21-26, pp. 3349-3356, 2004. <br>
+<a href="kasai/kasai-EDMEDIA04.pdf">Article (PDF, 3,256 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Leaner
+Model Ontology
+and leaner Model Agent<br>
+<b>Authors</b>: Weiqin Chen and Riichiro Mizoguchi<br>
+<b>Reference: </b>Cognitive Support for Learning - Imagining the
+Unknown, P.
+Kommers, Ed., IOS Press, pp.189-200, June, 2004.<br>
+<a href="miz/LMontology.pdf">Article (PDF, 146 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Deployment of an
+Ontological Framework of Functional Design Knowledge<br>
+<b>Authors</b>: Y. Kitamura, M. Kashiwase, M. Fuse, R. Mizoguchi<br>
+<b>Reference</b>: Advanced Engineering Informatics, Vol. 18, Issue 2,
+pp.
+115-127, Apr. 2004.<br>
+<a href="kita/kita-aei04.pdf">Article (Preprint version. PDF, 514KB)</a>
+(For
+published version, please visit <a
+ href="http://www.sciencedirect.com/science/journal/14740346">the
+journal site </a>)
+</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontology-based
+systematization of functional knowledge,<br>
+<b>Authors</b>: Kitamura, Y., Mizoguchi, R.,<br>
+<b>Reference</b>: Journal of Engineering Design, Taylor &amp; Francis,
+Vol. 15,
+Number 4, pp. 327-351, August, 2004.<br>
+<a href="kita/kita-jed04.pdf">Article (Preprint version, PDF, 548KB</a>)
+(For
+published version, please visit <a
+ href="http://www.tandf.co.uk/journals/titles/09544828.asp">the journal
+site</a>).</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Tutorial
+on
+ontological engineering - Part 3: Advanced course of ontological
+engineering<br>
+<b>Authors</b>: Mizoguchi, R. <br>
+<b>Reference</b>: New Generation Computing, OhmSha&amp;Springer,
+Vol.22, No.2,
+pp.198-220, 2004.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Part3V3.pdf">Article
+(PDF,
+446KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Tutorial
+on
+ontological engineering - Part 2: Ontology development, tools and
+languages<br>
+<b>Authors</b>: Mizoguchi, R. <br>
+<b>Reference</b>: New Generation Computing, OhmSha&amp;Springer,
+Vol.22, No.1,
+pp.61-96, 2004<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Part2V3.pdf">Article
+(PDF,
+799KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontological Knowledge
+Base Reasoning with Sort-Hierarchy and Rigidity<br>
+<b>Authors</b>: <a href="http://research.nii.ac.jp/%7Ekaneiwa/">Kaneiwa,
+K.</a>
+&amp; Mizoguchi, R. <br>
+<b>Reference</b>: Proc. of the Ninth International Conference on the
+Principles
+of Knowledge Representation and Reasoning (<a
+ href="http://magic.it.uts.edu.au/KR2004/">KR2004</a>), pp. 278-288,
+June 2-5,
+Whistler, Canada, 2004..<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/KR04KaneiwaK.pdf">Article
+(PDF, 183KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: A Design Environment to Articulate Design Intention of
+Learning
+Contents<br>
+<b>Authors</b>: Y. Hayashi, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: International Journal of Continuing Engineering
+Education and
+Life Long Learning, Vol. 14, No. 3, pp.276-296, 2004.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="../../../../hayashi/IJCEELL%2014%283%29%20Paper%207.pdf">Article
+(PDF, 680KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Intellect Transmmision Support Base on Organizational
+Intellect
+Model<br>
+<b>Authors</b>: Hayashi, Y. Tanaka, Y., Ikeda, M, and Mizoguchi, R.<br>
+<b>Reference</b>: Proc. of e-Society2004, <st1:country-region w:st="on"><st1:place
+ w:st="on">Spain</st1:place></st1:country-region>, June 16-19, pp.
+1094-1098,
+2004. </span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="hayashi/e-Society2004-hayashi.pdf">Article (PDF, 444KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Intellect
+Disclosure
+Support Based On Organizational Intellect Model<br>
+<b>Authors</b>: Ikeda, M, Hayashi, Y. Tanaka, Y., Takeuchi, M., and
+Mizoguchi,
+R.<br>
+<b>Reference</b>: International Semantic Web Conference(ISWC)2004
+Workshop on
+Applications of Semantic Web Technologies for E-learning, Hiroshima,
+Japan,
+Nov. 8, pp. 43-48, 2004. <br>
+<a href="hayashi/SWEL04_CR-ike-final.pdf">Article (PDF, 699KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontological
+integration of data models for cell signaling pathways<br>
+<b>Authors</b>: Takako Takai-Igarashi, Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of GIW2004, <st1:place w:st="on"><st1:city
+ w:st="on">Tokyo</st1:city></st1:place>,
+Dec.13-15, 2004.<br>
+<a href="miz/Takai_GIW2004.pdf">Article (PDF, 222KB)</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2003" id="2003"></a><i><span lang="EN-US">2003</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>対象
+モデリングの視点から見た知識表現<span lang="EN-US"><br>
+<b>Authors</b>: </span>溝口理一郎，池田満，來村徳信<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会誌<span lang="EN-US">, Vol.18, No.2,
+pp.183-192,2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ailec7.pdf">Article
+(PDF,
+140KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>協調
+学習におけるインタラクション分析支援システム<span lang="EN-US"><br>
+<b>Authors</b>: </span>稲葉晶子，大久保亮二，池田満，溝口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>情報処理学会論文誌<span lang="EN-US">, vol.44, no.11,
+pp.
+2617-2627, 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/ipsj03.pdf">Article
+(PDF,
+1.75MB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>オン
+トロジーアウェアな学習コンテンツ設計環境<span lang="EN-US"><br>
+<b>Authors</b>: </span>林 雄介，山崎龍太郎，池田 満，溝口理一郎<span lang="EN-US">.<br>
+</span><b><span lang="PT-BR" style="">Reference</span></b><span
+ lang="PT-BR" style="">: </span>情報処理学会論文誌<span lang="PT-BR" style="">,
+Vol. 44, No. 1, pp. 195-208, 2003.<br>
+</span><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ipsj-iDesigner-hayashi.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ipsj-iDesigner-hayashi.pdf">Article(PDF
+file 945KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Ontology
+Engineering
+Environments<br>
+<b>Authors</b>: R. Mizoguchi<br>
+<b>Reference</b>: Handbook on Ontologies, S. Staab and R. Studer
+(editors),
+(2003) pp. 275-295.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/HandBookMiz3.pdf">Article
+(PDF, 816KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Document
+Exchange
+Model for Augmenting Added Value of B2B Collaboration<br>
+<b>Authors</b>: K. Hayashi and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of Fifth International Conference on Electric
+Commerce,
+pp. 459-465, Pittsburgh, U.S.A., Sep 30 - Oct 3, 2003.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ICED_CR_submit_hayashi_3.pdf">Article
+(PDF, 78KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Tutorial
+on
+ontological engineering - Part 1: Introduction to Ontological
+Engineering <br>
+<b>Authors</b>: Mizoguchi, R. <br>
+<b>Reference</b>: New Generation Computing, OhmSha&amp;Springer,
+Vol.21, No.4,
+pp.365-384, 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Part1-pdf2.pdf">Article
+(PDF, 298KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Testing
+of
+understanding by use of an ontology methodology <br>
+<b>Authors</b>: Soldatova, L., &amp; Mizoguchi, R. <br>
+<b>Reference</b>: Proc. of Joint Workshop of Cognition and Learning, <st1:state
+ w:st="on"><st1:place w:st="on">Berlin</st1:place></st1:state>, Sep.
+8-9,
+pp.202-205. 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/larisa/TU.pdf">Article
+(PDF,
+72KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Ontology
+of tests <br>
+<b>Authors</b>: Soldatova, L., &amp; Mizoguchi, R. <br>
+<b>Reference</b>: Proc. Computers and Advanced Technology in Education,
+<st1:country-region w:st="on"><st1:place w:st="on">Greece</st1:place></st1:country-region>,June
+30-July 2, pp.175-180. 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/larisa/402-115.pdf">Article
+(PDF, 193KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Generation of test
+based on test ontology <br>
+<b>Authors</b>: Soldatova, L., &amp; Mizoguchi, R. <br>
+<b>Reference</b>: Proc. ICCE03 (International Conference on Computers
+in
+Education), <st1:place w:st="on">Hong Kong</st1:place>, Dec. 2-5, pp.
+1147-1150. 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/larisa/icce6864.pdf">Article
+(PDF, 58KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Management of
+Dependency between Two or More Ontologies in an Environment for
+Distributed
+Development<br>
+<b>Authors</b>: Sunagawa, E., Kozaki, K., Kitamura, Y. &amp;
+Mizoguchi,, R. <br>
+<b>Reference</b>: Proceedings of the International Workshop on Semantic
+Web
+Foundations and Application Technologies (SWAFT), Nara, Japan, March
+12, 2003<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/sunagawa/Management%20of%20Dependency%20between%20Two%20or%20More%20Ontologies%20in%20an%20Environment%20for%20Distributed%20Development.pdf">Article
+(PDF, 250KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Hozo:
+Treatment of
+"Role", "Relationship" and Dependency Management<br>
+<b>Authors</b>: K. Kozaki, E. Sunagawa, Y. Kitamura and R. Mizoguchi<br>
+<b>Reference</b>: Poster and Demonstrations of the Second International
+Semantic Web Conference (ISWC2003), Sanibel Island, FL, USA, October
+20-23, pp.
+13-14, 2003<br>
+<a href="kozaki/ISWC2003DEMO_kozaki.pdf">Article (PDF, 114KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Systematization of
+Nanotechnology Knowledge Through Ontology Engineering</span>－<span
+ lang="EN-US">A
+Trial Development of Idea Creation Support System for Materials Design
+based on
+Functional Ontology<br>
+<b>Authors</b>: K. Kozaki, Y. Kitamura and R. Mizoguchi<br>
+<b>Reference</b>: Poster and Demonstrations of the Second International
+Semantic Web Conference (ISWC2003), Sanibel Island, FL, USA, October
+20-23,
+pp.63-64, 2003<br>
+<a href="kozaki/iswc2003pos_kozaki.pdf">Article (PDF, 363KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Process-aware
+Authoring of Web-based Educational Systems<br>
+<b>Authors</b>: <a href="http://wwwis.win.tue.nl/%7Elaroyo/">Aroyo, L.</a>
+&amp; Mizoguchi, R.<br>
+<b>Reference</b>: Proceedings of the First International Workshop of
+Semantic
+Web for Web-based Learning (SW-WL03), pp. 212-221, Velden, Austria,
+June 16,
+2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/lora/sw-wl03.pdf">Article
+(PDF,
+912KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: OntoAIMS:
+Ontological
+Approach to Courseware Authoring<br>
+<b>Authors</b>: <a href="http://wwwis.win.tue.nl/%7Elaroyo/">Aroyo, L.</a>,
+Mizoguchi, R. &amp; Tzolov, C. <br>
+<b>Reference</b>: Proceedings of the International Conference on
+Computers in
+Education (ICCE2003), pp.1011-1014, Wanchai, HongKong, December 2-5,
+2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/lora/icce03.pdf">Article
+(PDF,
+425KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:Authoring
+Support
+Framework for Intelligent Educational Systems<br>
+<b>Authors</b>: <a href="http://wwwis.win.tue.nl/%7Elaroyo/">Aroyo, L.</a>
+&amp; Mizoguchi, R.<br>
+<b>Reference</b>: Proceedings of the Artificial Intelligence in
+Education
+(AIED2003), pp. 362-364, Sydney, Australia, July 20-24, 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/lora/aied03.pdf">Article
+(PDF,
+553KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: The
+Proposal of an
+Expression of the Instructional Model of Information Education based on
+Ontology Theory<br>
+<b>Authors</b>: Kasai, T., Yamaguchi H., &amp; Mizoguchi R.<br>
+<b>Reference</b>: Proceedings of World Conference on Educational
+Multimedia and
+Hypermedia (ED-MEDIA2003), pp.1984-1987, <st1:state w:st="on">Hawaii</st1:state>,
+<st1:country-region w:st="on"><st1:place w:st="on">America</st1:place></st1:country-region>,
+June 23-28, 2003.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kasai/kasai-edmedia03.pdf">Article
+(PDF, 24KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Ontological
+Approach for Supporting the Instructional Design Process of Information
+Education<br>
+<b>Authors</b>: Kasai, T., Yamaguchi H., &amp; Mizoguchi R.<br>
+<b>Reference</b>: Proceedings of the Artificial Intelligence in
+Education
+(AIED2003), pp.437-439, <st1:place w:st="on"><st1:city w:st="on">Sydney</st1:city>,
+<st1:country-region w:st="on">Australia</st1:country-region></st1:place>,
+July
+20-24, 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kasai/kasai-aied03.pdf">Article
+(PDF, 19KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Development of a
+System that Supports Teachers of IT Education in the Instructional
+Design
+Process based on Ontology<br>
+<b>Authors</b>: <st1:place w:st="on">Kasai</st1:place>, T., Yamaguchi
+H., &amp;
+Mizoguchi R.<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Computers in
+Education (ICCE2003), pp.1099-1102, Wanchai, HongKong, December 2-5,
+2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kasai/kasai-ICCE03.pdf">Article
+(PDF, 24KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: What
+Learning Patterns
+are Effective for a Learner's Growth? - An ontological support for
+designing
+collaborative learning<br>
+<b>Authors</b>: Inaba, A., Ikeda, M., &amp; Mizoguchi, R.<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Artificial
+Intelligence in Education (AIED2003), pp. 219-226, Sydney, Australia,
+July
+20-24 ,2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/aied03.pdf">Article
+(PDF,
+101KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Models
+and Vocabulary
+to Represent Learner-to-Learner Interaction Process in Collaborative
+Learning<br>
+<b>Authors</b>: Inaba, A., Ohkubo, R., Ikeda, M., &amp; Mizoguchi, R.<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Computers in
+Education (ICCE2003), pp.1088-1096, Wanchai, HongKong, December 2-5,
+2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/icce03.pdf">Article
+(PDF,
+155KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Modeling
+Learner-To-Learner Interaction Process in Collaborative Learning - An
+Ontological Approach to Interaction Analysis<br>
+<b>Authors</b>: Inaba, A., Ohkubo, R., Ikeda, M., &amp; Mizoguchi, R.<br>
+<b>Reference</b>: Supplementary Proceedings of the International
+Conference on
+Computer Support for Collaborative Learning (CSCL2003), pp. 4-6,
+Bergen,
+Norway, June 14-18 , 2003 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/cscl03.pdf">Article
+(PDF,
+131KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: The Model
+of
+Metacognitive Skill and How to Facilitate Development of the Skill<br>
+<b>Authors</b>: Kayashima, M. &amp; Inaba, A.<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Computers in
+Education (ICCE03), pp. 277-285, Wanchai, Hong Kong, December 2-5, 2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/kaya-icce03.pdf">Article
+(PDF, 160KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Towards
+Helping
+Learners Master Self-Regulation Skills<br>
+<b>Authors</b>: Kayashima, M. &amp; Inaba, A.<br>
+<b>Reference</b>: Supplementary Proceedings of the International
+Conference on Artificial
+Intelligence in Education (AIED2003), pp.602-614, <st1:place w:st="on"><st1:city
+ w:st="on">Sydney</st1:city>, <st1:country-region w:st="on">Australia</st1:country-region></st1:place>,
+July 20-24, 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/kaya-aied03ws.pdf">Article
+(PDF, 374KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Difficulties in
+Mastering Self-Regulation Skill and Supporting Methodologies<br>
+<b>Authors</b>: Kayashima, M. &amp; Inaba, A.<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Artificial
+Intelligence in Education (AIED2003), pp.443-445, <st1:place w:st="on"><st1:city
+ w:st="on">Sydney</st1:city>, <st1:country-region w:st="on">Australia</st1:country-region></st1:place>,
+July 20-24 , 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/kaya-aied03.pdf">Article
+(PDF, 265KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: How do
+Computers help
+a learner to master self-regulation skill?<br>
+<b>Authors</b>: Kayashima, M. &amp; Inaba, A.<br>
+<b>Reference</b>: Supplementaly Proceedings of the International
+Conference on
+Computer Support for Collaborative Learning (CSCL2003), pp.123-125, <st1:place
+ w:st="on"><st1:city w:st="on">Bergen</st1:city>, <st1:country-region
+ w:st="on">Norway</st1:country-region></st1:place>,
+June 14-18, 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/icce03.pdf">Article
+(PDF,
+162KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Learning
+Goals and
+Design Rationales in Collaborative Learning - An Ontological Approach
+to
+Support Design of Collaborative Learning<br>
+<b>Authors</b>: Inaba, A., Ikeda, M., &amp; Mizoguchi, R., <br>
+<b>Reference</b>: Proceedings of the International Symposium of the
+Institute
+of Scientific and Industrial Research (ISIR Symposium), pp. 81-84, <st1:place
+ w:st="on"><st1:city w:st="on">Osaka</st1:city>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>,
+March 10-11, 2003<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/isir03.pdf">Article
+(PDF,
+54KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Organizing Knowledge
+about Functional Decomposition,<br>
+<b>Authors</b>: Kitamura, Y., Mizoguchi, R.,<br>
+<b>Reference</b>: Proc. of the 14th International Conference on
+Engineering
+Design (ICED 03), <st1:place w:st="on"><st1:city w:st="on">Stockholm</st1:city>,
+<st1:country-region w:st="on">Sweden</st1:country-region></st1:place>,
+August
+19-21, 2003. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-iced03.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Ontological Schema
+for Sharing Conceptual Engineering Knowledge<br>
+<b>Authors</b>:Kitamura, Y., Mizoguchi, R.,<br>
+<b>Reference</b>: Proc. of the International Workshop on Semantic Web
+Foundations and Application Technologies, pp. 25-28, Nara, Japan, March
+12,
+2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-swfat03.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Collaborative
+Learning Design Environment to Harmonize Sense of Participation<br>
+<b>Authors</b>: Takeuchi, M., Odawara, R., Hayashi, Y., Ikeda, M., and
+Mizoguchi, R.<br>
+<b>Reference</b>: Proc. of The International Conference on Computers in
+Education 2003 (ICCE 2003), pp.462-466, <st1:place w:st="on">Hong Kong</st1:place>,
+2003<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/takeuchi/icce2003_takeuchi.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/takeuchi/icce2003-takeuchi.pdf">Article(PDF
+file 3.2MB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Environment for
+Distributed Ontology Development Based on Dependency Management <br>
+<b>Authors</b>: Sunagawa, E., Kozaki, K., Kitamura, Y., and Mizoguchi R.<br>
+<b>Reference</b>: Proc. of the Second International Semantic Web
+Conference
+(ISWC2003), pp.453-468, <st1:place w:st="on"><st1:city w:st="on">Sanibel
+Island</st1:city>, <st1:state w:st="on">FL</st1:state>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>,
+Oct. 2003.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/sunagawa/ISWC2003_sunagawa.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/sunagawa/An%20Environment%20for%20Distributed%20Ontology%20Development.pdf">Article(PDF
+file 451KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:Ontology-based
+description of functional design knowledge and its use in a functional
+way
+server,<br>
+<b>Authors</b>: Kitamura, Y., Mizoguchi, R.,<br>
+<b>Reference: </b>Expert Systems with Application, Vol. 24, Issue 2,
+pp.
+153-166, Feb. 2003.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-eswa02.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-eswa02.pdf">Article
+(Preprint version, PDF, 767KB) (</a>For a published version, please
+visit <a href="http://www.elsevier.com/locate/eswa">the journal site</a>).</span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Kfarm: An Ontology-aware Support Environment for
+Learning-Oriented
+Knowledge Management<br>
+<b>Authors</b>: Y. Hayashi, H. Tsumoto, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: </span>教育システム情報学会英文論文誌<span lang="EN-US">, 1[1], pp.
+80-89, 2003.
+</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="hayashi/JSiSE_EJ-hay-CR.pdf">Article
+(PDF, 482KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Communication Support
+System Adapted to a User's Background Knowledge and the Topic Context<br>
+<b>Authors</b>: K. Sumi and T. Nishida<br>
+<b>Reference</b>: Systems and Computers in <st1:country-region
+ w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region>,
+34[7] (2003) pp.87-98.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A Design
+Support
+Environment for Collaborative Spaces Blending Practice and Education<br>
+<b>Authors</b>: M. Takeuchi, Y. Hayashi, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: SANKEN International Workshop on Intelligent Systems
+2003
+(SIWIS 2003), <st1:city w:st="on"><st1:place w:st="on">Osaka</st1:place></st1:city>,
+Japan, December 17, 2003.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Ontology
+Development
+at the Conceptual Level for Theory-Aware ITS Authoring Systems<br>
+<b>Authors</b>: V. Psyche, R. Mizoguchi and J. Bourdeau<br>
+<b>Reference</b>: SANKEN International Workshop on Intelligent Systems
+2003
+(SIWIS 2003), <st1:city w:st="on"><st1:place w:st="on">Osaka</st1:place></st1:city>,
+Japan, December 17, 2003.</span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Who is a Person of High Intellectual Reputation in an
+Organization?<br>
+<b>Authors</b>: Y. Hayashi, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: Proceedings of the International Conference on
+Artificial
+Intelligence in Education (AIED2003), pp. 422-424, Sydney, Australia,
+July
+20-24 ,2003.</span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="hayashi/AIED03_741-hay-CR.pdf">Article (PDF, 19KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><b><span lang="EN-US">Title</span></b><span
+ lang="EN-US">: Supporting design for activities suited to the
+situation of
+organizational learning - A mechanism to generate Intellectual
+reputation of
+organization members -<br>
+<b>Authors</b>: Hayashi, Y., Ikeda, M., Takeuchi, M., and Mizoguchi, R.<br>
+<b>Reference</b>: Proc. of PEG'03, CD-ROM, 24 (Abstract: pp.26-27), 28
+June -
+1July, <st1:place w:st="on"><st1:city w:st="on">St. Petersburg</st1:city>,
+<st1:country-region w:st="on">Russia</st1:country-region></st1:place>,
+2003. </span></p>
+<p style="margin-top: 0mm;"><span lang="EN-US"><a
+ href="hayashi/PEG03-hay-CR.pdf">Article
+(PDF, 636KB)</a></span></p>
+<p style="margin-bottom: 0mm;"><strong><span lang="EN-US"
+ style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Title</span></strong><span
+ lang="EN-US">: Cell Signaling Networks Ontology <br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Authors</span></strong>:
+Takako Takai, Igarashi and Riichiro Mizoguchi <br>
+<strong><span style="font-family: &quot;ＭＳ Ｐゴシック&quot;;">Reference</span></strong>:
+<a href="http://www.bioinfo.de/isb/">In Silico Biol.</a> 4, 0008 (2003)<br>
+<a href="http://www.bioinfo.de/isb/2003/04/0008/">Article</a> </span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2002" id="2002"></a><i><span lang="EN-US">2002</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>タス
+ク・ドメインロールに基づくオントロジー構築ガイドシステムの設計と開発<span lang="EN-US"><br>
+<b>Authors</b>: </span>石川 誠一<span lang="EN-US">, </span>久保 成毅<span
+ lang="EN-US">, </span>古崎
+晃司<span lang="EN-US">, </span>來村 徳信<span lang="EN-US">, </span>溝口 理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">,
+Vol.17,No5,pp.585-597,2002<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002ishikawa.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002ishikawa.pdf">Article(PDF
+file, 114KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>オン
+トロジー構築・利用環境「法造」の開発と利用－実規模プラントのオントロジーを例として<span lang="EN-US"><br>
+<b>Authors</b>: </span>古崎 晃司，來村 徳信，佐野 年伸，本松 慎一郎，石川 誠一<span lang="EN-US">,
+</span>溝口
+理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.17, No4, pp
+407-419,2002<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002kozaki_hm.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002kozaki_hm..pdf">Article(PDF
+file, 105KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>「ロー
+ル」および「関係」に関する基礎的考察に基づくオントロジー記述環境の開発<span lang="EN-US"><br>
+<b>Authors</b>: </span>古崎 晃司，來村 徳信，池田 満，溝口 理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, Vol.17, No.3,
+pp.196-208,2002<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002kozaki_oe.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/jsai2002kozaki_oe.pdf">Article(PDF
+file, 524KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>オン
+トロジー工学に基づく機能的知識体系化の枠組み<span lang="EN-US"><br>
+<b>Authors</b>: </span>來村 徳信，溝口 理一郎<span lang="EN-US">, <br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, 17(1),
+pp.61-72, 2002<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai01a.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai01a.pdf">Article
+(PDF, 1.06MB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>機能
+オントロジーに基づく機能的知識の体系的記述とその機能構造設計における利用<span lang="EN-US"><br>
+<b>Authors</b>: </span>來村 徳信，笠井 俊信，吉川 真理子，高橋 賢，古崎 晃司，溝口 理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会論文誌<span lang="EN-US">, 17(1), pp.
+73-84, 2002 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai01b.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai01b.pdf">Article
+(PDF, 1.06MB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>生産
+技術の知識ベースと生産工程改善<span lang="EN-US"><br>
+<b>Authors</b>: </span>布瀬雅義，柏瀬雅一，來村 徳信，溝口 理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>精密工学会誌，<span lang="EN-US">68[4], 507-510,
+2002.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/seisan.pdf">Article
+(PDF,
+1,343KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>付加
+価値増大のための企業間コラボレーションモデル<span lang="EN-US"><br>
+<b>Authors</b>: </span>林　浩一<span lang="EN-US">, </span>溝口　理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>情報処理学会論文誌<span lang="EN-US">, Vol. 43, No.
+11, pp.
+3343-3354., 2002.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Hozo: An
+Environment
+for Building/Using Ontologies Based on a Fundamental Consideration of
+"Role" and "Relationship"<br>
+<b>Authors</b>: Kouji Kozaki, Yoshinobu Kitamura, Mitsuru Ikeda, and
+Riichiro
+Mizoguchi<br>
+<b>Reference</b>: Proc. of the 13th International Conference Knowledge
+Engineering and Knowledge Management(EKAW2002), pp.213-218, Siguenza,
+Spain,
+October 1-4, 2002<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/ekaw2002kozaki.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/EKAW2002_kozaki.pdf">Article(PDF
+file 519KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Consensus
+Formation
+Support System via Ontology Generation,<br>
+<b>Authors</b>: Kaoru Sumi and Riichiro Mizoguchi <br>
+<b>Reference</b>: PRICAI'02 International Workshop on Intelligent Media
+Technology for Communicative Reality, 2002.<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kaoru/IMTCR.pdf">Article(PDF
+file 484KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Interaction
+Analysis Support System for CSCL<br>
+<b>Authors</b>: A. Inaba, R. Ohkubo, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of ICCE2002, pp. 358-362, 2002.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-ICCE02.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-ICCE02.PDF">Article(PDF
+file 221KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Supporting Interaction
+Analysis for Collaborative Learning<br>
+<b>Authors</b>: A. Inaba, R. Ohkubo, M. Ikeda, R. Mizoguchi and J.
+Toyoda<br>
+<b>Reference</b>: Proc. of the 6th International Conference, ITS 2002, <st1:place
+ w:st="on"><st1:city w:st="on">Biarritz</st1:city>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place>,
+pp. 1000-1001, 2002 . <br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-ITS02.PDF">Article(PDF
+file 12.4KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Applications of a
+Collaborative Learning Ontology <br>
+<b>Authors</b>: B. Barros, M. F. Verdejo, T. Read &amp; R. Mizoguchi <br>
+<b>Reference</b>: MICAI'2002 Mexican International Conference on
+Artificial
+Intelligence). LNAI, Springer-Verlag, Apr. 22-26, pp.301-310, 2002. <br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/119.pdf">Article(PDF
+file 610KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Collaborative
+ontological engineering of instructional design knowledge for an ITS
+authoring
+environment <br>
+<b>Authors</b>:Bourdeau, Jacqueline and Riichiro Mizoguchi <br>
+<b>Reference</b>: Proc. of the 6th International Conference, ITS 2002, <st1:place
+ w:st="on"><st1:city w:st="on">Biarritz</st1:city>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place>,
+June 2-7, pp.399-409, IOS Press, 2002.<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/its2002paper_n._54_final.pdf">Article(PDF
+file 160KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontology-based
+systematization of functional knowledge <br>
+<b>Authors</b>: Mizoguchi, R. <br>
+<b>Reference</b>: Proc. of TMCE2002:Tools and methods of competitive
+engineering, <st1:city w:st="on"><st1:place w:st="on">Wuhan</st1:place></st1:city>,
+P.R.China, pp.45-64, 2002.<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Miz16P.pdf">Article(PDF
+file 311KB)</a> </span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Collaborative-learning Support Function to Harness Organizational
+Intellectual
+Synergy<br>
+<b>Authors</b>: Hiroyuki Tsumoto, Yusuke Hayashi, Mitsuru Ikeda, Akiko
+Inaba,
+and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of ICCE 2002 , Auckland, New Zealand, Dec. 3-6,
+, pp.
+297-301, 2002 <br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/tsumoto/icce2002_tsumoto.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/tsumoto/icce2002_tsumoto.pdf">Article(PDF
+file, 186KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Intellectual
+Genealogy Graph -Affording a Fine Prospect of Organizational Learning-<br>
+<b>Authors</b>: Hayashi, Y., Tsumoto, H., Ikeda, M., and Mizoguchi, R.<br>
+<b>Reference</b>: Proc. of the 6th International Conference on
+Intelligent
+Tutoring Systems (ITS 2002), pp.10-20, San Sebastian, Spain and
+Biarritz,
+France , June 2 - 7, 2002.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ITS2002-hayashi.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ITS2002-hayashi.pdf">Article(PDF
+file 338KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Kfarm: A
+Knowledge
+Management Support System Based on Dual Loop Model<br>
+<b>Authors:</b> Hayashi, Y., Tsumoto, H., Ikeda, M., and Mizoguchi, R.<br>
+<b>Reference:</b> Proc. of Pan-Yellow-Sea International Workshop on
+Information
+Technologies for Network Era(PYIWIT'02), pp.235-242, Saga, Japan, March
+7 - 8,
+2002.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/PIYWIT-hay-CR.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/PIYWIT-hay-CR.pdf">Article(PDF
+file 452KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Functional Concept
+Ontology and Its Application to Automatic Identification of Functional
+Structures, <br>
+<b>Authors</b>: Kitamura, Y., Sano, T., Namba, K., and Mizoguchi, R., <br>
+<b>Reference</b>: Advanced Engineering Informatics (formerly known as
+Artificial Intelligence in Engineering), Vol. 16, No. 2, pp. 145-163,
+2002.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-aei02.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-aei02.pdf">Article
+(Preprint version, PDF, 506KB)</a> (For a published version, please
+visit <a href="http://www.elsevier.com/locate/aei">the journal site</a>).</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:Ontology-Based
+Modeling of Product Functionality and Use -Part 1: Functional-Knowledge
+Modeling, <br>
+<b>Authors</b>: Y. Kitamura and R. Mizoguchi, <br>
+<b>Reference: </b>Proc. of The Third International Seminar and
+Workshop
+Engineering Design in Integrated Product Development (EDIProD 200), pp.
+105-114, <st1:place w:st="on"><st1:city w:st="on">Lagow</st1:city>, <st1:country-region
+ w:st="on">Poland</st1:country-region></st1:place>, October 10-12, 2002<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/members/kita/pub/kita-EDIProD02.pdf">Article</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:Ontology-Based
+Modeling of Product Functionality and Use - Part 2: Considering Use and
+Unintended Behavior<br>
+<b>Authors</b>: W.F van der Vegte, Y. Kitamura, R. Mizoguchi, I. Horvath<br>
+<b>Reference: </b>Proc. of The Third International Seminar and
+Workshop
+Engineering Design in Integrated Product Development (EDIProD 2002),
+pp.
+115-124, <st1:place w:st="on"><st1:city w:st="on">Lagow</st1:city>, <st1:country-region
+ w:st="on">Poland</st1:country-region></st1:place>, October 10-12, 2002.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/members/kita/pub/wilfred-EDIProD02.pdf">Article</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2001" id="2001"></a><i><span lang="EN-US">2001</span></i></h3>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>コン
+ピテンシーオントロジーに基く人的資源開発の設計支援アプローチ<span lang="EN-US"><br>
+<b>Authors</b>: </span>平田謙次・池田満・溝口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>教育システム情報学会誌<span lang="EN-US">, Vol. 18, No.
+34,
+pp.340-351, 2001<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/JSISE2001_Hirata.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/JSISE2001.6.22.pdf">Article(PDF
+file 126KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>動的
+学習グループ構成機能を備えた協調学習支援システムの開発<span lang="EN-US"><br>
+<b>Authors</b>: Thepchai Supnithi, </span>稲葉晶子<span lang="EN-US">, </span>池
+田満<span lang="EN-US">, </span>豊田順一<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>教育システム情報学会誌<span lang="EN-US">, Vol.18, No.1,
+pp.101-110, 2001<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ina/thep_jsise01.pdf">Article
+(PDF, 990KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>個人
+の背景知識と話題の文脈に適応したコミュニケーション支援<span lang="EN-US"><br>
+<b>Authors</b>: </span>角 薫<span lang="EN-US">, </span>西田 豊明，<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>電子情報通信学会論文誌<span lang="EN-US">,Vol.J84-D-I,
+No.8, </span>ソフトウェアエージェントとその応用論文特集<span lang="EN-US">, pp.1211-1221,
+2001.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>パブ
+リック・オピニオン・チャンネル<span lang="EN-US"> -</span>知識創造コミュニティの形成に向けて<span
+ lang="EN-US">-, <br>
+<b>Authors</b>: </span>畦地 真太郎<span lang="EN-US">, </span>福原 知宏<span
+ lang="EN-US">, </span>藤原
+伸彦<span lang="EN-US">, </span>角 薫<span lang="EN-US">, </span>松村 憲一<span
+ lang="EN-US">,
+</span>平田 高志<span lang="EN-US">, </span>矢野 博之<span lang="EN-US">, </span>西
+田 豊明，<span lang="EN-US"><br>
+<b>Reference</b>: </span>人工知能学会誌<span lang="EN-US">,Vol.16-1,
+pp.130-138 2001.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Total
+Resolution for
+Human Resource Development Based on Competency Ontology<br>
+<b>Authors</b>: Kenji Hirata, Mitsuru Ikeda, Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of the 9th International Conference on
+Computers in
+Education(ICCE'2001), pp.1149-1152, <st1:place w:st="on"><st1:city
+ w:st="on">Seoul</st1:city>, <st1:country-region w:st="on">Korea</st1:country-region></st1:place>,
+November
+12 - 15, 2001.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ICCE2001_Hirata.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ICCE2001_Hirata.pdf">Article(PDF
+file 305KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: The
+Meaning of LOM
+and LOM Authoring Tool on HRD<br>
+<b>Authors</b>: Kenji Hirata, Yoshiyuki Takaoka, Mamoru Ohta, Mitsuru
+Ikeda<br>
+<b>Reference</b>: Proc. of International Conference on Dublin Core and
+Metadata
+Applications 2001,pp.259-262, National Institute of Informatics, Tokyo,
+Japan,
+October 22-26, 2001<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/DC_Hirata.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/DC_Hirata.pdf">Article(PDF
+file 112KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Supporting
+Cooperative Consensus Formation via Ontologies<br>
+<b>Authors</b>: Kaoru Sumi and Riichiro Mizoguchi <br>
+<b>Reference</b>: The 2001 International Conference on Web Intelligence
+(WI-01), in Ning Zhong, Yiyu Yao, Jiming Liu, and Setsuo Ohsuga (Eds.),
+Web
+Intelligence: Research and Development (WI 2001 Proceedings), Lecture
+Notes in Artificial
+Intelligence, Vol. 2198, pp.525-529, Springer, 2001.<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kaoru/wi01.pdf">Article(PDF
+file 169KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Design
+and Analysis
+of Learners' Interaction based on Collaborative Learning Ontology<br>
+<b>Authors:</b> A. Inaba, R. Ohkubo, M. Ikeda, R. Mizoguchi, and J.
+Toyoda<br>
+<b>Reference:</b>Proc. of EuroCSCL01, pp.308-315, 2001<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-CSCL01.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-CSCL01.PDF">Article(PDF
+file 108KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Instructional
+Design Support Environment for CSCL - Fundamental Concepts and Design
+Patterns<br>
+<b>Authors:</b> A. Inaba, R. Ohkubo, M. Ikeda, R. Mizoguchi, and J.
+Toyoda<br>
+<b>Reference:</b>Proc. of Artificial Intelligence in Education
+AIED-2001, San
+Antonio, USA, pp.130-141, 2001<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-AIED01.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/inaba-AIED01.PDF">Article(PDF
+file 395KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Ontological
+Engineering: Foundation of the next generation knowledge processing <br>
+<b>Authors:</b> Riichiro Mizoguchi <br>
+<b>Reference:</b>N.Zhong et al.(Eds.) WI2001, LNAI2198,
+Springer-Verlag,
+pp.44-57, 2001 <br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/WI2001-Miz.pdf">Article(PDF
+file 326KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+platform for
+collaboration analysis in CSCL. An ontological approach <br>
+<b>Authors:</b> Barros, B., Mizoguchi, R. &amp; Verdejo <br>
+<b>Reference:</b> Proc. of Artificial Intelligence in Education
+AIED-2001, San
+Antonio, USA, pp.530-532, IOS Press, 2001 <br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/BarMizVerPoster.pdf">Article(PDF
+file 29KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Toward an
+Ontology-aware Support for Learning-Oriented Knowledge Management<br>
+<b>Authors:</b> Hayashi, Y., Tsumoto, H., Ikeda, M., and Mizoguchi, R.<br>
+<b>Reference:</b> Proc. of the 9th International Conference on
+Computers in
+Education(ICCE'2001), pp.1149-1152, <st1:place w:st="on"><st1:city
+ w:st="on">Seoul</st1:city>, <st1:country-region w:st="on">Korea</st1:country-region></st1:place>,
+November
+12 - 15, 2001.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ICCE2001-hay-CR.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/ICCE2001-hay-CR.pdf">Article(PDF
+file 234KB) </a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Knowledge
+Management Support Environment based on Dual Loop Model<br>
+<b>Authors:</b> Ikeda, M., Yusuke Hayashi, Tsumoto, H., and Mizoguchi,
+R.<br>
+<b>Reference</b>: Proc. of 2001 IEEE International Conference
+Multimedia and
+Expo (ICME2001), pp.840-843, <st1:place w:st="on"><st1:city w:st="on">Tokyo</st1:city>,
+<st1:country-region w:st="on">Japan</st1:country-region></st1:place>,
+August
+22-25, 2001.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/ikeda/ICME2001-ikeda-CR.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/ikeda/ICME2001-ikeda-CR.pdf">Article(PDF
+file 202KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Conceptual Level
+Design Environment for Learning Contents<br>
+<b>Authors</b>: Hayashi, Y.<br>
+<b>Reference</b>: Proc. of IFIP TC.13 International Conference on
+Human-Computer-Interaction(INTERACT'01), pp.640-643, <st1:place
+ w:st="on"><st1:city w:st="on">Tokyo</st1:city>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>,
+July 9 - 13, 2001.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/INTARACT2001-hayashi.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/INTARACT2001-hayashi.pdf">Article(PDF
+file 202KB) </a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Platform for
+Collaboration Analysis in CSCL: An ontological approach <br>
+<b>Authors</b>: Beatriz Barros, Riichiro Mizoguchi and Felisa Verdejo <br>
+<b>Reference</b>: Submitted to AIED01, <st1:place w:st="on"><st1:city
+ w:st="on">St. Antonio</st1:city>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>,
+May 19-23, 2001 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/BbRmFv.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/BbRMmFv-AIED.pdf">Article(PDF
+file, 887KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Ontology-based
+Description of Functional Design Knowledge and its Use in a Functional
+Way
+Server, <br>
+<b>Authors</b>:Yoshinobu Kitamura, Toshinobu Kasai and Riichiro
+Mizoguchi, <br>
+<b>Reference</b>: Proc. of the Pacific Asian Conference on Intelligent
+Systems
+2001 (PAIS 2001), pp. 400-409, Seoul, Korea, November 16-17, 2001.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-pais2001.pdf">Article
+(PDF, 372KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: An
+Ontology Editor in
+Hozo - Treatment of "Role" and "Relationship" -, <br>
+<b>Authors</b>:K. Kozaki, Y. Kitamura, M. Ikeda and R. Mizoguchi<br>
+<b>Reference</b>: Proc. of the Pacific Asian Conference on Intelligent
+Systems
+2001 (PAIS 2001), pp. 256-264, <st1:place w:st="on"><st1:city w:st="on">Seoul</st1:city>,
+<st1:country-region w:st="on">Korea</st1:country-region></st1:place>,
+November
+16-17, 2001.<br>
+<a href="kozaki/pais2001kozaki.pdf">Article (PDF,464KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Telme: A
+Personalized, Context-Aware Communication Support System<br>
+<b>Authors</b>: Kaoru Sumi and Toyoaki Nishida: <br>
+<b>Reference</b>: IEEE Intelligent Systems, Vol.16-3, May/June 2001,
+pp.21-28,
+2001.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Model-based Expert
+System based on a Domain Ontology, <br>
+<b>Authors</b>: Kitamura, Y., Ikeda, M., and Mizoguchi R., <br>
+<b>Reference</b>: Expert Systems: The Technology of Knowledge
+Management for
+the 21st Century, Vol. 1, Leondes, C.T. (ed.), pp. 171-196, Academic
+Press,
+2001.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="2000" id="2000"></a><i><span lang="EN-US">2000</span></i></h3>
+<p><b><span lang="EN-US">Title: </span></b>学習理論に基づく協調学習グループの構成のための学習目的<span
+ lang="EN-US"><br>
+<b>Authors: </b></span>稲葉晶子<span lang="EN-US">, </span>テップチャイ　サップニティ<span
+ lang="EN-US">, </span>池田満<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US">, </span>豊田順一<span lang="EN-US"><br>
+<b>Reference:</b> </span>電子情報通信学会論文誌<span lang="EN-US">, Vol. J83-D-I,
+No.6,
+pp.569-579, 2000.<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/IEICE2000.pdf">Article
+(PDF file, 639KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>知的
+訓練システム<span lang="EN-US">SmartTrainer</span>の設計と実現<span lang="EN-US"><br>
+<b>Authors</b>: </span>金来，林雄介，池田満，溝口理一郎<span lang="EN-US"><br>
+<b>Reference</b>: </span>電子情報通信学会論文誌<span lang="EN-US">, J83-D-I,
+No.4, (2000),
+430-440.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>出会
+いを支援するエージェント<span lang="EN-US">, <br>
+<b>Authors</b>: </span>角 康之<span lang="EN-US">, </span>角 薫<span
+ lang="EN-US">, </span>間瀬健二<span lang="EN-US">, <br>
+<b>Reference</b>: </span>エージェントテクノロジー最前線<span lang="EN-US">, </span>長尾
+確編<span lang="EN-US">, </span>共立出版<span lang="EN-US">, (2000), 167-196.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>パブ
+リック・オピニオン・チャンネル<span lang="EN-US"> -</span>知識創造コミュニティの形成に向けて<span
+ lang="EN-US">-,<br>
+<b>Authors</b>: </span>畦地 真太郎<span lang="EN-US">, </span>福原 知宏<span
+ lang="EN-US">, </span>藤原
+伸彦<span lang="EN-US">, </span>角 薫<span lang="EN-US">, </span>松村 憲一<span
+ lang="EN-US">,
+</span>平田 高志<span lang="EN-US">, </span>矢野 博之<span lang="EN-US">,</span>西
+田 豊明<span lang="EN-US">, <br>
+<b>Reference</b>: </span>人工知能学会誌（ショートノート）<span lang="EN-US">,Vol.15-1,(2000),
+69-73.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: Using
+Ontological
+Engineering to Overcome AI-ED Problems<br>
+<b>Authors</b>: Riichiro Mizoguchi and Jacqueline Bourdeau<br>
+<b>Reference</b>: International Journal of Artificial Intelligence in
+Education, Vol.11, No.2, pp.107-121, 2000<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/JAied.htm">Abstract</a>
+and
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/JAied.pdf">Article(PDF
+file, 130KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: IT
+Revolution in
+Learning Technology <br>
+<b>Authors</b>: Riichiro Mizoguchi <br>
+<b>Reference</b>: Proc. of the SchoolNet2000, pp.46-55, <st1:place
+ w:st="on"><st1:city w:st="on">Pusan</st1:city>, <st1:country-region
+ w:st="on">Korea</st1:country-region></st1:place>,
+August 4-5, 2000 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Pusan.htm">Abstract</a>
+and
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Pusan.pdf">Article(PDF
+file, 47KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Personal History of
+AI Research Activity - Expert System, Knowledge Engineering and
+Ontological
+Engineering <br>
+<b>Authors</b>: Riichiro Mizoguchi <br>
+<b>Reference</b>: The Sixth Symposium on Management (SymOrg2000),
+pp.15-19,
+Zlatibor, Yugoslavia, May 31-June 2, 2000 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/MizAbst.htm">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/MizAbst.pdf">Article(PDF
+file, 60KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Foundation of
+Knowledge Systematization: Role of Ontological Engineering <br>
+<b>Authors</b>: Riichiro Mizoguchi and Yoshinobu Kitamura <br>
+<b>Reference</b>: Industrial Knowledge Management - A Micro Level
+Approach,
+Rajkumar Roy Ed., Chapter 1, pp.17-36, Springer-Verlag, London, 2000<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Book5.htm">Abstract</a>
+and
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Book5.pdf">Article(PDF
+file, 203KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Construction and
+Deployment of a Plant Ontology <br>
+<b>Authors</b>: Riichiro Mizoguchi, Kouji Kozaki, Toshinobu Sano and
+Yoshinobu
+Kitamura <br>
+<b>Reference</b>: Knowledge Engineering and Knowledge Management -
+Methods,
+Models and Tools -, The 12th International Conference, EKAW2000,
+Lecture Notes
+in Artificial Intelligence 1937, Springer-Verlag, pp.113-128,
+Juan-les-Pins,
+France, October 2-6, 2000 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Ekaw.htm">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Ekaw.pdf">Article(PDF
+file,
+505KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">Development
+of an
+Environment for Building Ontologies which is based on a Fundamental
+Consideration of "Relationship" and "Role"<br>
+<b>Authors: </b>Kouji Kozaki, Yoshinobu Kitamura, Mitsuru Ikeda, and
+Riichiro
+Mizoguchi<br>
+<b>Reference:</b> The Sixth Pacific Knowledge Acquisition Workshop
+(PKAW2000),
+pp.205-221 ,Sydney, Australia, December 11-13, 2000<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/pkaw2000kozaki.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kozaki/pkaw2000kozaki.pdf">Article(PDF
+file, 549KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Is What
+You Write
+What You Get?: An Operational Model of Training Scenario<br>
+<b>Authors: </b>Yusuke Hayashi, Mitsuru Ikeda, Kazuhisa Seta, Osamu
+Kakusho and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> Fifth International Conference on Intelligent
+Tutoring
+Systems (ITS 2000), pp.192-201, Montreal, Canada, June 19 - 23, 2000<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/hayashi-ITS2000.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/hayashi-ITS2000.pdf">Article(PDF
+file, 496KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Functional
+Understanding based on an Ontology of Functional Concepts<br>
+<b>Authors: </b>Yoshinobu Kitamura, Toshinobu Sano and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> The Sixth Pacific Rim International Conference on
+Artificial
+Intelligence (PRICAI 2000), pp.723-733, Melbourne, Australia, August 28
+-
+September 1, 2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-pricai00.pdf">Article(PDF
+file, 317KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Towards
+Multi-view
+Functional Knowledge Server based on a Functional Ontology,<br>
+<b>Authors: </b>Yoshinobu Kitamura, Toshio Ueda, Weiqin Chen and
+Riichiro
+Mizoguchi,<br>
+<b>Reference:</b> International Design Conference - DESIGN 2000,
+pp.407-412, <st1:place w:st="on"><st1:city w:st="on">Dubrovnik</st1:city>,
+<st1:country-region w:st="on">Croatia</st1:country-region></st1:place>,
+May 23 - 26, 2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-design00.pdf">Article(PDF
+file, 238KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Is a
+Learning Theory
+Harmonious with others? -To form Effective Collaborative Learning
+Groups with
+Ontological Engineering-<br>
+<b>Authors: </b>Akiko Inaba, Thepchai Supnithi, Mitsuru Ikeda,
+Riichiro
+Mizoguchi, and Jun'ichi Toyoda<br>
+<b>Reference:</b> Proc. of ICCE2000, pp. 999-1006, Taipei, Taiwan, 2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/ICCE2000.pdf">Article(PDF
+file, 299KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">A Step
+Towards
+Integration of Learning Theories To Form an Effective Collaborative
+Learning
+Group<br>
+<b>Authors: </b>Akiko Inaba, Thepchai Supnithi, Mitsuru Ikeda,
+Riichiro
+Mizoguchi, and Jun'ichi Toyoda<br>
+<b>Reference:</b> Proc. of PRICAI2000, pp.826, Melbourne, Australia,
+2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/PRICAI2000%28poster%29.pdf">Article(PDF
+file, 63KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">An
+overview of&nbsp;
+"Learning Goal Ontology"<br>
+<b>Authors: </b>Akiko Inaba, Thepchai Supnithi, Mitsuru Ikeda,
+Riichiro
+Mizoguchi, and Jun'ichi Toyoda<br>
+<b>Reference:</b> Proc. of&nbsp; ECAI2000 Workshop on Analysis and
+Modelling of
+Collaborative Learning Interactions, pp.23-30, <st1:place w:st="on"><st1:city
+ w:st="on">Berlin</st1:city>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>,
+2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/ECAI2000.pdf">Article(PDF
+file, 283KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">"How Can
+We Form
+Effective Collaborative Learning Groups ~ Theoretical justification of
+"
+Opportunistic Group Formation " with ontological engineering ~ "<br>
+<b>Authors: </b>Akiko Inaba, Thepchai Supnithi, Mitsuru Ikeda,
+Riichiro
+Mizoguchi, and Jun'ichi Toyoda<br>
+<b>Reference:</b> Proc. of ITS'2000, pp.282-291, <st1:city w:st="on">Montreal</st1:city>
+<st1:country-region w:st="on"><st1:place w:st="on">Canada</st1:place></st1:country-region>,
+2000<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/CSCL/ITS2000.pdf">Article(PDF
+file, 171KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Intelligent Tool for
+Facilitating Creative Communication, <br>
+<b>Authors</b>: Kaoru Sumi, <br>
+<b>Reference</b>: published in Toyoaki Nishida ed., Dynamic Knowledge
+Interaction, CRC Press, (2000), 105-130.</span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">:
+Information
+Presentation by Inferring User's Interests Based on Individual
+Conceptual
+Spaces, <br>
+<b>Authors</b>: Kaoru Sumi, Yasuyuki Sumi, Kenji Mase, Shin-ichi
+Nakasuka, and
+Koichi Hori, <br>
+<b>Reference</b>: Systems and Computers in <st1:country-region
+ w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region>,
+Vol.31-10, (2000), 41-55. </span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1999" id="1999"></a><i><span lang="EN-US">1999</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>設計
+とオントロジー<span lang="EN-US"><br>
+<b>Authors:</b></span>溝口理一郎，来村徳信<span lang="EN-US"><br>
+<b>Reference:</b> </span>日本学術会議<span lang="EN-US">50</span>周年記念シンポジウム「設
+計の質的転換」講演論文集<span lang="EN-US">, pp.68-75, May, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-jsc99.pdf">Article
+(PDF file, 413KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b>故障オントロジー －概念抽出とその組織化－，<span
+ lang="EN-US"><br>
+<b>Authors:</b></span>來村 徳信<span lang="EN-US">, </span>溝口 理一郎<span
+ lang="EN-US"><br>
+<b>Reference:</b></span>人工知能学会誌<span lang="EN-US">,, Vol.14, No.5,
+pp.68-77, 1999<b>
+</b><br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99a.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99a.pdf">Article(PDF
+file, 348 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>故障
+オントロジーの考察に基づく故障診断方式
+－網羅的故障仮説生成－<span lang="EN-US"><br>
+<b>Authors:</b></span>來村 徳信<span lang="EN-US">, </span>西原 稔人<span
+ lang="EN-US">, </span>植田
+正彦<span lang="EN-US">, </span>池田 満<span lang="EN-US">, </span>小堀 聡<span
+ lang="EN-US">,
+</span>角所 収<span lang="EN-US">, </span>溝口 理一郎<span lang="EN-US"><br>
+<b>Reference:</b></span>人工知能学会誌<span lang="EN-US">, Vol.14, No.5,
+pp.78-87, 1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99b.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99b.pdf">Article(PDF
+file, 255 KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b>オントロジー工学基礎論
+－意味リンク，クラス，関係，ロールのオントロジー的意味論－<span lang="EN-US"><br>
+<b>Authors: </b></span>溝口理一郎，池田満，来村徳信<span lang="EN-US"><br>
+<b>Reference: </b></span>人工知能学会誌<span lang="EN-US">, Vol.14,
+pp.1019-1032, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-tr9903.pdf">Article
+(PDF file,130KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b>オントロジー研究の基礎と応用<span
+ lang="EN-US"><br>
+<b>Authors: </b></span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference: </b></span>人工知能学会誌<span lang="EN-US">, 14, pp.977-988,
+1999 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/KisoAppli.htm">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/KisoAppli.pdf">Article
+(PDF file,122KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>訓練
+システム<span lang="EN-US"> SmartTrainer </span>構築用オーサリングツール，<span
+ lang="EN-US"><br>
+<b>Authors</b>: </span>金来，林雄介，池田満，溝口理一郎，太田衛，高岡良行<span lang="EN-US"><br>
+<b>Reference</b>: </span>教育システム情報学会誌秋号，<span lang="EN-US">16(3)
+(1999), 139-148</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">Technical
+Knowledge
+Dissemination in Industries - Foundation and Practice -<br>
+<b>Authors:</b> Mamoru Ohta, Masahiko Ueda, Yoshiyuki Takaoka, Mitsuru
+Ikeda
+and Riichiro Mizoguchi<br>
+<b>Reference:</b>Proc. of ICCE'99, pp.285-290, <st1:city w:st="on">Chiba</st1:city>
+<st1:country-region w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region>,
+1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/toko/ohta_ICCE99.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/toko/ohta-ICCE99.PDF">Article
+(PDF file, 83KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">A
+Methodology of
+Collaborative Synthesis by Artificial Intelligence -- JSPS Research for
+the
+Future Program:Science of Synthesis --<br>
+<b>Authors: </b>Riichiro Mizoguchi, Eiji Arai, Masahiko Onosato, Koji
+Kawakami
+and Tadataka Konishi<br>
+<b>Reference:</b> 2nd International Workshop on Strategic Knowledge and
+Concept
+Formation, pp. 221-232, Iwate, Japan, October 20-22nd, 1999.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/SKCF.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-skfcw99.pdf">Article
+(PDF
+file,102 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">Towards
+Redesign based
+on Ontologies of Functional Concepts and Redesign Strategies<br>
+<b>Authors:</b>Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+<b>Reference:</b>2nd International Workshop on Strategic Knowledge and
+Concept
+Formation, pp. 181-192, Iwate, Japan, October 20-22nd, 1999.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-skfcw99.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-skfcw99.pdf">Article(PDF
+file, 266 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">An
+Ontology-Based
+Human Friendly Message Generation in a Multiagent Human Media System
+for Oil
+Refinery Plant Operation<br>
+<b>Authors:</b>Riichiro Mizoguchi, Toshinobu Sano and Yoshinobu Kitamura<br>
+<b>Reference:</b>Proc. of the IEEE SMC99, IEEE Systems, Man and
+Cybernetics
+Society, Vol.5, pp.648-653, Oct.1999 <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/SmcOnt.htm">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-smc01.pdf">Article
+(PDF file, 445 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">Human
+Media Interface
+System for the Next Generation Plant Operation<br>
+<b>Authors:</b>Riichiro Mizoguchi, Akio Gofuku, Yoshitsugu Matsuura
+Yoshihiko
+Sakashita and Mikio Tokunaga<br>
+<b>Reference:</b>Proc. of the IEEE SMC99, IEEE Systems, Man and
+Cybernetics
+Society, Vol.5, pp.630-635, Oct.1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/SMC-Zentai.htm">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-smc02.pdf">Article
+(PDF file, 318 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">A Multiple
+View
+Authoring Tool for Modeling Training Materials<br>
+<b>Authors:</b>Yusuke HAYASHI, Lai JIN, Kazuhisa SETA, Mitsuru
+IKEDA,Riichiro
+MIZOGUCHI<br>
+<b>Reference:</b>Proc. of ICCE'99, pp.187-190, Chiba Japan, 1999<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/hayashi-ICCE1999.htm">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/hayashi/hayashi-ICCE99.pdf">Article
+(PDF file, 95KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Ontology-aware
+systems in AI-ED research<br>
+<b>Authors:</b>Riichiro Mizoguchi and Jacqueline Bourdeau<br>
+<b>Reference:</b>AI Technical Report 99-04, I.S.I.R., <st1:place
+ w:st="on"><st1:placename w:st="on">Osaka</st1:placename> <st1:placetype
+ w:st="on">University</st1:placetype></st1:place>,
+March, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-tr9904.pdf">Article
+(PDF file,204KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Meta-Functions of
+Artifacts<br>
+<b>Authors:</b>Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+<b>Reference:</b>The Thirteenth International Workshop on Qualitative
+Reasoning\ (QR-99), pp.136-145, June 6-9 1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-qr99.html">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-qr99.pdf">Article(PDF
+file, 235 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Ontology of
+Functional Concepts of Artifacts<br>
+<b>Authors:</b> Y. Kitamura and R. Mizoguchi<br>
+<b>Reference:</b>AI Technical Report 99-01, I.S.I.R., <st1:place
+ w:st="on"><st1:placename w:st="on">Osaka</st1:placename> <st1:placetype
+ w:st="on">University</st1:placetype></st1:place>,
+March, 1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-tr9901.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-tr9901.pdf">Article(PDF
+file, 148 KB) </a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">An
+Ontology for
+Building A Conceptual Problem Solving Model<br>
+<b>Authors: </b>Mitsuru Ikeda, Kazuhisa Seta, Osamu Kakusho, and
+Riichiro
+Mizoguchi<br>
+<b>Reference: </b>Proc. of ECAI98 Workshop on Applications of
+ontologies and
+problem-solving model, pp. 126-133, (1998).(also submitted to Knowledge
+and
+Information Systems)<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/ikeda/ikeda-KAIS98.pdf">Article(PDF
+file, 130KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Ontological
+Engineering of Instruction: A Perspective<br>
+<b>Authors: </b>Jacqueline Bourdeau and Riichiro MIZOGUCHI<br>
+<b>Reference: </b>Proc. of AIED'99, pp.620-623, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/jac-aied99.pdf">Article
+(PDF file,130KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Learning
+Goal
+Ontology Supported by Learning Theories for Opportunistic Group
+Formation<br>
+<b>Authors: </b>Thepchai Supnithi, Akiko Inaba, Mitsuru Ikeda,Jun'ichi
+Toyoda,
+Riichiro Mizoguchi<br>
+<b>Reference: </b>Proc. of AIED'99, pp 67-74, Le Mans France, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/thep/thep-aied99.pdf">Article
+(PDF
+file,100KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">An
+Ontology-Aware
+Authoring Tool - Functional structure and guidance generation -<br>
+<b>Authors: </b>Lai JIN, Weiqin CHEN, Yusuke HAYASHI, Mitsuru
+IKEDA,Riichiro
+MIZOGUCHI&#197;, Yoshiyuki TAKAOKA, Mamoru OHTA<br>
+<b>Reference: </b>Proc. of AIED'99, pp.85-92, Le Mans France, 1999<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-aied99.pdf">Article
+(PDF file,63KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Communication
+Content
+Ontology for Learner Model Agent in Multi-agent Architecture<br>
+<b>Authors: </b>Weiqin Chen and Riichiro Mizoguchi<br>
+<b>Reference:</b>Proc. of the 7th International Conference on Computers
+in
+Education: ICCE99, pp.95-102, 1999<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/wendy/wendy-icce99.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/wendy/wendy-icce99.pdf">Article(PDF
+file, 49KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">An
+Ontological
+Analysis of Fault Process and Category of Faults<br>
+<b>Authors:</b>Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+<b>Reference:</b>Tenth International Workshop on Principles of
+Diagnosis
+(DX-99), pp. 118-128, June 8-11 1999, <st1:country-region w:st="on"><st1:place
+ w:st="on">Scotland</st1:place></st1:country-region>,</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1998" id="1998"></a><i><span lang="EN-US">1998</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>問題
+解決オントロジーの構成<span lang="EN-US">-</span>スケジューリングタスクオントロジーを例にして<span
+ lang="EN-US">-<br>
+<b>Authors:</b></span>瀬田和久<span lang="EN-US">, </span>池田満<span
+ lang="EN-US">, </span>角所収<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, Vol.13, No.4,
+pp.597-608,
+1998<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-jsai98.ps">Article(PS
+file, 2518 KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b>問題解決オントロジーに基づく概念レベルプログラミング環境<span
+ lang="EN-US">:CLEPE<br>
+<b>Authors:</b> </span>瀬田和久<span lang="EN-US">, </span>池田満<span
+ lang="EN-US">, </span>島輝行<span lang="EN-US">, </span>角所収<span
+ lang="EN-US">, </span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference:</b> </span>電子情報通信学会論文誌<span lang="EN-US">, Vol.
+J81-D-II, No.9,
+pp.2168-2180,1998<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-ieice-98.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-ieice98.pdf">Article(PDF
+file, 92 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: </span>次世
+代プラント用ヒューマンインターフェースの研究開発<span lang="EN-US"><br>
+<b>Authors</b>: </span>溝口理一郎<span lang="EN-US">, </span>五福明夫<span
+ lang="EN-US">, </span>山内進吾<span lang="EN-US">, </span>坂下喜彦<span
+ lang="EN-US"><br>
+<b>Reference</b>: </span>システム<span lang="EN-US">/</span>制御<span
+ lang="EN-US">/</span>情報<span lang="EN-US">, Vol. 42, No. 5,pp.
+244-252, 1998</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>知識
+工学の基礎としてのオントロジー<span lang="EN-US"><br>
+<b>Authors: </b></span>池田満<span lang="EN-US"> <br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, Vol. 13,No. 1,
+pp. 11-13,
+1998</span></p>
+<p><b><span lang="EN-US">Title:</span></b>オントロジー工学への道<span lang="EN-US"><br>
+<b>Authors: </b></span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, Vol. 13,No. 1,
+pp. 9-10,
+1998</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>科学
+技術基本計画の提案<span lang="EN-US"><br>
+<b>Authors: </b></span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US"> Vol. 13,No. 1, pp.
+51-55,
+1998</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Ontology-based
+Intelligent Authoring Tool<br>
+<b>Authors:</b> Weiqin Chen, Yusuke Hayashi, Lai Jin, Mitsuru
+Ikeda,Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proceedings of ICCE'98, pp.41-49, Beijing,
+China,1998(Also in
+Workshop Notes of Model based reasoning for intelligent education
+environments,
+ECAI98, Brighton, UK, 1998)..<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/wendy/wendy-icce98.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/wendy/wendy-icce98.pdf">Article(PDF
+file, 242KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Functional Ontology
+for Functional Understanding<br>
+<b>Authors:</b> Y. Kitamura, M. Ikeda, R. Mizoguchi<br>
+<b>Reference:</b> Working Papers of Twelfth International Workshop on
+Qualitative Reasoning (QR-98), Cape Cod, USA, May 26-29, AAAI Technical
+Report
+WS-98-01, AAAI Press, pp.77-87, 1998<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-qr98.html">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-qr98.pdf">Article(PDF
+file, 403 KB)</a></span></p>
+<p><b><span lang="EN-US">Title</span></b><span lang="EN-US">: A
+Structured
+Hyper-Glossary As a Cognitive Tool for Computer-Based Learning<br>
+<b>Authors</b>: Katherine Sinitsa and Riichiro Mizoguchi<br>
+<b>Reference</b>: Proc. of the IASTED International Conference
+Computers and
+Advanced Technology in Education (CATE'98), pp.252-256, <st1:country-region
+ w:st="on"><st1:place w:st="on">Mexico</st1:place></st1:country-region>,
+1998.</span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Towards
+Redesign of
+Manufacturing Processes based on Functional Understanding,<br>
+<b>Authors: </b>Yoshinobu Kitamura, Toshio Ueda, Masayoshi
+Fuse,Riichiro
+Mizoguchi<br>
+<b>Reference: </b>Poster Proceedings of Artificial Intelligence in
+Design '98,
+pp.14, 1998.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-aid98.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-aid98.pdf">Extended
+abstract (PDF file, 403 KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Ontology
+Models for
+Supporting Exploratory Information Needs<br>
+<b>Authors: </b>Maria Lee and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proceedings of the Fifth International ISKO
+Conference,
+pp.31-38, 1998..<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/maria-isko98.pdf">article
+(PDF
+file,33 KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">An
+ontology-based Web
+engine<br>
+<b>Authors: </b>Maria Lee and Riichiro Mizoguchi<br>
+<b>Reference: </b>Proceedings of the Asia Pacific Web
+Conference,pp.359-360,
+(1998)<br>
+Abstract and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/maria-web98.pdf">article
+(PDF
+file, 65KB)</a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1997" id="1997"></a><i><span lang="EN-US">1997</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>オン
+トロジー工学序説 －内容指向研究の基盤技術と理論の確立を目指して－<span lang="EN-US"><br>
+<b>Authors: </b></span>溝口理一郎<span lang="EN-US">, </span>池田満<span
+ lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, Vol. 12,No. 4,
+pp. 559-569,
+1997. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/Ont97.pdf">Article
+(PDF
+file, 56KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>オン
+トロジーの立場から見た教授戦略の系統性解析<span lang="EN-US"><br>
+<b>Authors: </b></span>山口晴久<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference:</b> </span>電子情報通信学会論文誌<span lang="EN-US">, Vol.
+J80-D-II, No. 7,
+pp.1972-1981, 1997 </span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>協調
+学習支援のモデル －<span lang="EN-US">Opportunistic Group Formation</span>－<span
+ lang="EN-US"><br>
+<b>Authors: </b></span>池田満<span lang="EN-US">, </span>呉昌豪<span
+ lang="EN-US">, </span>溝口理一郎<span lang="EN-US"><br>
+<b>Reference:</b> </span>電子情報通信学会論文誌<span lang="EN-US"> Vol. J80-D-11
+No.4 (1997)
+855-865 </span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>モデ
+ルに基づく問題解決のための流体系と時間のオントロジーの構築とその評価<span lang="EN-US"><br>
+<b>Authors: </b></span>來村徳信<span lang="EN-US">, </span>笹島宗彦<span
+ lang="EN-US">, </span>池田満<span lang="EN-US">, </span>吉川信治<span
+ lang="EN-US">, </span>小澤健二<span lang="EN-US">, </span>溝口理一郎<span
+ lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, , Vol. 12,No. 1,
+pp.
+132-143, 1997.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Roles of
+Shared
+Ontology in AI-ED Research --Intelligence, Conceptualization,
+Standardization,
+and Reusability--<br>
+<b>Author:</b> Riichiro Mizoguchi, Mitsuru Ikeda, and Katherine Sinitsa<br>
+<b>Reference:</b> Proc. of AIED-97, pp.537-544, also as Technical
+Report
+AI-TR-97-4, I.S.I.R., Osaka University, 1997<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-aied97.html">Abstract</a>
+and Article (<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-aied97.pdf">
+PDF file, 43 KB</a>) or <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-ijcai97.ps">(Postscript
+file, 1.0 MB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Ontology Makes
+It Easier To Use Authoring Tools<br>
+<b>Author:</b> Mitsuru Ikeda, Kazuhisa Seta, and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of IJCAI-97, pp.342-347, also as Technical
+Report
+AI-TR-97-3, I.S.I.R., Osaka University, 1997<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-ijcai97.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-ijcai97.pdf">article</a>(PDF
+file 184 KB)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Opportunistic Group
+Formation- A Theory for Intelligent Support in Collaborative Learning -<br>
+<b>Author:</b> Mitsuru IKEDA, Shogo GO, Riichiro MIZOGUCHI<br>
+<b>Reference:</b> Proc. of AI-ED-97, pp.167-174, 1997.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-aied97.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/ikeda-aied97.pdf">article</a>(PDF
+file, 184 KB</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Role
+Explication of
+Simulation in Intelligent Training Systems by Training Task Ontology,<br>
+<b>Author:</b> Lai JIN, Mitsuru IKEDA, Riichiro MIZOGUCHI, Yoshiyuki
+TAKAOKA:<br>
+<b>Reference:</b> Proc. of AI-ED-97 Workshop on Architectures for
+intelligent
+simulation-based learning environments, pp41-48,1997.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-aied97.html">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-aied97.pdf">article</a>
+(PDF file, 91 KB)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A Causal
+Time
+Ontology for Qualitative Reasoning<br>
+<b>Authors:</b> Y. Kitamura, M. Ikeda, R. Mizoguchi<br>
+<b>Reference:</b> Proc. of IJCAI-97, pp.501-506, 1997<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-ijcai97.html">Abstract</a>
+and article(<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-ijcai97.pdf">
+PDF file,
+78KB</a>) or<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-ijcai97.ps">(PostScript
+file, 425KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Capturing
+a
+Conceptual Model for End-user Programming -Task Ontology as a Static
+User
+Model-<br>
+<b>Authors:</b> K. Seta, M. Ikeda, O. Kakusho, R. Mizoguchi<br>
+<b>Reference:</b> Proc. of the sixth international conference on user
+modeling,
+UM'97, pp. 203-214, 1997.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.html">Abstract</a>
+and Article <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.pdf">(PDF
+file, 185 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Model-based
+Diagnosis with Fault Event Models<br>
+<b>Authors: </b>Yoshinobu Kitamura, Masahiko Ueda, Mitsuru
+Ikeda,Satosi Kobori,
+Osamu Kakusho and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of '97 Pacific Asian Conference on Expert
+Systems, pp.
+322-329, 1997.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-paces97b.html">Abstract</a>
+and article <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-paces97b.pdf">(PDF,68KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Towards
+Ontology
+Engineering<br>
+<b>Authors: </b>Riichiro Mizoguchi and Mitsuru Ikeda<br>
+<b>Reference:</b> Proc. of The Joint 1997 Pacific Asian Conference on
+Expert
+systems / Singapore International Conference on Intelligent Systems,
+pp.
+259-266, 1997.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-onteng.html">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-onteng.pdf">article(PDF,
+30KB)</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">An
+Ontological
+Consideration of Causal Time in Qualitative Reasoning Systems<br>
+<b>Authors: </b>Yoshinobu Kitamura, Mitsuru Ikeda, and Riichiro
+Mizoguchi<br>
+<b>Reference: </b>Proc. of The Eleventh International Workshop on
+Qualitative
+Reasoning (QR-97), pp.277-285, 1997.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Negotiation
+Mechanism for Forming a Learning Group in CSCL<br>
+<b>Authors: </b>Shogo Go, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of International Conference on Computers in
+Education,
+pp. 349-353, 1997.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> FITS/CL:
+A System to
+Initiate Individual and Collaborative Learning<br>
+<b>Authors: </b>Kanji Ryomoto, Shogo Go, Mitsuru Ikeda and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proc. of International Conference on Computers in
+Education,
+pp. 871-873, 1997.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Domain
+Ontology
+Design for Model-based Reasoning and Its Evaluation<br>
+<b>Authors: </b>Yoshinobu Kitamura, Mitsuru Ikeda and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proc. of '97 Pacific Asian Conference on Expert
+Systems, pp.
+275-282, 1997.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1996" id="1996"></a><i><span lang="EN-US">1996</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> </span>形式
+と内容ー内容指向人工知能研究の勧め<span lang="EN-US"><br>
+<b>Authors: </b></span>溝口　理一郎<span lang="EN-US"><br>
+<b>Reference:</b> </span>人工知能学会誌<span lang="EN-US">, Vol. 11,No. 1,
+pp. 50-59,
+1996.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/AI-Map.pdf">Article
+(PDF
+file, 48KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Qualitative
+Reasoning based on an Ontology of Fluid Systems and Its Evaluation on a
+Power
+Plant<br>
+<b>Authors:</b> Y. Kitamura, M. Ikeda, R. Mizoguchi<br>
+<b>Reference:</b> Proc. of PRICAI-96, pp.288-299, Cairns,
+Australia,August,
+1996. Lecture Notes in AI 1114, Springer-Verlag.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-pricai96.html">Abstract</a>
+and article<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-pricai96.pdf">
+(PDF
+file, 102KB)</a> or<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/pricai96.ps">(Postscript
+file, 284KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A method
+of
+qualitative reasoning for model-based problem solving and its
+application to a
+nuclear plant<br>
+<b>Authors:</b> Y. Kitamura, M. Sasajima, M. Ikeda, S. Yoshikawa, A.
+Endou, O.
+Kakusho, R. Mizoguchi<br>
+<b>Reference:</b> Expert Systems with Applications Vol.10,
+No.3/4,pp.441-448,
+1996<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-eswa96.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-eswa96.ps">article</a>(PS
+file, 359279 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Ontology Design
+for Intelligent Educational/Training Systems<br>
+<b>Authors:</b> R. Mizoguchi, K. Sinitsa<br>
+<b>Reference:</b> Proc. of Workshop on " Architectures and Methods for
+Designing Cost-Effective and Reusable ITSs, ", ITS'96, <st1:city
+ w:st="on"><st1:place w:st="on">Montreal</st1:place></st1:city>,pp.
+1-21, 1996<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-its96.html">Article</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+Engineering
+of Educational Systems for Authoring System Design -A preliminary
+results of
+task ontology design-<br>
+<b>Authors:</b> R. Mizoguchi, K. Sinitsa and M. Ikeda<br>
+<b>Reference:</b> Proc. of EAIED, pp.329-335, <st1:city w:st="on"><st1:place
+ w:st="on">Lisbon</st1:place></st1:city>, 1996<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/miz-eaied96.html">Article</a></span></p>
+<p><b><span lang="EN-US">Title: </span></b><span lang="EN-US">Design
+of a
+Conceptual Level Programming Environment Based on Task Ontology<br>
+<b>Authors:</b> K. Seta, M. Ikeda, O. Kakusho, R. Mizoguchi<br>
+<b>Reference:</b> Proc. of the first international conference on
+successes and
+pitfalls of knowledge based systems in real world applications, BKK'97,
+pp.11-20, 1996.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-BKK96.html">Abstract</a>
+and Article <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/seta/seta-um97.pdf">(PDF
+file, 82 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Ontological Issues on
+Computer-based Training<br>
+<b>Authors: </b>Lai Jin, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> PRICAI-96 Workshop on Knowledge-based Instructional
+Systems
+in an Industrial Setting, pp. 55-66, 1996. <br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-pricai95.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kin/kin-pricai95.pdf">article</a>(PDF
+file, 43 KB)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Comments
+on "AI
+Map --- Form and Content ---Invitation to Content-Oriented AI Research
+---" and Their Answers<br>
+<b>Authors: </b>Riichiro Mizoguchi<br>
+<b>Reference:</b> J. Jpn. Soc. for Artificial intelligence, Vol. 11,No.
+4, pp.
+550-565, 1996 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Design of
+a
+Functional Representation Language FBRL Based on an Ontology of
+Function and
+Behavior<br>
+<b>Authors: </b>Munehiko Sasajima, Yoshinobu Kitamura, Mitsuru Ikeda
+and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> J. Jpn. Soc. for Artificial intelligence, Vol. 11,No.
+3, pp.
+420-431, 1996 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Intelligent
+Education System : Galileo Which Supports Scientific Thinking
+---Guidance and
+Modeling Through Verbal Indication of Situation---<br>
+<b>Authors: </b>Kumiko Ishino, Katsuo Sugai and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of Jpn. Soc. for Info. and Sys. in Education,Vol.
+13, No.
+1, pp. 19-32, 1996 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Modeling
+Ill-Structured Optimization Tasks Through Cases<br>
+<b>Authors: </b>Kazuo Miyashita, Katia Sycara and Riichiro Mizoguchi<br>
+<b>Reference:</b> The International Journal of Decision Support
+Systems, Vol.
+17, pp. 345-364, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Environment for
+Building Conceptual Model of Problem Solving<br>
+<b>Authors: </b>Mitsuru Ikeda, Kazuhisa Seta, Osamu Kakusho and
+Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proc. of The Pacific Knowledge Acquisition
+Workshop(PKAW'96),
+pp. 210-225, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Diagnosis
+based on
+Fault Event Models<br>
+<b>Authors: </b>Yoshinobu Kitamura, Masahiko Ueda, Mitsuru Ikeda and
+Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Working Papers of 7th International Workshop on
+Principles of
+Diagnosis, pp. 115-122, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Identification of
+Ontologies to Reuse Knowledge for Substation Fault Recovery Support
+System<br>
+<b>Authors: </b>Yoshiyuki Takaoka and Riichiro Mizoguchi<br>
+<b>Reference:</b> The International Journal of Decision Support
+Systems, Vol.
+18, pp. 3-21, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Intelligent
+Education System which Supports Scientific Thinking : Galileo ---
+Philosophy
+and Basic Architecture---<br>
+<b>Authors: </b>Kumiko Ishino, Katsuo Sugai and Riichiro Mizoguchi<br>
+<b>Reference:</b> Lecture Notes in Artificial Intelligence 1114, 4th <st1:place
+ w:st="on">Pacific Rim</st1:place> International Conference on
+Artificial
+Intelligence(PRICAI'96), pp. 71-84, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Representation
+Language for Behavior and Function: FBRL<br>
+<b>Authors: </b>Munehiko Sasajima, Yoshinobu Kitamura, Mitsuru Ikeda
+and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> Journal of Expert Systems with Applications, Vol.10,
+No. 3/4,
+pp. 471-479, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A Method
+of
+Qualitative Reasoning for Model-Based Problem Solving and its
+Application to a
+Nuclear Plant<br>
+<b>Authors: </b>Yoshinobu Kitamura, Munehiko Sasajima, Mitsuru Ikeda
+and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> Expert Systems With Applications, Vol. 10, No.
+3/4,pp.
+441-448, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A Method
+of
+Qualitative Reasoning for Model-Based Problem Solving and its
+Application to a
+Nuclear Plant<br>
+<b>Authors: </b>Yoshinobu Kitamura, Munehiko Sasajima, Mitsuru Ikeda
+and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> Expert Systems With Applications, Vol. 10, No.
+3/4,pp.
+441-448, 1996.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Analysis
+of Representational
+Design Decisions to Create Ontologies and Guidelines<br>
+<b>Authors: </b>Johan Vanwelkenhuysen and Riichiro Mizoguchi<br>
+<b>Reference:</b> Journal of Japanese Society for Artificial
+Intelligence, Vol.
+11, No. 2, pp. 310-320, 1996.</span></p>
+<p><b><span lang="IT" style="">Title:</span></b><span lang="IT" style="">
+Modellizzazione del Comportamento<br>
+<b>Authors: </b>Riichiro Mizoguchi<br>
+<b>Reference:</b> Automazione e Strumentazione, pp. 139-146,1996.<o:p></o:p></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1995" id="1995"></a><i><span lang="EN-US">1995</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> FBRL: A
+Function and
+Behavior Representation Language<br>
+<b>Authors:</b> Munehiko Sasajima, Yoshinobu Kitamura, Mitsuru
+Ikeda,and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of IJCAI'95, pp.1830-1836, 1995<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/sasa-ijcai95.html">Abstract</a>
+and <a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/sasa-ijcai95.ps">article(PS
+file, 495KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Adaptation of Reusable
+Knowledge for Workplace Integration<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> IJCAI-95 Workshop on Context in Knowledge and
+Reasoning
+Modeling, Montreal, Queber, Canada, pp.1-11, 1995.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.7.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/ijcai95.ps">article</a>(PS
+file, 304686 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Augmenting Conceptual
+Software Designs with their Rationales<br>
+<b>Author:</b> Vanwelkenhuysen Johan<br>
+<b>Reference:</b> IEEE Expert (forthcoming)<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.1.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/ieee-expert.ps">article</a>(PS
+file, 440642 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Ontologies and
+Guidelines for Modeling Digital Systems<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, <st1:place w:st="on"><st1:city
+ w:st="on">Banff</st1:city>, <st1:country-region w:st="on">Canada</st1:country-region></st1:place>,
+Vol.1,
+pp.4-1-4-20,1995..<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.2.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kaw95.1.ps">article</a>(PS
+file, 446136 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Embedding
+Non-Functional Requirements Analyses in Conceptual Knowledge System
+Designs<br>
+<b>Author:</b> Vanwelkenhuysen Johan<br>
+<b>Reference:</b> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, <st1:place w:st="on"><st1:city
+ w:st="on">Banff</st1:city>, <st1:country-region w:st="on">Canada</st1:country-region></st1:place>,
+Vol.2,pp.45-1-45-15, 1995.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.3.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kaw95.2.ps">article</a>(PS
+file, 317272 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Workplace-Adapted
+Behaviors: Lessons Learned for Knowledge Reuse<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> Proceedings of the Second International Conference on
+Building and Sharing of Very Large-Scale Knowledge Bases (KB
+&amp;KS'95),
+Enschede, The Netherlands, pp.270-280, 1995.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.4.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/kbks1.ps">article</a>(PS
+file, 457505 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Ontology for
+Reuse of Problem Solving Knowledge<br>
+<b>Author:</b> Mizoguchi Riichiro and Vanwelkenhuysen Johan and Ikeda
+Mitsuru<br>
+<b>Reference:</b> Knowledge Building &amp; Knowledge Sharing
+1995(KB&amp;KS'95)
+(2nd International Conference on Very Large-Scale Knowledge Bases),
+Enschede,
+The Netherlands, pp.46-59.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.5.html">Abstract
+and</a><a href="miz/KBKS95.pdf">Article (PDF, 1,063KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Capturing
+the Problem
+Solving Context When Creating Ontologies<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> Japanese Society for Artificial
+Intelligence,SIG-KBS-9403,
+pages 33-40, <st1:country-region w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region><br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1995.6.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/jsai-kbs.ps">article</a>(PS
+file, bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Ontology
+for Modeling
+the World from Problem Solving Perspectives<br>
+<b>Authors: </b>Riichiro Mizoguchi, Mitsuru Ikeda, Kazuhisa Seta and
+Johan
+Vanwelkenhuysen<br>
+<b>Reference:</b> Proc. of IJCAI-95 Workshop on Basic Ontological
+Issues in
+Knowledge Sharing, pp. 1-12, 1995.<br>
+<a href="miz/IJCAI95WS.pdf">Article (PDF, 911 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Analysis
+Interview Based on Task Ontology<br>
+<b>Authors: </b>Riichiro Mizoguchi, Yuri Tijerino and Mitsuru Ikeda<br>
+<b>Reference:</b> Expert Systems With Applications, Vol. 9, No. 1,pp.
+15-25,
+1995.<br>
+<a href="miz/WSwith_App.pdf"><span lang="IT" style="">Article
+(PDF, 759KB)</span></a></span><span lang="IT" style=""><o:p></o:p></span></p>
+<p><b><span lang="IT" style="">Title:</span></b><span lang="IT" style="">
+Modellizzazione Dell'esperienza<br>
+<b>Authors: </b>Riichiro Mizoguchi<br>
+<b>Reference:</b> Automazione e Strumentazione, pp. 83-88, 1995.<o:p></o:p></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Building
+Reusable
+Knowledge Bases ---A Study of the Substation Fault Recovery Problem ---<br>
+<b>Authors: </b>Yoshiyuki Takaoka, Kenji Hirobe and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. Jpn. Soc. for Artificial intelligence, Vol. 10,No.
+5, pp.
+786-797, 1995 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Ontological Issues of
+CSCL Systems Design<br>
+<b>Authors: </b>Mitsuru Ikeda, Heinz Ulrich Hoppe and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proceedings of Artificial Intelligence in
+Education95, pp.
+242-249, 1995.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Expert
+Systems
+Research in <st1:country-region w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region><br>
+<b>Authors: </b>Riichiro Mizoguchi and Hiroshi Motoda<br>
+<b>Reference:</b> IEEE EXPERT, Vol. 10, No. 4, pp. 14-23, 1995.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Domain
+Ontology for
+Representing Behavior and Function<br>
+<b>Authors: </b>Munehiko Sasajima, Yoshinobu Kitamura, Mitsuru
+Ikeda,Shinji
+Yoshikawa, Akira Endou and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proceedings of Pacific-Asian Conference on Expert
+Systems (PACES'95),
+pp. 147-154, 1995.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Science
+of Bug --
+Building a Student Model --<br>
+<b>Authors: </b>Riichiro Mizoguchi<br>
+<b>Reference:</b> J. Jpn. Soc. for Artificial intelligence, Vol. 10,No.
+3, pp.
+348-353, 1995 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Analysis
+of Novices'
+Conceptual Gap for an ITS for Novice Programmers<br>
+<b>Authors: </b>Yu He, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. Jpn. Soc. for Artificial intelligence, Vol. 10,No.
+3, pp.
+436-445, 1995 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Generation of
+Operation Sequences for Accident Restoration of Primary Substations
+Based on a
+Re-usable Knowledge Base<br>
+<b>Authors: </b>Qianren Zhang, Yoshiyuki Takaoka, Morihiro
+Sakamoto,Kazuaki
+Kidokoro, Kenji Hirobe and Riichiro Mizoguchi<br>
+<b>Reference:</b> Artificial Intelligence in Engineering, Vol. 9, No.2,
+pp.
+95-105, 1995.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Cooperative Dialog
+System for Decision Support and Its Response Generation<br>
+<b>Authors: </b>Naoki Harada, Keiichi Ishimaru, Akira Nukuzuma,Hiroshi
+Furukawa, Koichi Yamada and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of FUZZ-IEEE/IFES'95, pp. 825-830, 1995.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Intelligent
+Educational Systems<br>
+<b>Authors: </b>Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of Info. Processing Soc. J., Vol. 36, No. 2,
+pp.177-186,
+1995 (in Japanese).</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Using DRE
+to Augment
+Generic Conceptual Design<br>
+<b>Authors: </b>Johan Vanwelkenhuysen<br>
+<b>Reference:</b> IEEE EXPERT, Vol. 10, No. 1, pp. 50-56, 1995.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1994" id="1994"></a><i><span lang="EN-US">1994</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Enabling
+Validation
+of Knowledge Level Analyses<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> AI Technical Report AI-TR-94-9, ISIR, <st1:placename
+ w:st="on">Osaka</st1:placename>
+<st1:placetype w:st="on">University</st1:placetype>, 20 pages, <st1:place
+ w:st="on"><st1:city w:st="on">Osaka</st1:city>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place><br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.3.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/validating-kl-analysis.ps">article</a>(PS
+file, 433228 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Inductive Student
+Modeling Method which Deals with Student contradictions<br>
+<b>Author:</b> Yasuyuki Kono, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> IEICE Trans. on Information and Systems,
+E77-D,pp.39-48, 1994<br>
+<a href="miz/IEICE94kono.pdf">Article (PDF, 978 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> FITS: A
+Framework for
+ITS -- A Computational Model of Tutoring<br>
+<b>Author:</b> Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of AI in Education, Vol. 5, No.3, pp.319-348,1994<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.4.html">Abstract</a>
+and <a href="miz/AIED94Fits.pdf">Article (PDF, 1,605 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> THEMIS: A
+Nonmonotonic Inductive Student Modeling System,<br>
+<b>Author:</b> Yasuyuki Kono, Mitsuru Ikeda, and Riichiro Mizoguchi:<br>
+<b>Reference:</b> J. of AI in Education, Vol. 5, No.3, pp.371-413,1994.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.5.html">Abstract</a>
+and <a href="miz/AIED94Themis.pdf">Article (PDF, 2,800 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Investigation on
+Domain Ontology to Represent Functional Models<br>
+<b>Authors:</b> Munehiko SASAJIMA, Yoshinobu KITAMURA, Mitsuru
+IKEDA,Shinji
+YOSHIKAWA, Akira ENDOU, and Riichiro MIZOGUCHI<br>
+<b>Reference:</b> In proceedings of the Eighth International Workshop
+on
+Qualitative Reasoning QR94, pp.224-233<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/sasa-qr94.html">Abstract</a>
+and <a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/sasa-qr94.ps">article</a>
+(PS file, 602373 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Maintaining the
+Workplace Context in a Knowledge Level Analysis<br>
+<b>Author:</b> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<b>Reference:</b> Proceedings of the Third Japanese Knowledge
+Acquisition for
+Knowledge-Based Systems Workshop '94, <st1:place w:st="on"><st1:city
+ w:st="on">Hatoyama</st1:city>,<st1:country-region w:st="on">Japan</st1:country-region></st1:place>,
+pp.33-47, 1994.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.1.html">Abstract
+and</a><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/ps-files/jkaw94.ps">article</a>(PS
+file, 363157 bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Current
+state of the
+art of knowledge sharing and reuse<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol. 9, No. 1, pp.3-9, 1994<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.1.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Functional extension
+of EBL by introducing comparison viewpoints<br>
+<b>Author:</b> Katsushi Matsuda, Mitsuru Ikeda, and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol. 9, No. 5, pp.755-764, 1994<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.2.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> User's
+utterance
+model and cooperative answering for question- answering systems<br>
+<b>Author:</b> Koichi Yamada, Riichiro Mizoguchi, and Naoki Harada<br>
+<b>Reference:</b> J. of Information Processing Society of Japan,Vol.35,
+No.11,
+pp.2265-2275, 1994<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1994.3.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+ontologies for
+explaining expertise in problem solving context<br>
+<b>Author:</b> Mizoguchi Riichiro and Vanwelkenhuysen Johan<br>
+<b>Reference:</b> ECAI'94 Workshop on Comparison of Implemented
+Ontologies,
+pages 163-174, <st1:place w:st="on"><st1:city w:st="on">Amsterdam</st1:city>,
+<st1:country-region w:st="on">Netherlands</st1:country-region></st1:place>.<br>
+<a
+ href="http://www.ei.sanken.osaka-u.ac.jp/johan_www/publications/abstracts/1994.2.html">Abstract
+and</a> article (PS file, bytes)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Effort
+for building a
+reusable knowledge base --Generating operation sequences for the
+accident
+restoration of primary substations based on the reusable knowledge base<br>
+<b>Author:</b> Qianren Zhang, Yoshiyuki Takaoka, Morihiro
+Sakamoto,Kazuhiro
+Kidokoro, Masayuki, Yamashita, Kenji Hirobe, and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of IEICE, Vol. J77-D-II, No. 5, pp.970-980,1994</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Design of
+an ITS for
+Strategic Knowledge in Proving Logical Formulas<br>
+<b>Author:</b> Koichiro Morihiro, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> IEICE Trans. on Information and Systems,
+E77-D,pp.98-107,
+1994</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1993" id="1993"></a><i><span lang="EN-US">1993</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Nonmonotonic Model
+Inference --A Formalization of Student Modeling<br>
+<b>Author:</b> Mitsuru Ikeda, Yasuyuki Kono and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of the 13th International Joint Conference on
+Artificial Intelligence (IJCAI 93), pp.467-473, 1993<br>
+<a href="miz/IJCAI93.pdf">Article (PDF, 714 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> MULTIS II
+: Enabling
+End-Users to Design Problem-Solving Engines Via Two-Level Task
+Ontologies<br>
+<b>Author:</b> Yuri Adrian Tijerino and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of EKAW '93, pp. 340-359, 1993<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.3.html">Abstract</a>
+and <a href="miz/EKAW93multis.pdf">Article (PDF, 1,523 KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Expert
+Systems and
+Knowledge Base Technology<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> Proceedings of the International Conference on Expert
+Systems
+Technology and Applications, pp.24-42, 1993<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.2.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+acquisition
+and ontology<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of KB&amp;KS'93, <st1:city w:st="on"><st1:place
+ w:st="on">Tokyo</st1:place></st1:city>,
+pp.121-128, 1993<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.4.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Nonmonotonic Student
+Model Inference System<br>
+<b>Author:</b> Riichiro MIZOGUCHI, Mitsuru IKEDA, and Yasuyuki KONO<br>
+<b>Reference:</b> Proc. of ICCE'93, <st1:city w:st="on"><st1:place
+ w:st="on">Taipei</st1:place></st1:city>,
+pp.55-71, 1993.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.5.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Methodology for
+Building Expert Systems Based on Task Ontology and Reuse of Knowledge -
+Underlying Philosophy of a Task Analysis Interview System MULTIS<br>
+<b>Author:</b> Yuri Adrian Tijerino, Mitsuru Ikeda, Tadahiro Kitahashi
+and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol.8, No.4, pp.476-487, 1993 (in
+Japanese)<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1993.1.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Efficient
+Knowledge Management Method for ATMS-based Problem Solving -Treatment
+of
+Detailed Assumptions and Knowledge Compilation<br>
+<b>Author:</b> Shingo Mishioka, Mitsuru Ikeda, Osamu Kakusho and
+Riichiro
+Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol.8, No.4, pp.465-475, 1993 (in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Expert
+Systems and
+Knowledge Base Technology<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> International Journal of Computer and Engineering
+Management,
+Vol.1, No. 2., pp.24-39, 1993.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Analysis
+Interview Based on Task Ontology<br>
+<b>Author:</b> Riichiro Mizoguchi, Yuri Tijerino and Mitsuru Ikeda<br>
+<b>Reference:</b> Proc. of '93 Korea/Japan Joint Conference on ESs(<st1:place
+ w:st="on"><st1:city w:st="on">Seoul</st1:city>, <st1:country-region
+ w:st="on">Korea</st1:country-region></st1:place>),
+pp.63-76, 1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Towards a
+Model of
+Tutor's Decision Making<br>
+<b>Author:</b> Koichiro Morihiro, Yu He, Mitsuru Ikeda and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proceedings of Artificial Intelligence in Education,
+pp.574-574, 1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Model of
+Utterance
+and Its Use in Cooperative Response Generation<br>
+<b>Author:</b> Koichi Yamada, Riichiro Mizoguchi, et al.<br>
+<b>Reference:</b> Proc. of East-West International Conference on
+Human-computer
+Interaction (EWHCI '93), pp.252-264, 1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Intention
+Recognition
+Based on Normal Use for Topic Object and Generation of Cooperative
+Responses<br>
+<b>Author:</b> Koichi Yamada, Riichiro Mizoguchi, et al<br>
+<b>Reference:</b> Proc. of the 5th International Conference on
+Human-Computer
+Interaction jointly with 9th Symposium on Human Interface(Japan),
+pp.280-280,
+1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A Student
+Model
+Building Method based on Formalization of Nonmonotonicity<br>
+<b>Author:</b> Yasuyuki Kono, Takeo Tokimori, Mitsuru Ikeda, Yasuo
+Nomura and
+Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol.8, No.4, pp.488-498, 1993 (in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Selecting
+Hints Which
+Reminds a Student of an Appropriate Strategy in Problem Solving<br>
+<b>Author:</b> Koichiro Morihiro, Yu He, Mitsuru Ikeda and Riichiro
+Mizoguchi<br>
+<b>Reference:</b> Proceedings of the East-West Conference on Artificial
+Intelligence (EWIC '93), pp.296-300, 1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+Modeling Method for
+Students with Contradictions<br>
+<b>Author:</b> Yasuyuki Kono, Mitsuru Ikeda and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proceedings of Artificial Intelligence in Education,
+1993
+(AI-ED 93), pp.481-488, 1993</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Next
+Utterance
+Prediction Based on Two Kinds of Dialog Models<br>
+<b>Author:</b> Yoichi Yamashita and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of Eurospeech '93, <st1:state w:st="on"><st1:place
+ w:st="on">Berlin</st1:place></st1:state>, pp.1161-1164,1993</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1992" id="1992"></a><i><span lang="EN-US">1992</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Task
+Ontology and its
+Use in a Task Analysis Interview System --- Two-level Mediating
+Representation
+in MULTIS<br>
+<b>Author:</b> Riichiro Mizoguchi, Yuri Tijerino and Mitsuru Ikeda<br>
+<b>Reference:</b> Proc. of the 2nd Japanese JKAW '92 (Hatoyama,Japan),
+pp.185-198, 1992.<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1992.2.html">Abstract</a>
+and <a href="miz/JKAW92.pdf">Article (PDF, 957KB)</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> FITS: A
+Generic
+Framework for ITS -Student modeling and tutoring strategies<br>
+<b>Author:</b> Riichiro Mizoguchi and Mitsuru Ikeda<br>
+<b>Reference:</b> Proc. of Expert and Tutoring Systems Conference(<st1:city
+ w:st="on"><st1:place w:st="on">Saratov</st1:place></st1:city>),
+pp.1-14, 1992<br>
+<a href="http://www.ei.sanken.osaka-u.ac.jp/pub/miz/1992.1.html">Abstract</a></span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+compiler II
+based on domain model and failure model<br>
+<b>Author:</b> Yamaguchi, T., R. Mizoguchi et al.<br>
+<b>Reference:</b> J. of JSAI, Vol.7,No.4, pp.663-674, 1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Interview System
+for Acquiring Design Knowledge based on Understanding of Example<br>
+<b>Author:</b> Katsushi Matsuda, Hiroshi Niina and Riichiro Mizoguchi<br>
+<b>Reference:</b> J. of JSAI, Vol.7, No.6, pp.1038-1048, 1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Expert
+system
+development in <st1:country-region w:st="on">Japan</st1:country-region><br>
+<b>Author:</b> Mizoguchi, R.<br>
+<b>Reference:</b> 1st International Conference on Artificial
+Intelligence
+Applications, <st1:city w:st="on"><st1:place w:st="on">Cairo</st1:place></st1:city>,
+pp.1-17, 1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Two-level
+mediating
+representation for a task analysis interview systems<br>
+<b>Author:</b> Mizoguchi, R. et al.<br>
+<b>Reference:</b> Proc. of AAAI-92 Workshop on Knowledge representation
+aspects
+of Knowledge acquisition, pp.107-114, 1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Generation of
+Operation Sequences for Accident Restoration of Primary Substations
+Based on
+Object Model<br>
+<b>Author:</b> Qianren Zhang, Kazuaki Kidororo, Riichiro Mizoguchi,et
+al.<br>
+<b>Reference:</b> Proc. of PRICAI '92 (<st1:place w:st="on"><st1:city
+ w:st="on">Seoul</st1:city>, <st1:country-region w:st="on">KOREA</st1:country-region></st1:place>),
+pp.328-333,1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+Interview System
+for Acquiring Design Knowledge based on Understanding of Examples<br>
+<b>Author:</b> Katsushi Matsuda, Hiroshi Niina and Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of PRICAI '92 (<st1:place w:st="on"><st1:city
+ w:st="on">Seoul</st1:city>, <st1:country-region w:st="on">KOREA</st1:country-region></st1:place>),
+pp.854-860,1992.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Modeling
+of Materials
+Design Process<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of Intel. Sympo. on IDSEMS '92, pp.13-16,1992.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Classification of
+teaching material from the viewpoint of tutoring strategy<br>
+<b>Author:</b> Okuhata, K. et al<br>
+<b>Reference:</b> J. of IEICE, Vol.J75-A, No.2, pp.305-313, 1992 (in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> FITS: A
+generic
+framework for ITS<br>
+<b>Author:</b> Ikeda, M. et al.<br>
+<b>Reference:</b> J. of IEICE, Vol.J75-A, No.2, pp.314-322, 1992 (in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> To
+contradict is
+human<br>
+<b>Author:</b> Kono, Y., M. Ikeda and R. Mizoguchi<br>
+<b>Reference:</b> Proc. of International Conference on Intelligent
+Tutoring
+Systems: ITS'92, <st1:city w:st="on"><st1:place w:st="on">Montreal</st1:place></st1:city>,
+pp.451-458, 1992</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Brief
+Survey of
+Japanese ITS Research<br>
+<b>Author:</b> Riichiro Mizoguchi<br>
+<b>Reference:</b> Proc. of East-West Conference on Emerging Computer
+Technologies in Education (<st1:city w:st="on"><st1:place w:st="on">Moscow</st1:place></st1:city>),
+pp.220-225, 1992</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1991" id="1991"></a><i><span lang="EN-US">1991</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+acquisition
+for knowledge-based systems<br>
+<b>Author:</b> Motoda H., Mizoguchi R., et al.<br>
+<b>Reference:</b> IEEE EXPERT, Vol.6, No.4, pp.53-64, 1991</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Interview-based
+knowledge acquisition using dynamic analysis<br>
+<b>Author: Kawaguchi</b> A.,Motoda H., and Mizoguchi R.<br>
+<b>Reference:</b> IEEE EXPERT, Vol.6, No. 5, pp.47-60, 1991</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+acquisition
+systems<br>
+<b>Author:</b> Mizoguchi, R.<br>
+<b>Reference:</b> J. of JSAI, Vol.4, No.4, pp.411-420, 1988(in Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> MULTIS:A
+knowledge
+acquisition system based on problem-solving primitives<br>
+<b>Author:</b> Tijerino, Y., T. Kitahashi and R. Mizoguchi<br>
+<b>Reference:</b> Proc. of 6th KAW, <st1:city w:st="on"><st1:place
+ w:st="on">Banff</st1:place></st1:city>,
+pp.32-1 - 32-20, 1991.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h3><a name="1985" id="1985"></a><i><span lang="EN-US">1985 - 1990</span></i></h3>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Recent
+trends of
+expert system research<br>
+<b>Author:</b> Mizoguchi Riichiro<br>
+<b>Reference:</b> Trans. of Information Processing, Vol.28,
+No.2,pp.207-217,
+1987(in Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Basic
+design of
+knowledge compiler based on deep knowledge<br>
+<b>Author:</b> Yamaguchi T, Mizoguchi R., et al.<br>
+<b>Reference:</b> J. of Japanese Society for AI(JSAI), Vol.2,
+No.3,pp.333-340,
+1987(in Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Explanation
+facilities for novice users based on deep knowledge<br>
+<b>Author:</b> Yamaguchi T, Mizoguchi R., et al.<br>
+<b>Reference:</b> Trans. of Institute of Electronic, Information and
+Communication Engineers(IEICE), Vol.J70-D, No.11, pp.2083-2088,1987(in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Interactive synthesis
+of conceptual schema based onqueries -- Toward an expert system of
+relational
+database design<br>
+<b>Author:</b> Mizoguchi Riichiro et al.<br>
+<b>Reference:</b> J. of Information Processing, Vol.8, No.3,pp.207-216,
+1985</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+architecture for
+knowledge acquisition by interview<br>
+<b>Author:</b> <st1:city w:st="on">Kawaguchi</st1:city>, A. H. Motoda
+and R.
+Mizoguchi<br>
+<b>Reference:</b> Proc. of Japanese Knowledge Acquisition for
+Knowledge-based
+Systems Workshop(JKAW90), <st1:city w:st="on"><st1:place w:st="on">Kyoto</st1:place></st1:city>,
+pp.81-96, 1990.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> ISAK:
+Interview
+system for acquiring design knowledge --A unified architecture of
+interview
+systems using examples<br>
+<b>Author:</b> Mizoguchi, R. et al.<br>
+<b>Reference:</b> Proc. of JKAW90, <st1:city w:st="on"><st1:place
+ w:st="on">Kyoto</st1:place></st1:city>,
+pp.277-286, 1990.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A task
+analysis
+interview system that uses a problem-solving model<br>
+<b>Author:</b> Tijerino, Y., T. Kitahashi and R. Mizoguchi<br>
+<b>Reference:</b> Proc. of JKAW90, <st1:city w:st="on"><st1:place
+ w:st="on">Kyoto</st1:place></st1:city>,
+pp.331-344, 1990.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A generic
+framework
+for ITS and its evaluation<br>
+<b>Author:</b> Mizoguchi, R. et al<br>
+<b>Reference:</b> Proc. of IFIP TC3 International Conference on ARCE,<st1:city
+ w:st="on"><st1:place w:st="on">Tokyo</st1:place></st1:city>,
+pp.303-312, 1990.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> SIS: A
+shell for
+interview systems<br>
+<b>Author:</b> <st1:city w:st="on">Kawaguchi</st1:city>, A., R.
+Mizoguchi et
+al.<br>
+<b>Reference:</b> Proc. of IJCAI'87, Vol.1, <st1:city w:st="on"><st1:place
+ w:st="on">Milan</st1:place></st1:city>, pp.359-361,1987.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+intelligent
+interview systems for conceptual design of database<br>
+<b>Author:</b> <st1:city w:st="on">Kawaguchi</st1:city>, A., N. Taoka,
+R.
+Mizoguchi, M. Yanagida and O. Kakusho<br>
+<b>Reference:</b> Proc. of ECAI, Vol.2, <st1:place w:st="on">Brighton</st1:place>,
+pp.39-45, 1986.</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US">
+Intelligent tutoring
+system -- Current state of theart<br>
+<b>Author:</b> Mizoguchi, R.<br>
+<b>Reference:</b> J. of IEICE, Vol.E73, No.7, pp.297-307, 1990 (in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+hypothetical model
+inference system<br>
+<b>Author:</b> Ikeda, M., R. Mizoguchi, et al.<br>
+<b>Reference:</b> Trans. on IEICE, Vol.J71-D, No.9,
+pp.1761-1771,1988(in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> A
+framework for ICAI
+systems based on inductive inference and logic programming<br>
+<b>Author:</b> Kawai K, Mizoguchi R., et al.<br>
+<b>Reference: New</b> Generation Computing, Vol. 5, pp.115-129,1987</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> Knowledge
+engineering
+and ICAI<br>
+<b>Author:</b> Mizoguchi Riichiro et al.<br>
+<b>Reference:</b> J. of Japan Society for CAI, Vol.4,No.4,
+pp.13-24,1986(in
+Japanese)</span></p>
+<p><b><span lang="EN-US">Title:</span></b><span lang="EN-US"> An
+innovative
+framework for intelligent tutoring systems<br>
+<b>Author:</b> Mizoguchi, R. et al<br>
+<b>Reference:</b> Proc. of the IFIP TC3 Working Conference on
+Artificial
+Intelligence Tools in Education, Frascati, pp.105-120,1988.</span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<h2><span lang="EN-US">SPOKEN LANGUAGE PROCESSING</span></h2>
+<p><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1995"><b>1995</b></a></span></p>
+<p><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1994"><b>1994</b></a></span></p>
+<p><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1993"><b>1993</b></a></span></p>
+<p><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/pub/yama/publications.html#1992"><b>1992</b></a></span></p>
+<div class="MsoNormal" align="center" style="text-align: center;"><span
+ lang="EN-US">
+<hr size="2" width="100%" align="center"></span></div>
+<p style="margin-bottom: 0pt;"><span lang="EN-US"><a
+ href="http://www.ei.sanken.osaka-u.ac.jp/"><b>MizLab
+Homepage</b></a></span></p>
+</body>
+</html>

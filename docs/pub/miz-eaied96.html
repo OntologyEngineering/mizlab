@@ -1,0 +1,929 @@
+<HTML>
+<!--This file created 8/3/98 5:17 PM by Home Page Pro version 3.0J Demo-->
+<HEAD>
+   <TITLE>Knowledge Engineering of Educational Systems for Authoring System
+Design</TITLE>
+   <META NAME=GENERATOR CONTENT="Home Page Pro 3.0J Demo">
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=us-ascii">
+   <X-CLARIS-WINDOW TOP=89 BOTTOM=1047 LEFT=44 RIGHT=574>
+   <X-CLARIS-TAGVIEW MODE=minimal>
+<!-- This document was created from RTF source by rtftohtml version 2.7.5,
+     extended by rtftoweb version 1.7. -->
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<H1><CENTER>Knowledge Engineering of Educational Systems for
+Authoring System Design</CENTER></H1>
+
+<CENTER>-- A preliminary results of task ontology design --</CENTER>
+
+<P>&nbsp;</P>
+
+<CENTER><STRONG>Riichiro Mizoguchi<SUP>+</SUP>, Katherine
+Sinitsa<SUP>++</SUP>, and Mitsuru Ikeda<SUP>+</SUP></STRONG>
+
+<P><SUP>+</SUP> ISIR, Osaka University, Japan</P>
+
+<P><SUP>++</SUP>Glushkov Institute for Cybernetics, Kiev, Ukraine</P>
+
+<P><A HREF="mailto:miz@ei.sanken.osaka-u.ac.jp">miz@ei.sanken.osaka-u.ac.jp</A>,
+<A HREF="mailto:ikeda@ei.sanken.osaka-u.ac.jp">ikeda@ei.sanken.osaka-u.ac.jp</A>,
+<A HREF="mailto:kath@its.freenet.kiev.ua">kath@its.freenet.kiev.ua</A></P></CENTER>
+
+<P>&nbsp;</P>
+
+<P><B>Abstract: </B>This paper presents a preliminary result of task
+ontology design of IES. Task ontology provides us with an effective
+methodology and vocabulary for both analyzing and synthesizing
+intelligent educational systems(IESs). It fills the gap between users
+and authoring systems. This paper discusses how task ontology
+contributes to characterizing intelligent educational systems and
+hence to facilitating authoring systems design with fluent
+communication capability with users. We begin our paper by discussing
+what an ontology is followed by discussion on its roles in IES
+research. Preliminary results of ontology design at an abstract level
+is shown together with some specifications of a counter example and
+its use. We demonstrate the utility of task ontology by specifying
+how to communicate with an authoring system.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P><B>1. INTRODUCTION</B></P>
+
+<P>&nbsp;</P>
+
+<P>Viewing from knowledge engineering point of view, an authoring
+system should provide users with a sophisticated vocabulary supported
+by computational mechanisms which enables them to represent their
+ideas about educational systems they want to build at the right level
+of abstraction. While some of the existing authoring systems are nice
+as a software development environment, they are still weak at
+communicating with users and not very efficient in satisfying users'
+various requirements(Major, 1993)(Van Marcke et al., 1995)(Vivet,
+1989). These are mainly caused by the lack of knowledge engineering
+of educational systems.</P>
+
+<P>In order to design an authoring system, designers have to know
+what an educational system is, that is, what functions are necessary
+for what goal of education, what components are necessary for what
+functionality, how to specify each components, what architecture is
+appropriate for what types of education, how to control the behavior
+of the components, etc., since it should reflect such fundamental
+understanding of educational systems. Issues here include how much we
+know about these fundamental characteristics of them. There have been
+much philosophical discussion and implementation of educational
+systems together with evaluation. However, there is little in between
+the two. What we usually see are very abstract discussions and
+idiosyncratic implementations (Wenger, 1987). What we need for
+filling up this gap are well-designed common vocabulary and
+frameworks for educational systems. We also need to formalize
+educational tasks at the right level of abstraction. We need to
+explicitly define learner's and program's roles and tasks in
+educational processes. We are able to find a nice solution to this
+problem in knowledge engineering.</P>
+
+<P>Knowledge engineering has been considered as technology of
+building expert systems. It has contributed to eliciting expertise,
+organizing it into a computational structure, and building knowledge
+bases. While rule base technology has dominated until recently, a new
+technology based on knowledge modeling has appeared such as KADS
+project in Europe(Wielinga, 1992), PROTEGE project in USA(Puerta et
+al., 1992), and MULTIS project in Japan(Mizoguchi et al.,
+1992)(Mizoguchi et al., 1995b). All these technologies are originated
+from the idea of Generic tasks(Chandra, 1986) and heuristic
+classification(Clancey, 1985). The latest knowledge engineering
+technology comes up with an idea of task ontology which serves as a
+theory of vocabulary/concepts used as building blocks for
+knowledge-based systems(Mizoguchi, 1993)(Mizoguchi et al., 1995a).We
+consider ontology consists of task ontology which characterizes the
+computational architecture of knowledge-based systems and domain
+ontology which characterizes the domain knowledge.</P>
+
+<P>Task ontology provides us with an effective methodology and
+vocabulary for both analyzing and synthesizing knowledge based
+systems which intelligent educational systems(IESs) belong to.
+Ontology is not only a pure theory in fundamental AI. Rather, it is
+becoming a research field called "Ontology Engineering"(Mizoguchi,
+1996a) like "Knowledge engineering" in expert systems. Ontology
+provides us with what we need to overcome the shortcomings the
+current IESs have we discussed above.</P>
+
+<P>This paper discusses how task ontology contributes to
+characterizing intelligent educational systems and hence to
+facilitating authoring systems design with fluent communication
+capability with users. The next section describes what an ontology
+is. Section 3 discusses task ontology as well as its roles in IES
+research. In section 4 we discuss preliminary results of ontology
+design at an abstract level. Its details is found in (Mizoguchi et
+al., 1996b) and
+http://www.ei.sanken.osaka-u.ac.jp/announce/ITS.ws.html. We
+demonstrate the utility of task ontology by specifying how to
+communicate with an authoring system in section 5.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P><B>2. WHAT IS AN ONTOLOGY?</B></P>
+
+<P>&nbsp;</P>
+
+<P><B>2.1 Simple definitions</B></P>
+
+<P>&nbsp;</P>
+
+<P>Three simple definitions are given below.</P>
+
+<P>&nbsp;</P>
+
+<OL>
+   <LI>Ontology is a term in philosophy and its meaning is "Theory of
+   existence".</LI>
+   
+   <LI>In AI, ontology is defined as "An explicit representation of
+   conceptualization" (Gruber, 1992).</LI>
+   
+   <LI>In KB community, ontology is defined as "a system of primitive
+   vocabulary/concepts used for building artificial
+   systems"(Mizoguchi, 1993). Although these are compact, it is not
+   sufficient for in-depth understanding what an ontology is. A more
+   comprehensive definition is given in the next subsection.</LI>
+</OL>
+
+<P><B>2.2 Comprehensive definitions</B></P>
+
+<P>&nbsp;</P>
+
+<P>Following Guarino(Guarino et al., 1995), we use the convention in
+which capital letter "O" is used to distinguish the "Ontology" in
+philosophy from others. "Ontology" is a theory which can answer
+questions such as "what is existence", "What properties exist common
+to all the existence", "what properties can explain the existence",
+"How these properties explain the existence", etc. On the other hand,
+"ontology" starting by small "o" represents our ontology whose design
+methodology is like one for Ontology, but the target is different
+from it. Not the "existence" but smaller and more concrete thing such
+as enterprise, thermo-dynamics, problem solving, tutoring, etc. are
+discussed. We define an ontology as an explicit and unambiguous
+description of concepts and relations among them appearing in the
+target thing. Such ontologies exist as many as the possible target
+things. We do not have to use logic to describe it.</P>
+
+<P>Formal ontology is an axiomatic description of an ontology. It can
+answer questions on the capability of ontology. Axioms in a formal
+ontology has two roles as follow: 1) To represent the meaning of
+concepts rigorously. 2) Within the scope of the knowledge represented
+declaratively, to answer the questions on the capability of the
+ontology and things built using the concepts in the ontology.</P>
+
+<P>Questions about the capability of ontology plays an important role
+in its evaluation and they are divided into the following two: 1)
+Questions on the formal properties of the ontology and things
+designed using ontology. 2) Questions on the behavior of the things
+designed using the ontology. The former is called "competence"
+question and the latter "performance" question. Axioms written in
+predicate calculus are sufficient for answering the former. To answer
+the latter question, however, we often need procedural engines to
+interpret the meaning of concepts in the ontology because declarative
+knowledge with a formal prover cannot answer all the questions. To
+cope with such situations, we introduce axiom equivalents defined as
+follows:</P>
+
+<P>&nbsp;</P>
+
+<P><B>Axiom equivalent</B>: An axiom equivalent is not a rigorous or
+declarative axiom based on formal inference engine, but it is
+partially declarative knowledge based also on interpretation by a
+procedural engine to answer performance questions. Axiom equivalents
+do not have to be formalized completely.</P>
+
+<P>&nbsp;</P>
+
+<P><B>3. TASK ONTOLOGY</B></P>
+
+<P>&nbsp;</P>
+
+<P><B>3.1 What is a task ontology?</B></P>
+
+<P>&nbsp;</P>
+
+<P>Task ontology is a system/theory of vocabulary for describing
+inherent problem solving structure of all the existing tasks
+domain-independently. It is obtained by analyzing task structures of
+real world problems. Design of task ontology is done in order to
+overcome the shortcomings of generic tasks(Chandra, 1986) while
+preserving their basic philosophies. It does not cover the control
+structure but do components or primitives of unit inferences taking
+place during performing tasks. The ultimate goal of task ontology
+research includes to provide all the vocabulary necessary for
+building a model of human problem solving processes.</P>
+
+<P>When we view a problem solving process based on search as a
+sentence of natural language, task ontology is a system of semantic
+vocabulary for representing meaning of the sentence. The
+determination of the abstraction level of task ontology requires a
+close consideration on granularity and generality. Representations of
+the two sentences of the same meaning in terms of task ontology
+should be the same. These observations suggest task ontology consists
+of the following four kinds of concepts:</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<OL>
+   <LI>Generic nouns representing objects reflecting their roles
+   appearing in the problem solving process,</LI>
+   
+   <LI>Generic verbs representing unit activities appearing in the
+   problem solving process,</LI>
+   
+   <LI>Generic adjectives modifying the objects, and</LI>
+   
+   <LI>Other concepts specific to the task.</LI>
+</OL>
+
+<P>Terms/concepts in task ontology for scheduling tasks, for example,
+look as follows:</P>
+
+<P>&nbsp;</P>
+
+<P><B>Nouns:</B> <I>Scheduling recipient, Scheduling resource, Due
+date, Schedule, Constraints, Goal, Priority, etc.</I><BR>
+<B>Verbs:</B> <I>Assign, Classify, Pick up, Select, Relax, Neglect,
+etc. </I><BR>
+<B>Adjectives:</B> <I>Unassigned, The last, Idle etc. </I><BR>
+<B>Others:</B><I> Strong constraint, Constraint satisfaction,
+Constraint predicates, Attribute, etc.</I><BR>
+</P>
+
+<P>Verbs are defined as a set of procedures representing its meaning.
+So, they collectively serve as a set of reusable components for
+building IESs.</P>
+
+<P>&nbsp;</P>
+
+<P><B>3.2 Roles of task ontology in IES</B></P>
+
+<P>&nbsp;</P>
+
+<P>Roles of task ontology include:</P>
+
+<P>&nbsp;</P>
+
+<OL>
+   <LI>To enable research results to accumulate(Mizoguchi et al.,
+   1996a)</LI>
+   
+   <LI>To provide vocabulary/concepts in terms of which one can
+   compare and assess existing IESs.</LI>
+   
+   <LI>To formalize educational tasks.</LI>
+   
+   <LI>To specify the tutoring/training context which contributes to
+   making it easy to put domain knowledge into a right context, since
+   it provides us with abstract roles of various objects which could
+   be instantiated to domain-specific objects.</LI>
+   
+   <LI>To provide reusable components for IES design and
+   development.</LI>
+   
+   <LI>To enable translation of the knowledge-level description of
+   the problem solving process into symbol-level executable
+   code.</LI>
+   
+   <LI>To standardize communication protocol among component agents
+   of IES in CSCL(Ikeda et al., 1995).</LI>
+</OL>
+
+<P><B>4. PRELIMINARY DESIGN OF TASK ONTOLOGY OF IESs</B></P>
+
+<P>&nbsp;</P>
+
+<P>We are currently designing task ontology for IESs and trying to
+represent it in an ontology description language. Because of the
+space limitation, we only present higher level description of task
+ontology designed thus far. Details of it is found in (Mizoguchi et
+al., 1996b) and
+http://www.ei.sanken.osaka-u.ac.jp/announce/ITS.ws.html.</P>
+
+<P>The top-level categories of task ontology of IESs consist of
+<I>Goals of education, Learner's state, System's functionality,
+Learner-system interaction</I>, and <I>Teaching material
+knowledge</I> because an IES is characterized as an interaction
+between a system and a learner in which the system's activity is
+based on its functionality which is performed in a domain according
+to the learner's state under a certain goal. Then, we have the
+following top level categories of concepts.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.1 Goals of education</B></P>
+
+<P>&nbsp;</P>
+
+<P>Let us investigate <I>Goals of education</I> first. There have
+been proposed a number of paradigms for IESs to date. While they are
+seemingly conflicting each other, the reality is not. When we
+carefully investigate the paradigms, we easily understand most of the
+them can co-exist, since they have different educational goals. In
+this sense, goals enable one to distinguish and identify an
+appropriate paradigm for his purpose.</P>
+
+<P><I>Goals of education</I> are first divided into two categories
+such as augmentation of <I>Domain-independent</I> and
+<I>Domain-dependent</I> <I>capabilities</I>. The former is mainly
+related to <I>Reasoning capability</I> which has various kinds of
+subcapabilities. The latter is divided into three subcategories such
+as <I>Deep understanding of concepts</I>(declarative knowledge),
+<I>Problem solving capability</I>(procedural knowledge) and
+<I>Skills</I>.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.2 Learner's state</B></P>
+
+<P>&nbsp;</P>
+
+<P>Learner's state is composed of <I>Phase in learning process</I>,
+<I>Knowledge state</I>, and <I>Mental state</I>. <I>Knowledge
+state</I> consists of <I>Numerical representation</I> and <I>Symbolic
+representation</I>. <I>Symbolic representation</I> is composed of two
+components such as <I>Location of bugs</I> and <I>Types of
+bugs</I>.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.3 System's functionality</B></P>
+
+<P>&nbsp;</P>
+
+<P>Needless to say, system's functionality is the most important
+category in IESs. The top level concepts are concerning how to teach
+which characterizes the type of IESs. Assuming autonomous systems, it
+includes <I>One-to-one interaction</I> and <I>Group learning</I>. The
+former incudes <I>Repetitive practice</I>, <I>Learning by doing</I>,
+<I>Free exploration in a learning environment, Interactive learning
+environment, Coaching, Tutoring, Training </I>and the latter<I>
+Collaboration, Coordination, Cooperation, Game-playing,
+Argumentation, etc.</I></P>
+
+<P>We also identify non-autonomous systems, that is, tools used with
+the aid of a human teacher. In this paper, however, we only discuss
+tutoring systems as a typical autonomous system. Functionality of an
+ITS includes <I>Modelling</I> and <I>Tutoring</I>. The former
+characterizes capability of an ITS to model a learner as well as the
+problem domain which is critical to make an IES behave intelligently.
+<I>Tutoring</I> activity is composed of <I>Tutoring</I>
+<I>objectives</I>, <I>Control</I>, and <I>Methods</I>. <I>Methods</I>
+are composed of <I>Actions</I> and <I>Objects</I>. The former
+includes <I>Help</I> which simply gives information required upon
+request, <I>Getting learners motivated</I> which encourages and
+compliments learners, <I>Exercise</I> which gives learners problems
+to solve, <I>Guide</I> which gives <I>Explanation</I> or <I>Hints</I>
+appropriate for the learner's understanding state and context, and
+<I>Evaluate/Assess</I>. <I>Objects</I> includes <I>Problems</I>,
+<I>Explanation</I>, <I>Hints</I>, <I>Advice</I>, and <I>Learner's
+performance</I>.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.4 Interaction between the system and the learner</B></P>
+
+<P>&nbsp;</P>
+
+<P>Learner's activity, both internal (mental) and external (actions,
+communication) also seems to play an important role. However, as we
+cannot directly assess/evaluate his/her mental activity and student
+model construction is mainly consists of filling the chosen framework
+using learner-system communication as an information source, we will
+concentrate here on <I>Learner-system interaction</I>. At the top
+level we suggest to characterize interaction by the following
+categories: <I>Mode of interaction</I>, <I>Communication roles</I>,
+<I>Content type</I> and <I>Control/Sequencing/Protocol</I>. The first
+concerns technical means and recognition techniques incorporated in
+IES, <I>Communication roles</I> reflect learner's attitude to IES,
+<I>Content types</I> describe cognitive content of communication and
+<I>Control</I> - a communication order.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.5 Teaching material knowledge</B></P>
+
+<P>&nbsp;</P>
+
+<P>Teaching material is a heart of education. To make it easier to
+manipulate various teaching material, it is important to characterize
+it in terms of a few concepts. We analyzed various teaching material
+knowledge from the viewpoint of effectiveness of tutoring strategy
+applications to them. We first came up with the following:</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<OL>
+   <LI>Ease of getting a guideline of error correction</LI>
+   
+   <LI>Ease of acquiring necessary attributes</LI>
+   
+   <LI>Applicability of verification operation</LI>
+   
+   <LI>Amount of resource consumption in the problem solving
+   process</LI>
+</OL>
+
+<P>These are factors which explain why a certain set of tutoring
+strategies are not effective to a certain set of domain knowledge.
+And then, we came up with the following four attributes such as
+Declarative/procedural, Abstract/concrete, Formal operations on the
+topic are defined or not, and The size of search space for that
+purpose. Each attribute corresponds to a factor above one by one.
+Those who are interested in the detailed explanation of this
+characterization, please refer(Ikeda et al., 1994).</P>
+
+<P><I>Teaching material knowledge</I> includes <I>Domain
+knowledge</I>, <I>Search control knowledge</I> and <I>Strategic
+knowledge</I>. The former is composed of <I>Nodes</I> and
+<I>Links</I>. <I>Nodes</I> have several attributes such as
+<I>mandatory/optional</I>, <I>difficulty to master</I>, etc. and
+include <I>Concepts</I>, <I>Facts</I>, <I>Rules</I>, and
+<I>Principles</I>. <I>Links</I> includes <I>Prerequisite</I>,
+<I>Objectives</I>, <I>is-a</I>, <I>part-of</I>,<I> order</I>, etc.
+<I>Search control knowledge</I> includes <I>Goals</I>,
+<I>Cost/Score</I>, <I>Preference</I>, <I>Focus</I>, etc.</P>
+
+<P>&nbsp;</P>
+
+<P><B>4.6 Some definition of concepts</B></P>
+
+<P>&nbsp;</P>
+
+<P>We here pick up some typical verb, nouns, and adjectives appearing
+in our ontology together with informal definition.</P>
+
+<P>&nbsp;</P>
+
+<P><B>Verbs:</B><BR>
+</P>
+
+<UL>
+   <LI><B><I>Observe</I></B>: To get information about the learner's
+   behavior<BR>
+   
+   <UL>
+      <LI>Input: None<BR>
+      Output: Learner's behavior, e.g., answers to problems given<BR>
+      Domain knowledge: None<BR>
+      </LI>
+   </UL>
+   
+   <P><B><I>Evaluate</I></B>: To obtain qualitative or quantitative
+   scores of objects<BR>
+   </P>
+   
+   <UL>
+      <LI>Input: A set of objects<BR>
+      Output: A set of pairs of an object and its qualitative or
+      quantitative score<BR>
+      Domain knowledge: Criteria/evaluation function<BR>
+      </LI>
+   </UL>
+   
+   <P><B><I>Explain</I></B>: Give a learner an explanation<BR>
+   </P>
+   
+   <UL>
+      <LI>Input: Explanation<BR>
+      Output: Explanation<BR>
+      Domain knowledge: None<BR>
+      </LI>
+   </UL>
+   
+   <P><I>Encourage, Compliment, Scold, Present/Give, Ask, Interrupt,
+   Plan, Help, Answer, Suggest, etc.</I></P>
+   
+   <P>&nbsp;</P></LI>
+</UL>
+
+<P><B>Nouns</B>:</P>
+
+<P><B><I>Bug</I></B>: A piece of incorrect/missing knowledge<BR>
+<B><I>Explanation</I></B>: Explicit information which helps a learner
+get better understanding<BR>
+<B><I>Hint</I></B>: Implicit information(a suggestion or stimulus)
+which helps a learner get better understanding<BR>
+<B><I>Examples</I></B>: An instance of a class of object used in
+explanations/hints<BR>
+<B><I>Counter</I></B><I> </I><B><I>example</I></B>: An example used
+in a hint, which is produced by supposedly the same (wrong) method,
+that was used by a learner, and which obviously violates
+pre-defined/some/known conditions.<BR>
+..........</P>
+
+<P>&nbsp;</P>
+
+<P>In addition to the above concepts, we need some concepts
+specifying objects, that is, adjectives as follows:</P>
+
+<P>&nbsp;</P>
+
+<P><B>Generic</B> <B>Adjectives</B>:</P>
+
+<P><I>Current, Relevant, Confirmed(hypothesis),
+Observed/Known(facts), Unknown, Evaluated, Missing, Correct,
+Incorrect, Mastered, Next(topic), Easier, More-difficult, Analogous,
+Focussed, etc.</I></P>
+
+<P>&nbsp;</P>
+
+<P><B>Constraint</B> <B>adjectives</B>:</P>
+
+<P><I>Satisfying, Maximal, Minimal, Larger, Smaller, Largest,
+smallest, Best, Better, etc,</I></P>
+
+<P>&nbsp;</P>
+
+<P>We need more verbs for describing the derivation process or
+something implicit. Their roles in task ontology is not to realize
+the corresponding operation but to modify or specify objects just as
+adjectives.</P>
+
+<P>&nbsp;</P>
+
+<P><B>General</B> <B>verbs</B>:</P>
+
+<P><I>Negate, Support, Derive, Solve, etc.</I></P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<P><B>5. SPECIFICATION OF IESs USING ONTOLOGY</B></P>
+
+<P>&nbsp;</P>
+
+<P><B>5.1 Formulation of a counter example</B></P>
+
+<P>&nbsp;</P>
+
+<P>We here demonstrate how our ontology contributes to specifying the
+activity of a typical building process of an ITS. Let us take a
+situation where the system is going to present a learner a counter
+example(ce). We first define a predicate ce. Now, let px and py are
+problems of the same class with different parameters and x and y are
+solutions of them. And, s, l and m for a system, a learner and a
+method. Let a predicate ce(l,m,px,x,s,py,y) stands for answer y of
+problem py is a counter example of x of problem px for learner l who
+uses method m. Then, ce(L,M,Px,X,Py,Y) is defined as follows:</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<PRE>
+   ce(L,M,Px,X,Py,Y):-
+       solve(L,Px,M,X),incorrect(X,Px),believe(L,correct(X,Px)),
+       solve(s,Py,M,Y),incorrect(Y,Py),believe(L,incorrect(Y,Py)),
+</PRE>
+
+<P>where solve(L,Px,M,X) reads answer X is obtained by solving
+problem Px by learner L using method M, incorrect(X,Px) answer X of
+Px is incorrect, believe(L,correct(X,Px)) learner L believes X is a
+correct answer of Px, and solve(s,Py,M,Y) answer Y is obtained by
+solving the problem Py by the system, s, using the same method M as
+that the learner used.</P>
+
+<P>This is a formulation of ce. In the implementation of ce,
+M(method) should be modeled to know what method the learner used(how
+he/she solved the problem) and some necessary facts have to be stored
+in the learner model or a fact data base before hand. Now let us show
+a rough image of how to implement ce mechanism. Let the problem be to
+learn what a rectangle is. To allow the system to use ce as its
+reaction to the learner's wrong answer, the authoring system must be
+able to match learner's answer with the correct definition and to
+model learner's definition ("M" in ce), and to find such an instance
+among X that satisfies learner's definition, but does not satisfy the
+correct one and he/she knows it is not a rectangle as a fact. As you
+can see, the first step for this particular problem formulation could
+be implemented by preliminary definition of the objects. So, modeling
+could be kept as simple as possible.</P>
+
+<P>In our case, the author must define:</P>
+
+<P>&nbsp;</P>
+
+<P><B>Domain knowledge</B>, containing the correct definition of a
+rectangle, say,</P>
+
+<P>&nbsp;</P>
+
+<PRE>
+  rectangle(X):-four_edges(X), parallel_two_facing_edges(X),
+                perpendicular_neighboring_edges(X).
+</PRE>
+
+<P><B>Procedures</B> which implement predicates including the three
+appearing in the correct definition. What they do is to analyzes the
+two-dimensional image of instances of figures and decide if each
+predicate holds or not. Or, all the instances of figures could be
+prepared in advance in fact data base by defining all their shapes
+and logical attributes as follows:</P>
+
+<P>&nbsp;</P>
+
+<P><B>Fact DB</B></P>
+
+<P>&nbsp;</P>
+
+<PRE>
+four_edges(x1).		              four_edges(x2).
+parallel_two_facing_edges(x1).	      parallel_two_facing_edges(x2).
+perpendicular_neighboring_edges(x1).
+not_perpendicular_neighboring_edges(x2).
+</PRE>
+
+<P>in which xi stand for identifiers of instances of figures.</P>
+
+<P>&nbsp;</P>
+
+<P><B>Learner model</B> includes known facts about domain knowledge
+and definition of a rectangle, which, the system thinks, is used for
+problem solving - in this case it can be a wrong definition.</P>
+
+<P>&nbsp;</P>
+
+<P>&nbsp;</P>
+
+<PRE>
+    rectangle(X):-four_edges(X), parallel_two_facing_edges(X).
+    not_rectangle(X):-diamond(X).
+    diamond(x7).
+</PRE>
+
+<P>Thus, x7 is found as a ce. Necessary condition for using a ce, is
+an ability to model a learner's definition and known instances which
+could be a candidate of ce.</P>
+
+<P>&nbsp;</P>
+
+<P><B>5.2 Specification of the situation in which ce is used</B></P>
+
+<P>&nbsp;</P>
+
+<P>In principle, the system can use ce at anytime when it succeeds in
+finding one according to the definition/formulation. We next consider
+how to specify such situations. We only here present informal
+specification. Our aim here is to clarify how ontology helps
+authors(teachers) specify and implement their ideas about
+tutoring.</P>
+
+<P>&nbsp;</P>
+
+<P>1) Tutoring objective: This kind of hint giving activity should be
+done under appropriate tutoring goals of <I>Correcting</I>
+<I>bugs</I> and <I>Making learners to recognize bugs they
+have</I>.</P>
+
+<P>2) Phase in the learning process: The phase where ce is
+appropriate is <I>In-depth understanding of new concepts</I> in
+declarative cases and <I>Training to solve a problem by using a known
+schema</I> in procedural cases.</P>
+
+<P>3) Inductive hint: A ce is considered as a kind of <I>Inductive
+hint</I>, since it suggests the learner to think the difference
+between the two conflicting examples.</P>
+
+<P>4) Suggest hint: The action carrying out the ce in practice is
+<I>Suggest</I>. This is organized under <I>Guide</I>, under
+<I>Method</I>, under <I>Tutoring</I> and under <I>System's
+functionality.</I></P>
+
+<P>5) Types of bugs: In declarative knowledge cases, ce is effective
+when types of bug is <I>Lack or Insertion of
+predicates(factors)</I>.</P>
+
+<P>6) Modelling: In order to use ce appropriately, the system first
+builds a learner's model to identify the bugs. According to the
+definition of ce, the model should be able to be <I>Symbolic</I> and
+<I>Executable</I>. While building the model, the system may perform
+all the subactivities under Modelling. In case of simple
+implementation, as indicated above, the user could prepare possible
+buggy definitions of each figures to make the modeling easier where
+the systems only has to choose an appropriate buggy model out of
+them.</P>
+
+<P>7) Other information used is the <I>Reliability of the learner
+model</I>. If it is lower than a threshold, then another action is
+taken. Or, <I>Learner's general capability</I> is low, then the
+system may prefer <I>Explanation</I> to <I>Hint giving</I> of ce.</P>
+
+<P>&nbsp;</P>
+
+<P><B>5.3 Specification of user's requirements</B></P>
+
+<P>&nbsp;</P>
+
+<P>In this section we would like to demonstrate how suggested IES
+ontology can be used by a teacher-author to formulate his
+requirements to the educational system to be designed and to choose
+an appropriate authoring tool for this purpose. Assume that an
+educational system is intended for training children to solve linear
+equations. Children are supposed to have obtained an initial
+instruction and explanations as to problem solving schema. A tutoring
+goal of the IES is to help children master problem solving skills,
+which could be reached by revealing their mistakes in operations and
+assisting them in recognizing and correcting their bugs. IES should
+provide an individual task sequence and help. Additional motivation
+is not necessary.</P>
+
+<P>Now let us describe this requirement in terms of IES ontology
+items. This IES is an <I>Autonomous system</I>for <I>one-to-one
+interaction,</I> namely, <I>Tutoring/Training</I>. The main
+<I>Educational goal</I> is to train <I>Domain-dependent</I>
+<I>capability</I>, <I>Problem-solving</I>, <I>Using</I> <I>a known
+schema</I>. <I>Learner-System</I> <I>Interaction</I> is based on
+<I>Learner-Teacher</I> roles distribution and is
+<I>System-driven</I>, and <I>Mode of interaction</I> is <I>Menu</I>
+and <I>Formal</I> <I>language</I> for entering equations.
+<I>Content</I> of interaction includes <I>Problems</I>,
+<I>Evaluation</I> of <I>Solution</I>, <I>Hint</I>, <I>Correct</I>
+<I>solution</I>, <I>Evaluation</I> and <I>Rule</I> - from system and
+<I>Solution</I> from a learner via ask for <I>Help</I>.</P>
+
+<P>Next, we define what kind of <I>Functionality</I> is necessary for
+meeting the author's requirements. <I>Tutoring</I> <I>Objectives</I>
+include <I>Making</I> <I>learners</I> <I>to recognize bugs</I> and
+<I>Correcting bugs</I> by <I>Direct</I> or <I>Indirect</I>
+<I>instruction</I> depending on learner's <I>Degree</I> <I>of
+mastery</I>. System should carry out a <I>Dynamic problem
+selection</I> based on <I>Type of bugs</I>, <I>Degree of mastery</I>
+and taking into account (<I>Easier</I> - <I>More</I> <I>difficult</I>
+- <I>Similar</I>) relations between <I>Problems</I>, <I>Assesses</I>
+each <I>Solution</I> <I>process</I> and <I>Present</I> a learner
+<I>Evaluation</I> <I>results</I> either for a step or a whole
+problem.</P>
+
+<P><I>Methods</I> to be incorporated in the IES include
+<I>Exercises</I> by <I>Selecting/Generating</I> and <I>Presenting</I>
+<I>Problems</I>; <I>Evaluate</I> <I>Solution process</I> and define
+probable <I>Bug</I>; <I>Present</I> <I>Results</I> of
+<I>Evaluation</I> and <I>Suggest</I> a <I>Hint</I> in a form of a
+<I>Kind of bug</I>, a <I>Counter example</I> or <I>Specific
+example</I>; <I>Explanation</I> of the <I>Reason</I>, <I>Why the
+learner's</I> <I>Answer is incorrect</I>; <I>Help</I> by
+<I>Presenting</I> <I>Correct</I> <I>Answer</I> and <I>Prerequisite
+knowledge</I>.</P>
+
+<P>According to author's requirements, <I>Learner model</I> should
+represent his/her <I>Bugs</I>, their <I>Types</I>, <I>Degree of
+mastery</I> and <I>History of problems given</I> to avoid
+duplication, therefore, the modelling method employed must identify
+learner's knowledge state precisely enough. Typical <I>Buggy
+model</I> could be suggested for this purpose.</P>
+
+<P>Tutoring strategies are also specified in terms of our ontology.
+Assume they are written in productions rules. Then, the following set
+of rules can be written:</P>
+
+<P>&nbsp;</P>
+
+<P><TT>If </TT><I><TT>Reliability</TT></I><TT> of the
+</TT><I><TT>Learner model</TT></I><TT> is lower than a threshold and
+the </TT><I><TT>Answer</TT></I><TT> is
+</TT><I><TT>Incorrect</TT></I></P>
+
+<P><TT>Then </TT><I><TT>Present</TT></I><TT> him/her it is
+</TT><I><TT>Incorrect</TT></I><TT>.</TT></P>
+
+<P>&nbsp;</P>
+
+<P><TT>If </TT><I><TT>Reliability</TT></I><TT> of the
+</TT><I><TT>Learner model</TT></I><TT> is higher than a threshold,
+the </TT><I><TT>Answer</TT></I><TT> is
+</TT><I><TT>Incorrect</TT></I><TT>, </TT></P>
+
+<P><I><TT>Tutoring objective</TT></I><TT> is </TT><I><TT>Correcting
+bugs</TT></I><TT>, and the </TT><I><TT>Type of bug</TT></I><TT> is
+</TT><I><TT>Lack of predicate</TT></I></P>
+
+<P><TT>Then </TT><I><TT>Suggest</TT></I><TT> a </TT><I><TT>Counter
+example</TT></I><TT> and </TT><I><TT>Suggest</TT></I><TT> the
+</TT><I><TT>Predicate</TT></I><TT> is
+</TT><I><TT>Missing</TT></I><TT>.</TT></P>
+
+<P>&nbsp;</P>
+
+<P>The latter is a variant of the Rule 7 in (Major, 1993). More
+comprehensive representation of tutoring strategies adopted in WEST
+and GUIDON is found in (Mizoguchi et al., 1996b).</P>
+
+<P>&nbsp;</P>
+
+<P><B>6. CONCLUSION</B></P>
+
+<P>&nbsp;</P>
+
+<P>We have discussed ontology for IESs. Although the step we have
+made is not large, its implications to the future research in IESs
+area is not small. Because the research is in an initial stage, the
+ontology designed thus far is not very rich which should be augmented
+further. And, most of the description in this paper is informal.
+Although informal description is easy for humans to understand, they
+are sometimes ambiguous and computer cannot understand them at all.
+In order to enable computers manipulate ontology, it has to be
+formalized. Ontology helps identify a set objects that must be
+somehow defined, represented and implemented in authoring systems.
+Authors can refer to it in certain tutorial situations (which
+themselves could be specified by ontology), so the impact is - an
+identification of essential tutorial objects and their rigorous
+definitions which contribute to explication of fundamental conceptual
+structure of authoring systems and to filling the gap between users
+and authoring systems. The designers can think how to implement, and
+author - when and how to use. Furthermore, formal ontology
+implemented in a computer language enables us to build a support
+environment for use of authoring systems, IES evaluation and
+comparison, etc. Some examples of formalized ontology is found in
+(Mizoguchi et al., 1996b). Ontology for communication protocol
+between IESs for CSCL is not discussed in this paper, though it is
+also important. A preliminary result is found in (Ikeda et al.,
+1995). Ontology represented in a well-defined language with
+declarative and procedural semantics will contribute to formalization
+of IESs and hence to promotion of IES research in general.</P>
+
+<P>&nbsp;</P>
+
+<P><B>REFERENCES</B></P>
+
+<P>&nbsp;</P>
+
+<P>Chandrasekaran, B. (1986) Generic tasks for knowledge-based
+reasoning: the right level of abstraction for knowledge acquisition,
+IEEE Expert, 1, pp.23-30.</P>
+
+<P>Clancey, W.J., Heuristic classification (1985) Artificial
+Intelligence, 27, 3, pp.289-350.</P>
+
+<P>Gruber,T. (1992) A translation approach to portable ontology
+specifications, Proc. of JKAW'92, pp. 89-108.</P>
+
+<P>Guarino, N. and P. Giaretta (1995) Ontologies and knowledge bases
+towards a terminological clarification, Proc. of KB&amp;KS'95,
+pp.25-32.</P>
+
+<P>Ikeda, M and R. Mizoguchi: FITS (1994) A framework for ITS -- A
+computational model of tutoring, J. of AI in Education, Vol.5, No.3,
+pp.319-348.</P>
+
+<P>Ikeda, M and R. Mizoguchi (1995) Ontological issues of CSCL
+systems design, Proc. of AI-ED95, pp.242-249.</P>
+
+<P>Major, N (1993) Reconstructing teaching strategies with COCA,
+Proc. of AIED'93, Edinburgh, pp. 66-73.</P>
+
+<P>Mizoguchi, R. et al. (1992) Task ontology and its use in a task
+analysis interview system -- Two-level mediating representation in
+MULTIS --, Proc. of the JKAW'92, pp.185-198.</P>
+
+<P>Mizoguchi, R.(1993) Knowledge acquisition and ontology, Proc. of
+the KB&amp;KS'93, Tokyo, pp.121-128.</P>
+
+<P>Mizoguchi, R, M. Ikeda, K. Seta, et al. (1995a) Ontology for
+modeling the world from problem solving perspectives, Proc. of IJCAI
+Workshop on Basic Ontological Issues in Knowledge Sharing,
+Montreal.</P>
+
+<P>Mizoguchi, R., Y. Tijerino, M. Ikeda (1995b) Task analysis
+interview based on task ontology, J. of Expert Systems with
+Applications, Vol.9, No. 1, pp.15-25.</P>
+
+<P>Mizoguchi,R, and M. Ikeda (1996a) Towards ontology engineering,
+Technical Report AI-TR-96-1, ISIR, Osaka University.</P>
+
+<P>Mizoguchi, R. and K. Sinitsa, and M. Ikeda (1996b) Task ontology
+design for intelligent educational/training systems, Workshop on
+Architectures and methods for Designing Cost-effective and Reusable
+ITSs, ITS96, Montreal.
+http://www.ei.sanken.osaka-u.ac.jp/announce/ITS.ws.html</P>
+
+<P>Puerta, A.R, et al.(1992) A multiple-method knowledge-acquisition
+shell for the automatic generation of knowledge acquisition tools,
+Knowledge Acquisition, 4, pp.171-196.</P>
+
+<P>Van Marcke, K. et al. (1995) Learner adaptivity in generic
+instructional strategies, Proc. of AIED95, pp.323-333.</P>
+
+<P>Vivet, M. (1989) Knowledge-based tutors -- Towards the design of a
+shell, International Journal of Educational Research, 12,
+pp.839-850.</P>
+
+<P>Wenger, E. (1987) Artificial intelligence and tutoring systems,
+Morgan Kaufmann Publishers, California.</P>
+
+<P>Wielinga, B.J. (1992) KADS: A modeling approach to knowledge
+engineering, J. of Knowledge Acquisition, Vol.4, No.1, pp.5-53.</P>
+
+<P></P>
+</BODY>
+</HTML>

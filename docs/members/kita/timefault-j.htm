@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>無題ドキュメント</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</head>
+
+<body bgcolor="#FFFFFF">
+<p>　</p>
+<h1><font color="#000000">モデルベース問題解決における基盤概念の明示化</font></h1>
+<p>問題解決に用いられる人工物のモデルは，問題解決の対象（ドメイン）と なる人工物がどのような要素から構成されておりどのような法則に則っている かを表す．現実世界のすべてをモデル化することは不可能であるので，対象モ 
+  デルは本質的になんらかの仮定に基づいており，特定の観点から現実世界の一 部を捉えたものである．しかしながら，従来のモデル記述においてそのような 仮定や観点は明らかにはされていないことが多い．その結果，モデルの適用可 
+  能性を判断することができず，モデルの再利用性を阻害する原因となる．オン トロジーはモデルの背後に隠れている仮定とその能力を明示化する役割を果たす．</p>
+<p>本研究では従来暗黙的であったモデル化の基本概念を抽出することを目指している．さらに，抽出した基本概念に基づいて問題解決システムを開発している．</p>
+<p><a href="pub/kita-dth.htm">Dr.論文</a>はこの2つの研究をまとめたものである. </p>
+<p><img src="images/div1.gif" width="594" height="8"></p>
+<h2><font color="#0000FF"><a name=modeling></a><font color="#000000"><img src="images/bullet1.gif" width="27" height="27" align="texttop">定性推論における時間概念</font></font></h2>
+<p>本研究では，人間の人工物の振る舞いの理解に本質的役割を果たす「因果性」と「時区間」に関する仮定を明示化することを目指して研究を行っている． まず，因果性を支える時区間の物理的意味を表現するための因果的時間オント 
+  ロジーを提案している&#91;1,2&#93;．因果的時間オントロジーは，定性モデルが持ち 得る時区間概念を列挙しており，定性推論システムが扱う時区間を概念的に分 
+  類し定義することができる．このオントロジーを用いて，定性推論システムに よって生成される因果連鎖における時区間の長さを概念的に比較することがで きるとともに，定性推論システムの扱える時区間の長さに関する能力（時間分 
+  解能と呼ぶ）を明示することができる．論文&#91;1,2&#93;では従来の代表的定性推論 システム６種が扱える時区間を記述し，その能力の違いを明示化している．</p>
+<p>さらに，発電プラントなどの流体を媒体として用いるようなプラント（流体系と呼ぶ）を対象として，その因果関係を表現するのに必要な時区間につい て考察し，流体系プラントに必要な７つの時区間概念を同定した&#91;3,4&#93;．また， 
+  それらに基づき流体系の主要な部品の再利用可能なモデルを提供する流体系ド メイン・オントロジーを構築した．これらの考察に基づき，再利用性のある部 品モデルを組み合わせることで，時間的粒度の細かい因果連鎖を導出する推論 
+  システムを実現した．</p>
+<p>主要論文</p>
+<ol>
+  <li><a href="pub/kita-jsaiac98.html">定性推論における時間分解能を規定する因果的時間オントロジー</a>, 1998年度人工知能学会全国大会, 
+    pp.40-43, 1998</li>
+  <li><a href="pub/kita-ijcai97.html">A Causal Time Ontology for Qualitative Reasoning, 
+    </a>Proc. of IJCAI-97, 1997</li>
+  <li>モデルに基づく問題解決のための流体と時間のオントロジーの構築とその評価, 人工知能学会学会誌, Vol.12, No.1, pp.132-143, 
+    1997</li>
+  <li><a href="pub/kita-pricai96.html">A Qualitative Reasoning based on an Ontology 
+    of Fluid Systems and Its Evaluation on a Power Plant</a>, Proc. of PRICAI'96, 
+    1996</li>
+</ol>
+<p> 
+<img src="images/div1.gif" width="594" height="8"> 
+<p></p>
+<h2><font color="#0000FF"><a name=fault></a><font color="#000000"><img src="images/bullet1.gif" width="27" height="27" align="texttop">故障診断における故障概念</font></font></h2>
+<p>故障診断はこれまでに最も詳細に論じられてきた問題の一つであることか ら「故障」という概念はよく理解していると考えられてきたが，我々は「故障」 や「原因」といった基盤となる概念において曖昧性があると考えている．例え 
+  ば，論理回路の故障の原因として ，機能階層関係に基づいた「部分であるAND 素子の故障が全体の故障の原因である」という理解と，物理的な因果関係に基 づいた「周りの部品が発生した熱がAND素子を破壊し，その影響が他の部品に 
+  伝播した」という理解の２つを考えることができる．前者の解釈は時間を伴わ ない認知的な関係であるが，後者は時間が経過する．このように，２つの故障 原因の理解の方法はまったく異なっているにも係わらず，どちらに基づく場合 
+  でも同じ故障原因という言葉で表されている．</p>
+<p>本研究では，そのような基本的概念に明確な定義を与える故障オントロジー を提案している．故障オントロジーは，故障原因に大きく２つの捉え方がある ことを示し，また故障を物理的観点から分類し概念化した「故障クラス」を定 
+  義する．それに基づいて，従来の故障診断システムの扱える故障の範囲を明確 に記述することができる．論文では代表的モデルベース故障診断システムであ る GDE 
+  が非常に限られた範囲の故障原因のみを推論していることを示してい る．さらに，従来扱えなかった範囲をも扱える故障診断システムを実現した． また，故障クラス概念を用いて探索範囲を動的に拡大する段階的診断を実現し， 
+  思わぬ故障の一部を扱うことを可能にした．</p>
+<p>主要論文</p>
+<ol>
+  <li><a href="pub/kita-dx99.pdf">An Ontological Analysis of Fault Process and 
+    Category of Faults</a>, Proc. of Tenth International Workshop on Principles 
+    of Diagnosis (DX-99), June 8-11 1999, Scotland, Forthcoming</li>
+  <li><a href="pub/kita-jsai99a.html">故障オントロジー - 概念抽出とその組織化 -,</a> 人工知能学会誌, 掲載予定</li>
+  <li><a href="pub/kita-jsai99b.html">故障オントロジーの考察に基づく故障診断方式　- 網羅的故障仮説生成 -</a>, 
+    人工知能学会誌, 掲載予定</li>
+  <li><a href="pub/kita-paces97b.html">A Model-based Diagnosis with Fault Event 
+    Models</a>, Proc. of Pacific Asian Conference on Expert Systems (PACES) 97</li>
+</ol>
+<p><img src="images/div1.gif" width="594" height="8"></p>
+<p><img src="images/bulletnx.gif" width="26" height="25" align="middle"><a href="function-j.htm">機能表現と設計支援</a>/<a href="pub/pubpapers-j.htm">論文リスト</a></p>
+<p></p>
+<p><img src="images/bulletbk.gif" width="24" height="27" align="middle"><a href="index-j.htm">来村のホームページ</a>/<a href="http://www.ei.sanken.osaka-u.ac.jp/japanese/">知識システム分野(溝口研）</a></p>
+<p>　</p>
+<p>　 </p>
+</body>
+</html>

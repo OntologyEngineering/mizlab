@@ -1,0 +1,31 @@
+package talkabout;
+
+import java.awt.event.*;
+import java.awt.*;
+import java.applet.*;
+
+public class toolPanel extends Panel {
+  TextField txtWord = new TextField();
+  Button btnArrow = new Button();
+  Button btnOK = new Button();
+
+  public toolPanel() {
+    try {
+      jbInit();
+    }
+    catch(Exception e) {
+      e.printStackTrace();
+    }
+  }
+  private void jbInit() throws Exception {
+    txtWord.setBounds(new Rectangle(63, 15, 147, 25));
+    this.setLayout(null);
+    btnArrow.setBounds(new Rectangle(225, 15, 26, 25));
+    btnOK.setFont(new java.awt.Font("SansSerif", 0, 11));
+    btnOK.setLabel("O.K.");
+    btnOK.setBounds(new Rectangle(270, 15, 58, 25));
+    this.add(txtWord, null);
+    this.add(btnArrow, null);
+    this.add(btnOK, null);
+  }
+}

@@ -1,0 +1,25 @@
+#!/usr/local/bin/perl
+
+require 'jcode.pl';
+
+if ($ENV{'REQUEST_METHOD'} eq "POST") {
+	read(STDIN, $QUERY_DATA, $ENV{'CONTENT_LENGTH'});
+@pairs = split(/&/,$QUERY_DATA);
+$count = @NAME;
+$msg = 'ありがとうございました。正常に送信しました。'; 
+print "Content-type: text/plain\n";
+print "\n";
+	print "<body bgcolor=#FFFFFF>\n";
+	print "<div align=center><center>\n";
+	print "<p>　</p><p>　</p>\n";
+	print "<table border=5 width =70%><tr>\n";
+		print "<td align=center><p>　</p>\n";
+		print "<p><font size=6><b><i>$msg</i></b></font></p>";
+		print "<p>[ホームに戻る]</font></p><p>　</p></td>\n";
+	print "</tr></table>\n";
+	print "</center></div>\n";
+	print "<p align=right><font size=2><a href=http://www2.inforyoma.or.jp/~terra/>WebHandler Terra</a></font></p>\n";
+	print "</body></html>\n";
+	exit;
+}
+

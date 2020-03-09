@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script>
+
+function check_browser() {
+  if (navigator.appName == "Microsoft Internet Explorer") {
+    ie = true;
+  } else if (navigator.appName == "Netscape" && parseInt(navigator.appVersion) >= 5) {
+    ie = false;
+  }
+}
+
+function init() {
+  check_browser();
+  
+  http =
+    ie ? new ActiveXObject("Msxml2.XMLHTTP")
+      : new XMLHttpRequest();
+  http.open("GET", "test.xml", false);
+  http.send(null);
+  papers = http.responseXML;
+
+  _f = document.getElementById('f');
+}
+
+function Bag() {
+  this.array = new Array();
+  this.add = bag_add;
+  this.attach = bag_attach;
+  return this;
+}
+
+function bag_add(name) {
+  for (n = 0; n < this.array.length; n++) {
+    if (this.array[n] == name) return;
+  }
+  this.array[this.array.length] = name;
+}
+
+function bag_attach( select_form, sel ) {
+  this.array = this.array.sort();
+  
+  select_form.length = this.array.length + 1;
+  var sel_i = 0;
+  for (k = 0; k < this.array.length; k++) {
+    select_form.options[k+1].text = this.array[k];
+    if (this.array[k] == sel) sel_i = k+1;
+  }
+  select_form.selectedIndex = sel_i;
+}
+
+function Checker() {
+  this.re = new RegExp(_f.kw.value, "i");
+  this.y1 = _f.y1.options[_f.y1.selectedIndex].text;
+  this.y2 = _f.y2.options[_f.y2.selectedIndex].text;
+  this.co = new RegExp(_f.co_tx.value, "i");
+  this.a = _f.au.options[_f.au.selectedIndex].text;
+  this.a_re = new RegExp(this.a, "i");
+  
+  this.check = checker_check;
+  this.check_title = checker_check_title;
+  this.check_author = checker_check_author;
+  this.check_reference = checker_check_reference;
+  this.check_year = checker_check_year;
+  
+  return this;
+}
+
+function checker_check (title, aus, reference, year) {
+  return this.check_title( title )
+    && this.check_author( aus )
+      && this.check_reference( reference )
+        && this.check_year( year );
+}
+
+function checker_check_title( title ) {
+  return this.re.test( title );
+}
+
+function checker_check_author( aus ) {
+  if (this.a == "") return true;
+
+  for (j = 0; j < aus.length; j++) {
+    if (this.a_re.test( aus[j].firstChild.nodeValue ) ) return true;
+  }
+  return false;
+}
+
+function checker_check_reference( reference ) {
+  return this.co.test( reference );
+}
+
+function checker_check_year ( y ) {
+  var y1 = (this.y1 != ""), y2 = (this.y2 != "");
+  if (!y1 && !y2) return true;
+  if ( y1 && !y2 && this.y1 <= y) return true;
+  if (!y1 &&  y2 && y <= this.y2) return true;
+  if ( y1 &&  y2 && this.y1 <= y && y <= this.y2) return true;
+  return false;
+}
+
+function change() {
+  var c = new Checker();
+  var ps = papers.documentElement.getElementsByTagName("paper");
+  var result = "";
+  var rc = 0;
+  var all_author = new Bag();
+  var all_conference = new Bag();
+  var all_year = new Bag();
+  
+  for (i = 0; i < ps.length; i++) {
+    var title = ps[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+    var aus = ps[i].getElementsByTagName("author");
+    var reference = ps[i].getElementsByTagName("reference")[0].firstChild.nodeValue;
+    var y = ps[i].getElementsByTagName("year")[0].firstChild.nodeValue;
+    var link_node = ps[i].getElementsByTagName("link");
+	var link = link_node.length > 0 ? link_node[0].firstChild.nodeValue : "";
+	
+    if ( c.check( title, aus, reference, y ) ) {
+      var authors = aus[0].firstChild.nodeValue;
+      all_author.add(authors);
+      for (j = 1; j < aus.length; j++) {
+        var auth_name = aus[j].firstChild.nodeValue;
+        authors += ", " + auth_name;
+        all_author.add(auth_name);
+      }
+
+      var cs = ps[i].getElementsByTagName("conference");
+      if ( cs.length > 0 ) {
+        all_conference.add( cs[0].firstChild.nodeValue );
+      }
+      
+      all_year.add(y);
+      
+      if ( link != "" ) {
+        if ( reference.indexOf("Article") > 0 ) {
+          reference = reference.replace("Article", "<a href='" + link + "'>Article</a>");
+        } else if ( reference.indexOf("PDF") > 0 ) {
+          reference = reference.replace("PDF", "<a href='" + link + "'>PDF</a>");
+        } else {
+          reference += "<a href='" + link + "'>PDF</a>";
+        }
+      }
+
+      result +=
+        "<table border=1 width=80%>"
+        +"<tr><td width=10%>title</td><td>" + title + "</td></tr>"
+          + "<tr><td>author</td><td>" + authors + "</td></tr>"
+            + "<tr><td>reference</td><td>" + reference + "</td></tr>"
+              +"</table><br/>";
+      rc++;
+    }
+  }
+  document.getElementById("rc").innerHTML = "result : <b>" + rc + "</b>";
+  document.getElementById("result").innerHTML = result;
+
+  all_author.attach( _f.au, c.a );
+
+  all_conference.attach( _f.co, _f.co_tx.value );
+  
+  all_year.attach( _f.y1, c.y1 );
+  all_year.attach( _f.y2, c.y2 );
+  
+}
+
+function clear_search() {
+  var _f = document.getElementById('f');
+  
+  _f.kw.value='';
+  _f.co_tx.value='';
+  _f.au.selectedIndex=0;
+  _f.co.selectedIndex=0;
+  _f.y1.selectedIndex=0;
+  _f.y2.selectedIndex=0;
+
+  change();
+}
+
+</script>
+
+  <body onLoad="init(); change();">
+	<h1>溝口研 発表論文検索</h1>
+	<h2>試験運用中</h2>
+
+	<form id="f" onsubmit="change(); return false;">
+	  <input type="button" value="最初から検索" onclick="clear_search();" />
+      <input type="submit" value="絞り込み検索"/>
+      <br />
+	  
+	  Title:<input type="text" id="kw"/><br/>
+
+	  Author:
+	  <select id="au" onChange="change();">
+		<option></option>
+		<option>2</option>
+	  </select>
+	  <br/>
+
+	  Conference:
+      <input type="text" id="co_tx"/>
+      or 
+	  <select id="co" onChange="co_tx.value = co.options[co.selectedIndex].text; change();">
+		<option></option>
+	  </select>
+	  <br/>
+	  
+	  Year:
+	  <select id="y1" onChange="change();">
+		<option></option>
+	  </select>
+	  ～
+	  <select id="y2" onChange="change();">
+		<option></option>
+	  </select>
+	  <br/>
+
+	  Topic:
+	  <input type="radio" name="to" value=""/>(a) ツール関係<input type="radio" name="to" value=""/>(b) Engineering 関係<input type="radio" name="to" value=""/>(c) e-Learning 関係<input type="radio" name="to" value=""/>(d) ナレッジマネジメント関係
+	</form>
+
+	<span id="rc"></span><br />
+
+    <span id="result"></span>
+
+
+	</body>
+</html>

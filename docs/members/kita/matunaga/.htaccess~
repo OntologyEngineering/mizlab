@@ -1,0 +1,7 @@
+AuthType Basic
+AuthUserFile .passwd
+AuthGroupFile /dev/null
+AuthName Matunaga
+<Limit POST GET>
+require valid-user
+</Limit>

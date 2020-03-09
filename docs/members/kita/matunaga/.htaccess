@@ -1,0 +1,7 @@
+AuthType Basic
+AuthUserFile /usr/u/kita/webconf/matunaga.pw
+AuthGroupFile /dev/null
+AuthName Matunaga
+<Limit POST GET>
+require valid-user
+</Limit>

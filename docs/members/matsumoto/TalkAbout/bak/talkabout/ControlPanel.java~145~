@@ -1,0 +1,173 @@
+package talkabout;
+
+import java.awt.event.*;
+import java.awt.*;
+import java.awt.List;
+import java.applet.*;
+import java.io.*;
+import java.lang.*;
+import java.util.*;
+import javax.swing.*;
+
+public class ControlPanel extends Panel{
+  talkabout base;
+  DrawPanel panel;
+
+  Vector candidate = new Vector();
+
+  FlowLayout flowLayout1 = new FlowLayout();
+  TextField txtWord = new TextField(20);
+  Button btnArrow = new Button();
+  Button btnOK = new Button();
+  List list1;
+  Button btnClear = new Button();
+
+  public ControlPanel() {
+    try {
+      jbInit();
+    }
+    catch(Exception e) {
+      e.printStackTrace();
+    }
+  }
+  private void jbInit() throws Exception {
+    base = new talkabout();
+    base.controlpanel = this;
+
+
+    this.setLayout(flowLayout1);
+    btnOK.setFont(new java.awt.Font("SansSerif", 0, 12));
+    btnOK.setLabel("決定");
+    btnOK.addActionListener(new java.awt.event.ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        btnOK_actionPerformed(e);
+      }
+    });
+    txtWord.setFont(new java.awt.Font("SansSerif", 0, 14));
+
+    btnArrow.setFont(new java.awt.Font("Dialog", 1, 12));
+    btnArrow.setLabel("↓");
+    btnArrow.addActionListener(new java.awt.event.ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        btnArrow_actionPerformed(e);
+      }
+    });
+    btnClear.setFont(new java.awt.Font("SansSerif", 0, 12));
+    btnClear.setLabel("クリア");
+    btnClear.addActionListener(new java.awt.event.ActionListener() {
+      public void actionPerformed(ActionEvent e) {
+        btnClear_actionPerformed(e);
+      }
+    });
+    this.add(txtWord, null);
+    this.add(btnArrow, null);
+    this.add(btnOK, null);
+    this.add(btnClear, null);
+
+
+  }
+
+  void btnArrow_actionPerformed(ActionEvent e) {
+    //下位概念候補の表示
+    String word;
+    String filename = txtWord.getText();
+    if(filename.equals("")){
+    }
+    else{
+      File file = new File(filename);
+      StringBuffer w = new StringBuffer();
+      try{
+        BufferedReader br = new BufferedReader(new FileReader(file));
+        while(br.ready()){
+          word = br.readLine();
+          if(word==null){
+            break;
+          }
+          list1.addItem(word);
+        }
+        br.close();
+      }
+      catch(IOException e){
+        System.out.println("IOException:"+e.getMessage());
+      }
+    }
+
+  }
+
+  void btnOK_actionPerformed(ActionEvent e) {
+      int i;
+      int count;
+      String rtn;
+      String word;
+      StringTokenizer tokenizer_rtn;
+      boolean same = false;
+
+      word = txtWord.getText();
+
+      if (word.equals("")){
+
+      }
+      else {
+        for(int j=0;j<panel.nodes.size();j++){
+          Node node = (Node)panel.nodes.elementAt(j);
+          if(word.equals(node.lbl)){
+            same = true;
+          }
+          else{
+          }
+        }
+        if(same){
+        }
+        else{
+              //ノードの追加
+              Node n = new Node();
+              n.lbl = word;
+              n.x = panel.getWidth()/2;
+              n.y = panel.getHeight()/2;
+              panel.nodes.addElement((Node)n);
+
+              //エッジの追加
+              Edge eg = new Edge();
+              eg.to = panel.nodes.size()-1;
+              int selected_i = -1;
+              for(i=0;i<panel.nodes.size();i++){
+                Node nn = (Node)panel.nodes.elementAt(i);
+                if(nn.selected){
+                  selected_i = i;
+                  break;
+                }
+              }
+              if(selected_i>=0){
+                eg.from = selected_i;
+              }
+              else{
+                eg.from = 0;
+              }
+              panel.edges.addElement((Edge)eg);
+
+              list1.removeAll();
+              panel.paint(panel.getGraphics());
+          }
+
+       }
+
+       txtWord.setText("");
+  }
+
+
+  void btnClear_actionPerformed(ActionEvent e) {
+    ClearDialog dlg = new ClearDialog(panel.f,"確認",true);
+    dlg.panel = this.panel;
+    Dimension dlgSize = dlg.getPreferredSize();
+    Dimension frmSize = getSize();
+    Point loc = getLocation();
+    dlg.setLocation(loc.x + frmSize.width, loc.y + frmSize.height);
+    dlg.show();
+
+  }
+
+
+
+
+
+}

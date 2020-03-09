@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>MIZOGUCHI LABORATORY</title>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginIf cond="_document['Japanese']" -->
+	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	<!-- TemplateEndIf -->
+	<!-- TemplateBeginIf cond="!_document['Japanese']" -->
+	<meta http-equiv="Content-Type" content="text/xml; charset=ISO-8859-1"/>
+	<!-- TemplateEndIf -->
+	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
+	<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+	<!-- TemplateParam name="Japanese" type="boolean" value="true" -->
+	<!-- TemplateParam name="menu_index" type="number" value="-1" -->
+	<link rel="alternate" type="application/rss+xml" href="mizlab.rdf"/>
+  </head>
+  <body>
+	<div class="top-title">
+	  <span class="top-text">
+		<span class="mizlab">Mizoguchi Lab</span><br/>
+		I.S.I.R., Osaka University<br/>
+	  </span>
+	  <span class="pagelang">
+		<!-- TemplateBeginIf cond="!_document['Japanese']" -->
+		<!-- TemplateBeginEditable name="JumpLinkInJapanese" -->
+		<a href="index.html">To Japanese</a>
+		<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+		<!-- TemplateBeginIf cond="_document['Japanese']" -->
+		<!-- TemplateBeginEditable name="JumpLinkInEnglish" -->
+		<a href="index-en.html">To English</a>
+		<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+	  </span>
+	</div>
+	<div class="right-area">
+	  <!-- TemplateBeginEditable name="right-area" -->
+	  <!-- TemplateEndEditable -->
+	  <div id="w3c">
+		<a href="http://validator.w3.org/check?uri=referer">
+		  <img class="w3c-link" src="images/valid-xhtml11.png" alt="Valid XHTML 1.1!"/>
+		</a>
+		<a href="http://jigsaw.w3.org/css-validator">
+		  <img class="w3c-link" src="images/vcss.gif" alt="Valid CSS!"/>
+		</a>
+		<!--a href="http://www.w3.org/RDF/" title="RDF Resource Description Framework">
+		  <img src="images/rdf_metadata_button.32.gif"
+		  alt="RDF Resource Description Framework Metadata Icon"/>
+		  </a-->
+		<div id="copyright">
+		  Copyright (C) 2004 MIZOGUCHI Laboratory, I.S.I.R., Osaka University. All Rights Reserved.
+		</div>
+	  </div>
+	</div>
+	<div class="leftmenu">
+	  <ul>
+	  <!-- TemplateBeginRepeat name="RepeatRegionMenu" -->
+		<li class="@@((_index == _document['menu_index']) ? 'leftmenu-selected' : 'leftmenu-head' )@@">
+		  <!-- TemplateBeginIf cond="_document['Japanese']" -->
+		  <!-- TemplateBeginEditable name="MenuLinkInJapanese" -->
+		  <a href="index.html">Home</a>
+		  <!-- TemplateEndEditable --><!-- TemplateEndIf -->
+		  <!-- TemplateBeginIf cond="!_document['Japanese']" -->
+		  <!-- TemplateBeginEditable name="MenuLinkInEnglish" -->
+		  <a href="index-en.html">Home</a>
+		  <!-- TemplateEndEditable -->
+		  <!-- TemplateEndIf -->
+		</li>
+		<!-- TemplateEndRepeat -->
+	  </ul>
+	  <div class="last-update">
+		(last update: <!-- #BeginDate format:Ja1 -->05/05/12 <!-- #EndDate -->)
+	  </div>
+	  <div class="google">
+	  <!-- SiteSearch Google -->
+<form method="get" action="http://www.google.co.jp/search">
+<div>
+<a href="http://www.google.co.jp/">
+	<img src="http://www.google.com/logos/Logo_40wht.gif" alt="Google" />
+</a>
+<input type="text" name="q" size="20" maxlength="255" value=""/>
+<input type="hidden" name="hl" value="ja"/>
+<input type="hidden" name="ie" value="Shift_JIS"/>
+<input type="submit" name="btnG" value="GO"/>
+<input type="hidden" name="domains" value="ei.sanken.osaka-u.ac.jp"/><br/>
+<input type="radio" name="sitesearch" value=""/> WWW 
+<input type="radio" name="sitesearch" value="ei.sanken.osaka-u.ac.jp" checked="checked"/> MIZLAB
+</div>
+</form>
+<!-- SiteSearch Google --></div>
+	</div>
+  </body>
+</html>

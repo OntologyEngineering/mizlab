@@ -1,0 +1,7 @@
+AuthType Basic
+AuthUserFile /usr/u/kita/webconf/kozaki.pw
+AuthGroupFile /dev/null
+AuthName Kozaki
+<Limit POST GET>
+require valid-user
+</Limit>

@@ -1,0 +1,130 @@
+<TITLE> Publications from Mizoguchi Lab.</TITLE>
+<H1> PUBLICATIONS from Mizoguchi Lab.</H1>
+
+Last modified: March 1995<br>
+(This list does not contain some latest publications)<br>
+
+
+<H2>KNOWLEDGE ENGINEERING</H2>
+
+<H2> 1995 </H2>
+
+<P>
+<B>Title:</B> A method of qualitative reasoning for model-based
+problem solving and its application to a nuclear plant<br>
+<B>Authors:</B> Yoshinoubu Kitamura, Munehiko Sasajima, Mitsuru Ikeda,
+Shinji Yoshikawa, Akira Endou, Osamu Kakusyo, Riichiro Mizoguchi<br>
+<B>Reference:</B> J. of Robotics and CIM (to appear)<br> 
+<A HREF="kita/1995.1.html">Abstract</A> and <A HREF="kita/1995.1.ps">article</A> (359279 bytes)<br> 
+
+<P>
+<B>Title:</B> FBRL:A Function and Behavior Representation Language<br>
+<B>Authors:</B> Munehiko SASAJIMA, Yoshinobu KITAMURA, Mitsuru IKEDA,
+and Riichiro MIZOGUCHI<br> 
+<B>Status:</B> Submitted to IJCAI'95; also as AI-TR-95-1,Received 9th
+January, 1995<br>
+<A HREF="sasa/1995.1.html">Abstract</A> and <A HREF="/~sasajima/paper/ijcai95/tr/main.ps">article</A> (ps-file, 494052 bytes)<br>
+
+<P>
+<B>Title:</B> An Investigation on Domain Ontology to Represent
+Functional Models<br>
+<B>Authors:</B> Munehiko SASAJIMA, Yoshinobu KITAMURA, Mitsuru IKEDA,
+Shinji YOSHIKAWA, Akira ENDOU, and Riichiro MIZOGUCHI<br> 
+<B>Reference:</B> In proceedings of the Eighth International Workshop
+on Qualitative Reasoning QR94, pp.224-233<br>
+<A HREF="sasa/1994.1.html">Abstract</A> and <A HREF="/~sasajima/paper/QR94/camready.ps">article</A> (ps-file, 602373 bytes)<br>
+
+<P>
+<B>Title:</B> Adaptation of Reusable Knowledge for Workplace Integration<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> IJCAI-95 Workshop on Context in Knowledge and Reasoning Modelling<br>
+<A HREF="/~johan/publications/abstracts/1995.7.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/ijcai95.ps">article</A> (ps-file, 304686 bytes)<br>
+
+<P>
+<B>Title:</B> Augmenting Conceptual Software Designs with their Rationales<br>
+<B>Author:</B> Vanwelkenhuysen Johan<br>
+<B>Reference:</B> IEEE Expert (forthcoming)<br>
+<A HREF="/~johan/publications/abstracts/1995.1.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/ieee-expert.ps">article</A> (ps-file, 440642 bytes)<br>
+
+<P>
+<B>Title:</B> Ontologies and Guidelines for Modeling Digital Systems<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, Banff, Canada.<br>
+<A HREF="/~johan/publications/abstracts/1995.2.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/kaw95.1.ps">article</A> (ps-file, 446136 bytes)<br>
+
+<P>
+<B>Title:</B> Embedding Non-Functional Requirements Analyses in Conceptual Knowledge System Designs<br>
+<B>Author:</B> Vanwelkenhuysen Johan<br>
+<B>Reference:</B> Proceedings of the Ninth Knowledge Acquisition for
+Knowledge-Based Systems Workshop, Banff, Canada.<br>
+<A HREF="/~johan/publications/abstracts/1995.3.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/kaw95.2.ps">article</A> (ps-file, 317272 bytes)<br>
+
+<P>
+<B>Title:</B> Workplace-Adapted Behaviors: Lessons Learned for Knowledge Reuse<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> Proceedings of the Second International Conference on
+Building and Sharing of Very Large-Scale Knowledge Bases (KB & KS'95)<br>
+<A HREF="/~johan/publications/abstracts/1995.4.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/kbks1.ps">article</A> (ps-file, 457505 bytes)<br>
+
+<P>
+<B>Title:</B> Task Ontology for Reuse of Problem Solving Knowledge<br>
+<B>Author:</B> Mizoguchi Riichiro and Vanwelkenhuysen Johan and Ikeda Mitsuru<br>
+<B>Reference:</B> Proceedings of the Second International Conference on
+Building and Sharing of Very Large-Scale Knowledge Bases (KB & KS'95)<br>
+<A HREF="/~johan/publications/abstracts/1995.5.html">Abstract</A> and article (ps-file, bytes)<br>
+
+<P>
+<B>Title:</B> Capturing the Problem Solving Context When Creating Ontologies<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> Japanese Society for Artificial Intelligence, SIG-KBS-9403, pages 33-40, Japan<br> 
+<A HREF="/~johan/publications/abstracts/1995.6.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/jsai-kbs.ps">article</A> (ps-file, bytes)<br>
+
+<P><P>
+<H2> 1994 </H2>
+
+<P>
+<B>Title:</B> An Investigation on Domain Ontology to Represent
+Functional Models<br>
+<B>Authors:</B> Munehiko SASAJIMA, Yoshinobu KITAMURA, Mitsuru IKEDA,
+Shinji YOSHIKAWA, Akira ENDOU, and Riichiro MIZOGUCHI<br> 
+<B>Reference:</B> In proceedings of the Eighth International Workshop
+on Qualitative Reasoning QR94, pp.224-233<br>
+<A HREF="sasa/1994.1.html">Abstract</A> and <A HREF="/homedir/sasajima/paper/QR94/cam/camready.ps">article</A> (ps-file, 602373 bytes)<br>
+
+<P>
+<B>Title:</B> Maintaining the Workplace Context in a
+Knowledge Level Analysis<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> Proceedings of the Third Japanese
+Knowledge Acquisition for Knowledge-Based Systems Workshop '94,
+Hatoyama, Japan<br>
+<A HREF="/~johan/publications/abstracts/1994.1.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/jkaw94.ps">article</A> (ps-file, 363157 bytes)<br>
+
+<P>
+<B>Title:</B> Task ontologies
+for explaining expertise in problem solving context<br>
+<B>Author:</B> Mizoguchi Riichiro and Vanwelkenhuysen Johan<br>
+<B>Reference:</B> ECAI'94 Workshop on Comparison of Implemented
+Ontologies, pages 163-174, Amsterdam, Netherlands.<br> 
+<A HREF="/~johan/publications/abstracts/1994.2.html">Abstract</A> and article (ps-file, bytes)<br>
+
+<P>
+<B>Title:</B> Enabling Validation of Knowledge Level Analyses<br>
+<B>Author:</B> Vanwelkenhuysen Johan and Mizoguchi Riichiro<br>
+<B>Reference:</B> AI Technical Report
+AI-TR-94-9, ISIR, Osaka University, 20 pages, Osaka, Japan<br> 
+<A HREF="/~johan/publications/abstracts/1994.3.html">Abstract</A> and <A HREF="/~johan/publications/ps-files/validating-kl-analysis.ps">article</A> (ps-file, 433228 bytes)<br>
+
+<H2>SPOKEN LANGUAGE PROCESSING</H2>
+
+<B><A HREF="yama/publications.html#1994">1994</A><B>
+<P>
+<B><A HREF="yama/publications.html#1993">1993</A><B>
+<P>
+<B><A HREF="yama/publications.html#1992">1992</A><B>
+
+<HR>
+<P>
+<H5><A HREF="http://www.ei.sanken.osaka-u.ac.jp/.index.html">MizLab Homepage</A></H5>
+

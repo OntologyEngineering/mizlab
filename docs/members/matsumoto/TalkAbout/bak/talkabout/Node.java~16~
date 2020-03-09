@@ -1,0 +1,44 @@
+package talkabout;
+
+/**
+ * タイトル:
+ * 説明:
+ * 著作権:   Copyright (c) 2002
+ * 会社名:
+ * @author
+ * @version 1.0
+ */
+
+public class Node {
+    double x;
+    double y;
+
+    double x1;
+    double y1;
+    double x2;
+    double y2;
+
+    boolean selected = false;
+
+    String lbl;
+
+    //座標がノード上であるかどうか
+    boolean on_node(double xx,double yy){
+      //System.out.println("********on_Node******************");
+      //System.out.println("x1 =" + x1 );
+      //System.out.println("y1 =" + y1 );
+      //System.out.println("x2 =" + x2 );
+      //System.out.println("y2 =" + y2 );
+      //System.out.println("**************");
+      //System.out.println("x =" + xx );
+      //System.out.println("y =" + yy );
+      if(xx>=x1 && xx<=x2 && yy>=y1 && yy<=y2){
+        return true;
+      }
+      else{
+        //System.out.println("FALSE");
+        return false;
+      }
+    }
+
+}

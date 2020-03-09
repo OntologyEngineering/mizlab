@@ -1,0 +1,211 @@
+<html>
+<head>
+<title>発表論文リスト(学会誌・著書)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+</head>
+
+<body bgcolor="#FFFFFF">
+<h2></h2>
+<p><img src="../images/div1.gif" width="593" height="8"></p>
+<h1> 來村徳信 発表論文リスト </h1>
+<table width="500" border="0" cellspacing="5">
+  <tr> 
+    <td width="6%">　</td>
+    <td width="40%"> 
+      <div align="left"><a href="timefault-j.htm#modeling"><img src="../images/bullet2.gif" width="12" height="12" align="absbottom" border="0"></a><a href="#journal">学会誌掲載論文</a></div>
+    </td>
+    <td width="28%"> 
+      <div align="left"><a href="timefault-j.htm#modeling"><img src="../images/bullet2.gif" width="12" height="12" align="absbottom" border="0"></a><a href="pubintlconf.htm">国際会議論文</a></div>
+    </td>
+    <td width="26%"> 
+      <div align="left"><a href="timefault-j.htm#modeling"><img src="../images/bullet2.gif" width="12" height="12" align="absbottom" border="0"></a><a href="#book">著書</a></div>
+    </td>
+  </tr>
+  <tr> 
+    <td height="14" width="6%">　</td>
+    <td height="14" width="40%"> 
+      <div align="left"><a href="timefault-j.htm#modeling"><img src="../images/bullet2.gif" width="12" height="12" align="absbottom" border="0"></a><a href="pubnconf-j.htm">研究会・国内学会発表</a></div>
+    </td>
+    <td height="14" width="28%"> 
+      <div align="left"><a href="timefault-j.htm#modeling"><img src="../images/bullet2.gif" width="12" height="12" align="absbottom" border="0"></a><a href="kita-dth.htm">D論</a></div>
+    </td>
+    <td height="14" width="26%"> 
+      <div align="left"></div>
+    </td>
+  </tr>
+</table>
+<p>最終更新 2006年10月11日</p>
+<h2></h2>
+<p><img src="../images/div1.gif" width="593" height="8"></p>
+<h2><img src="../images/bullet1.gif" width="27" height="27" align="texttop">論文誌掲載論文<a name="journal"></a></h2>
+<ol>
+  <li>An Ontological Model of Device Function and Its Deployment with Extensions for Engineering Knowledge Sharing<br>
+    Yoshinobu Kitamura, Yusuke Koji and Riichiro Mizoguchi,<br>
+    Journal of Applied Ontology (Special issue on “Formal Ontology Meets Industry”), to appear, 2006<br>
+  </li>
+  <li>コンテキスト依存性に基づくロール概念組織化の枠組み<br>
+    砂川英一, 古崎晃司, 來村徳信, 溝口理一郎<br>
+    人工知能学会論文誌, Vol.20 No.6 pp.461-472.<br>
+    <br>
+  </li>
+  <li>機能分解木記述による設備異常の原因究明とその解決事例<br>
+    柏瀬雅一，篠木秀次，布瀬雅義，溝口理一郎，來村徳信<br>
+  設備管理学会誌, Vol. 16, No. 4, pp.164-170, 2005年3月<br>
+  <br>
+  </li>
+  <li>Deployment of an Ontological Framework of Functional Design Knowledge<br>
+    Y. Kitamura, M. Kashiwase, M. Fuse, R. Mizoguchi<br>
+    Advanced Engineering Informatics, Vol. 18, Issue 2, pp. 115-127, Elsevier, April, 2004.<br>
+    <a href="kita-aei04.pdf">Article (Preprint version, PDF, 541KB)</a> (For published 
+    version, please visit <a href="http://www.sciencedirect.com/science/journal/14740346">the 
+    journal site</a>)<br>
+  　 </li>
+  <li>Ontology-based systematization of functional knowledge,<br>
+    Kitamura, Y., Mizoguchi, R.,<br>
+    Journal of Engineering Design, Taylor &amp; Francis, Vol. 15, Number 4, pp. 
+    327-351, August 2004.<br>
+    <a href="kita-jed04.pdf">Article (Preprint version, PDF, 548KB)</a> (For published 
+    version, please visit <a href="http://www.tandf.co.uk/journals/titles/09544828.asp">the 
+    journal site</a>)<br>
+    　 </li>
+  <li>Ontology-based description of functional design knowledge and its use in 
+    a functional way server,<br>
+    Kitamura, Y., Mizoguchi, R.,<br>
+    Expert Systems with Application, Vol. 24, Issue 2, pp. 153-166, Feburary, 
+    2003.<br>
+    <a href="kita-eswa02.pdf">Article (Preprint version, PDF, 767KB) (</a>For 
+    a published version, please visit <a href="http://www.elsevier.com/locate/eswa">the 
+    journal site</a>).<br>
+    　 </li>
+  <li><a href="kita-jsai01a.pdf">オントロジー工学に基づく機能的知識体系化の枠組み</a><br>
+    來村徳信，溝口理一郎<br>
+    人工知能学会論文誌，17(1), pp.61-72, 2002年1月.<br>
+    A Framework for Systematization of Functional Knowledge based on Ontological 
+    Engineering<br>
+    Kitamura, Y., Mizoguchi, R., <br>
+    Transactions of the Japanese Soc. for Artificial Intelligence, 17(1), pp.61-72, 
+    2002.<br>
+    　 </li>
+  <li><a href="kita-jsai01b.pdf">機能オントロジーに基づく機能的知識の体系的記述とその機能構造設計における利用</a><br>
+    來村徳信，笠井俊信，吉川真理子，高橋賢，古崎晃司，溝口理一郎<br>
+    人工知能学会論文誌，17(1), pp.73-84, 2002年1月.<br>
+    Systematic Description of Functional Knowledge based on Functional Ontologies 
+    and Its Use for Supporting Design of Functional Structures<br>
+    Yoshinobu Kitamura, Toshinobu kasai, Mariko Yoshikawa, Masaru Takahashi, Kouji 
+    Kozaki, Riichiro Mizoguchi<br>
+    　 </li>
+  <li>A Functional Concept Ontology and Its Application to Automatic Identification 
+    of Functional Structures, <br>
+    Kitamura, Y., Sano, T., Namba, K., and Mizoguchi, R., <br>
+    Advanced Engineering Informatics (former Artificial Intelligence in Engineering), 
+    Vol. 16, No. 2, pp. 145-163, April , 2002.<br>
+    <a href="kita-aei02.pdf">Article (Preprint version, PDF, 506KB)</a> (<a href="http://dx.doi.org/10.1016/S1474-0346(02)00006-X" target="_blank">Published 
+    version at the publisher site</a>).<br>
+    　 </li>
+  <li>「ロール」および「関係」に関 する基礎的考察に基づくオントロジー記述環境の開発，<br>
+    古崎晃司，來村徳信，池田　満，溝口理一郎，<br>
+    人工知能学会論文誌，17(3), pp. 196-208, 2002年5月.<br>
+    Development of an Environment for Building Ontologies based on a Fundamental 
+    Consideration of &quot;role&quot; and &quot;relationship&quot;<br>
+    Kouji Kozaki, Yoshinobu Kitamura, Mitsuru Ikeda, Riichiro Mizoguchi<br>
+    　 </li>
+  <li>オントロジー構築・利用環境「法造」の開発と利用 　－実規模プラントのオントロジーを例として－<br>
+    古崎晃司・來村徳信・佐野年伸・本松慎一郎・石川誠一・溝口理一郎<br>
+    人工知能学会論文誌, 17(4), pp. 407-419, 2002年7月<br>
+    Development and Use of an Environment for Building/Using Ontologies &quot;Hozo&quot; 
+    - A case study on a Real-scale Plant Ontology -<br>
+    　 </li>
+  <li>タスク・ドメインロールに基づくオントロジー構築ガイドシステムの設計と開発<br>
+    石川 誠一, 久保 成毅, 古崎 晃司, 來村 徳信, 溝口 理一郎 <br>
+    人工知能学会論文誌, 17(5), pp. 585-597, 2002年9月.<br>
+    Design and Development of a Guide System for Building an Ontology based on 
+    Task/Domain Role Concepts<br>
+    Seiichi Ishikawa, Shigeki Kubo, Kouji Kozaki, Yoshinobu Kitamura, Riichiro 
+    Mizoguchi<br>
+    　 </li>
+  <li><a href="kita-jsai99a.pdf">故障オントロジー - 概念抽出とその組織化 -</a><br>
+    來村 徳信, 溝口 理一郎<br>
+    An Ontology of Faults<br>
+    ---Articulation and Organization---<br>
+    人工知能学会誌, Vol.14, No.5, pp.68-77 (1999年9月) <br>
+    　 </li>
+  <li><a href="kita-jsai99b.pdf">故障オントロジーの考察に基づく故障診断方式 - 網羅的故障仮説生成 -</a><br>
+    來村 徳信, 西原 稔人, 植田 正彦, 池田 満, 小堀 聡, 角所 収, 溝口 理一郎<br>
+    Fault Diagnosis based on Ontological Consideration of Faults<br>
+    -- Exhaustive Fault Hypotheses Generation --<br>
+    人工知能学会誌, Vol.14, No.5, pp.78-87（1999年9月）<br>
+    　 </li>
+  <li>オントロジー工学基礎論　---意味リンク，クラス，関係，ロールのオントロジー的意味論---<br>
+    溝口理一郎，池田満，来村徳信<br>
+    人工知能学会誌，Vol.14, No.6, pp.87-100,1999年11月<br>
+    Foundation of Ontological Engineering - An ontological theory of semantic 
+    links, classes, relations and roles -<br>
+    Riichiro MIZOGUCHI, Mitsuru IKEDA and YoshinobuKITAMURA<br>
+    　 </li>
+  <li>モデルに基づく問題解決のための流体と時間のオントロジーの構築とその評価<br>
+    來村徳信，笹島宗彦，池田満，吉川信治，小澤健二，溝口理一郎<br>
+    Ontology Design of Fluid and Time for Model-based Problem Solving and Its 
+    Evaluation<br>
+    Y. Kitamura, M. Sasajima, M. Ikeda, S. Yoshikawa, K. Ozawa, R. Mizoguchi<br>
+    人工知能学会誌, Vol.12, No.1, pp.132-143, 1997<br>
+    　 </li>
+  <li>A method of qualitative reasoning for model-based<br>
+    problem solving and its application to a nuclear plant<br>
+    Y. Kitamura, M. Sasajima, M. Ikeda, S. Yoshikawa, A. Endou, O. Kakusho, R. 
+    Mizoguchi<br>
+    Expert Systems with Applications, Vol.10, No.3/4, pp.441-448, 1996, <br>
+    　 </li>
+  <li>機能と振舞いのオントロジーに基づく機能モデル表現言語 FBRL の開発<br>
+    笹島宗彦，來村徳信，池田満，溝口理一郎<br>
+    Design of a Functional Representation Language FBRL based on an<br>
+    Ontology of Function and Behavior<br>
+    M. Sasajima, Y. Kitamura, M. Ikeda, R. Mizoguchi<br>
+    人工知能学会誌, Vol.11, No.3, pp.420-431, 1996.<br>
+    　 </li>
+  <li>A Representation Language for Behavior and Function: FBRL<br>
+    M. Sasajima, Y. Kitamura, M. Ikeda, R. Mizoguchi<br>
+    Expert Systems with Applications, Vol.10, No.3/4, pp.471-479, 1996<br>
+    　 </li>
+</ol>
+<p></p>
+<p><img src="../images/div1.gif" width="593" height="8"> </p>
+<h2><img src="../images/bullet1.gif" width="27" height="27" align="texttop">解説論文<a name="journal"></a> 
+</h2>
+<ol>
+  <li><a href="kita-jsai04-engont.pdf">工学ドメインオントロジー</a><br>
+    來村徳信<br>
+    人工知能学会誌，Vol. 19, No. 2, pp. 179-186, 2004年3月<br>
+  　 </li>
+  <li><a href="miz-jsai03-ailec7.pdf">対象モデリングの視点から見た知識表現</a>，<br>
+    溝口理一郎，池田　満，來村徳信，<br>
+    人工知能学会誌，Vol. 18, No. 2., pp. 183-192, 2003年3月 <br>
+  　 </li>
+  <li>生産技術の知識ベースと生産工程改善，<br>
+    布瀬雅義，柏瀬雅一，來村 徳信，溝口 理一郎,<br>
+    精密工学会誌，Vol. 68, No. 4, pp. 507-510，2002年4月<br>
+    Production Engineering Knoledge Bases and Process Improvements<br>
+    Masayoshi Fuse, Masakazu Kashiwase, Yoshinobu Kitamura and Riichiro Mizoguchi<br>
+  　 </li>
+</ol>
+<h2><img src="../images/bullet1.gif" width="27" height="27" align="texttop">単行本掲載論文<a name="book"></a></h2>
+<ol>
+  <li>溝口理一郎，来村徳信，&quot;オントロジーベースのアプローチ&quot;, <br>
+    工学知識のマネージメント，西田豊明，冨山哲男，桐山孝司，武田英明（編），朝倉書店, 1998<br>
+  　 </li>
+  <li>A Model-based Expert System based on a Domain Ontology<br>
+    Kitamura, Y., Ikeda, M., and Mizoguchi R..<br>
+    Expert Systems: The Technology of Knowledge Management for the 21st Century, 
+    Vol. 1, Leondes, C.T. (ed.), pp. 171-196, Academic Press, 2001.<br>
+  　 </li>
+  <li>Foundations of Knowledge Systematization: Role of Ontological Engineering, 
+    <br>
+    Mizoguchi, R. and Y. Kitamura, <br>
+    Industrial Knowledge Management - A Micro Level Approach, Rajkumar Roy, (ed), 
+    pp.17-36, Springer-Verlag, London, 2000.<br>
+  　 </li>
+</ol>
+<p><img src="../images/div1.gif" width="593" height="8"></p>
+<p><img src="../images/bulletbk.gif" width="24" height="27" align="middle"><a href="../index-j.htm">來村徳信</a>/<a href="http://www.ei.sanken.osaka-u.ac.jp/japanese/">知識システム分野(溝口研）</a>/<a href="http://www.sanken.osaka-u.ac.jp">産業科学研究所</a>/<a href="http://www.osaka-u.ac.jp">大阪大学</a></p>
+<p>　</p>
+</body>
+</html>
