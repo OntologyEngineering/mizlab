@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/mizlab homepage template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
-	<!-- InstanceBeginEditable name="doctitle" --><title>�̏�I���g���W�[</title><!-- InstanceEndEditable -->
+	<!-- InstanceBeginEditable name="doctitle" --><title>故障オントロジー</title><!-- InstanceEndEditable -->
 	
-	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	<meta http-equiv="Content-Type" content="text/xml; charset=UTF-8"/>
 	
 	
 	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
@@ -32,7 +32,7 @@
 
 	  <div class="boxStyle">
 		<h1 class="heading">
-		  <!-- InstanceBeginEditable name="Title" -->�̏�I���g���W�[<!-- InstanceEndEditable -->
+		  <!-- InstanceBeginEditable name="Title" -->故障オントロジー<!-- InstanceEndEditable -->
 		</h1>
 		<div class="boxBody">
 		  
@@ -45,19 +45,19 @@
 		  <!-- InstanceBeginEditable name="ParagraphTitle" --><!-- InstanceEndEditable -->
 		</h2>
 		<div class="boxBody">
-		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>�̏�f�f�͂���܂łɍł��ڍׂɘ_�����Ă������̈�ł��邱�Ƃ� ��u�̏�v�Ƃ����T�O�͂悭�������Ă���ƍl�����Ă������C��X�́u�̏�v ��u�����v�Ƃ�������ՂƂȂ�T�O�ɂ����ĞB����������ƍl���Ă���D�Ⴆ 
+		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>故障診断はこれまでに最も詳細に論じられてきた問題の一つであることか ら「故障」という概念はよく理解していると考えられてきたが，我々は「故障」 や「原因」といった基盤となる概念において曖昧性があると考えている．例え 
 
-  �΁C�_����H�̌̏�̌����Ƃ��� �C�@�\�K�w�֌W�Ɋ�Â����u�����ł���AND �f�q�̌̏Ⴊ�S�̂̌̏�̌����ł���v�Ƃ��������ƁC�����I�Ȉ��ʊ֌W�Ɋ� �Â����u����̕��i�����������M��AND�f�q��j�󂵁C���̉e�������̕��i�� 
+  ば，論理回路の故障の原因として ，機能階層関係に基づいた「部分であるAND 素子の故障が全体の故障の原因である」という理解と，物理的な因果関係に基 づいた「周りの部品が発生した熱がAND素子を破壊し，その影響が他の部品に 
 
-  �`�d�����v�Ƃ��������̂Q���l���邱�Ƃ��ł���D�O�҂̉��߂͎��Ԃ𔺂� �Ȃ��F�m�I�Ȋ֌W�ł��邪�C��҂͎��Ԃ��o�߂���D���̂悤�ɁC�Q�̌̏� �����̗����̕��@�͂܂������قȂ��Ă���ɂ��W��炸�C�ǂ���Ɋ�Â��ꍇ 
+  伝播した」という理解の２つを考えることができる．前者の解釈は時間を伴わ ない認知的な関係であるが，後者は時間が経過する．このように，２つの故障 原因の理解の方法はまったく異なっているにも係わらず，どちらに基づく場合 
 
-  �ł������̏ጴ���Ƃ������t�ŕ\����Ă���D</p><p>�{�����ł́C���̂悤�Ȋ�{�I�T�O�ɖ��m�Ȓ�`��^����̏�I���g���W�[ ���Ă��Ă���D�̏�I���g���W�[�́C�̏ጴ���ɑ傫���Q�̑����������� ���Ƃ������C�܂��̏�𕨗��I�ϓ_���番�ނ��T�O�������u�̏�N���X�v��� 
+  でも同じ故障原因という言葉で表されている．</p><p>本研究では，そのような基本的概念に明確な定義を与える故障オントロジー を提案している．故障オントロジーは，故障原因に大きく２つの捉え方がある ことを示し，また故障を物理的観点から分類し概念化した「故障クラス」を定 
 
-  �`����D����Ɋ�Â��āC�]���̌̏�f�f�V�X�e���̈�����̏�͈̔͂𖾊m �ɋL�q���邱�Ƃ��ł���D�_���ł͑�\�I���f���x�[�X�̏�f�f�V�X�e���ł� �� GDE 
+  義する．それに基づいて，従来の故障診断システムの扱える故障の範囲を明確 に記述することができる．論文では代表的モデルベース故障診断システムであ る GDE 
 
-  �����Ɍ���ꂽ�͈͂̌̏ጴ���݂̂𐄘_���Ă��邱�Ƃ������Ă� ��D����ɁC�]�������Ȃ������͈͂���������̏�f�f�V�X�e�������������D �܂��C�̏�N���X�T�O��p���ĒT���͈͂𓮓I�Ɋg�傷��i�K�I�f�f���������C 
+  が非常に限られた範囲の故障原因のみを推論していることを示してい る．さらに，従来扱えなかった範囲をも扱える故障診断システムを実現した． また，故障クラス概念を用いて探索範囲を動的に拡大する段階的診断を実現し， 
 
-  �v��ʌ̏�̈ꕔ���������Ƃ��\�ɂ����D</p><p>��v�_��</p><ol>
+  思わぬ故障の一部を扱うことを可能にした．</p><p>主要論文</p><ol>
 
 <li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-dx99.pdf">An Ontological 
 
@@ -65,13 +65,13 @@
 
     Workshop on Principles of Diagnosis (DX-99), June 8-11 1999, Scotland, Forthcoming</li>
 
-<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99a.html">�̏�I���g���W�[ 
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99a.html">故障オントロジー 
 
-    - �T�O���o�Ƃ��̑g�D�� -,</a> �l�H�m�\�w�, �f�ڗ\��</li>
+    - 概念抽出とその組織化 -,</a> 人工知能学会誌, 掲載予定</li>
 
-<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99b.html">�̏�I���g���W�[�̍l�@�Ɋ�Â��̏�f�f�����@- 
+<li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-jsai99b.html">故障オントロジーの考察に基づく故障診断方式　- 
 
-    �ԗ��I�̏ቼ������ -</a>, �l�H�m�\�w�, �f�ڗ\��</li>
+    網羅的故障仮説生成 -</a>, 人工知能学会誌, 掲載予定</li>
 
 <li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/kita/kita-paces97b.html">A 
 
@@ -111,67 +111,67 @@
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="about_us.html">�a���������ɂ���</a>
+		  <a href="about_us.html">溝口研究室について</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="ontology.html">�I���g���W�[�ɂ���</a>
+		  <a href="ontology.html">オントロジーについて</a>
 		  
 		</li>
 		
 		<li class="leftmenu-selected">
 		  
-		  <a href="topics_index.html">�����g�s�b�N</a>
+		  <a href="topics_index.html">研究トピック</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="project.html">�����v���W�F�N�g</a>
+		  <a href="project.html">研究プロジェクト</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="pub-index-jp.html">���\�_��</a>
+		  <a href="pub-index-jp.html">発表論文</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="http://www.hozo.jp/">�I���g���W�[�G�f�B�^</a>
+		  <a href="http://www.hozo.jp/">オントロジーエディタ</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="members.html">�\����</a>
+		  <a href="members.html">構成員</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="meeting.html">���ہE������c���</a>
+		  <a href="meeting.html">国際・国内会議情報</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="opportunities.html">�a�����Ɋ֐S�̂������</a>
+		  <a href="opportunities.html">溝口研に関心のある方へ</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="access.html">�A�N�Z�X���</a>
+		  <a href="access.html">アクセス情報</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="link.html">�����N</a>
+		  <a href="link.html">リンク</a>
 		  
 		</li>
 		

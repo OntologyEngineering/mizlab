@@ -3,7 +3,7 @@
   <head>
 	<!-- InstanceBeginEditable name="doctitle" --><title>End-user Programming Environment :CLEPE</title><!-- InstanceEndEditable -->
 	
-	<meta http-equiv="Content-Type" content="text/xml; charset=Shift_JIS"/>
+	<meta http-equiv="Content-Type" content="text/xml; charset=UTF-8"/>
 	
 	
 	<link href="mizlab.css" rel="stylesheet" type="text/css"/>
@@ -32,7 +32,7 @@
 
 	  <div class="boxStyle">
 		<h1 class="heading">
-		  <!-- InstanceBeginEditable name="Title" -->�G���h���[�U�v���O���~���O���FCLEPE<!-- InstanceEndEditable -->
+		  <!-- InstanceBeginEditable name="Title" -->エンドユーザプログラミング環境：CLEPE<!-- InstanceEndEditable -->
 		</h1>
 		<div class="boxBody">
 		  
@@ -45,43 +45,43 @@
 		  <!-- InstanceBeginEditable name="ParagraphTitle" --><!-- InstanceEndEditable -->
 		</h2>
 		<div class="boxBody">
-		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>���푽�l�Ȗ������ɕK�v�Ȓm�������O�ɏ������邱�Ƃ͎��ۏ㍢��ł���Ƃ����F������C�l�𒆐S�ɐ������l�Ԏ哱�̃V�X�e��(user-centric software 
+		  <!-- InstanceBeginEditable name="ParagraphBody" --><p>多種多様な問題解決に必要な知識を事前に準備することは実際上困難であるという認識から，人を中心に据えた人間主導のシステム(user-centric software 
 
-  engineering)�̏d�v�����F���������B</p><p>���̂悤�Ȏv�z�̈�̋�̉��Ƃ��ẴG���h���[�U�v���O���~���O���́C�Ώې��E�Ɋւ���l�X�ȊT�O�𕔕i(component)�Ƃ��ď������C
+  engineering)の重要性が認識されつつある。</p><p>このような思想の一つの具体化としてのエンドユーザプログラミング環境は，対象世界に関する様々な概念を部品(component)として準備し，
 
-�v�Z�@�ɕs����ȃG���h���[�U�������p���ėe�Ղɖ��������f�����L�q(�v���O���~���O)�ł���悤�ȕ\���̘g�g�݂ƁC���̃f�o�b�O�y�ю��s�̂��߂̊�
+計算機に不慣れなエンドユーザがそれを用いて容易に問題解決モデルを記述(プログラミング)できるような表現の枠組みと，そのデバッグ及び実行のための環
 
-���ł���B</p><p>���̗l�ȃG���h���[�U�v���O���~���O�����������邽�߂ɂ́C</p><ol>
+境である。</p><p>この様なエンドユーザプログラミング環境を実現するためには，</p><ol>
 
-<li>�ΏۂƂ��鐢�E�̕ω���v���̕ω��ɒǏ]�ł��邱�ƁB</li>
+<li>対象とする世界の変化や要求の変化に追従できること。</li>
 
-<li>�G���h���[�U�ɑ΂��Ē񋟂���R���|�[�l���g�̌v�Z�@�I�ȃZ�}���e�B�N�X�𖾎��I�ɕ\�����邽�߂̃t���[�����[�N�������ƁB</li>
+<li>エンドユーザに対して提供するコンポーネントの計算機的なセマンティクスを明示的に表現するためのフレームワークを持つこと。</li>
 
-<li>�G���h���[�U�����g�̖������m�����ȒP���~���Ɍv�Z�@�ǂȌ`���֋L�q�ł���g�g�݂�����Ă��邱�ƁB</li>
+<li>エンドユーザが自身の問題解決知識を簡単かつ円滑に計算機可読な形式へ記述できる枠組みを備えていること。</li>
 
-<li>�G���h���[�U���L�q�����m���̐U�镑�����C���^�I�ŗ������₷���`���Ŋm�F�ł���g�g�݂�����Ă��邱�ƁB</li>
+<li>エンドユーザが記述した知識の振る舞いを，迫真的で理解しやすい形式で確認できる枠組みを備えていること。</li>
 
-</ol><p>�{�����Œ�Ă��Ă���^�X�N�I���g���W�[�́A�������̃��f�����ɍۂ��ĕK�v�ƂȂ�l�X�ȊT�O�i�ǂ̂悤�ȃI�u�W�F�N�g�E��{�����v���Z�X�E���䂪
+</ol><p>本研究で提案しているタスクオントロジーは、問題解決のモデル化に際して必要となる様々な概念（どのようなオブジェクト・基本処理プロセス・制御が
 
-���݂��A�����̊֌W�͂ǂ̂悤�Ȃ��̂��H�j��̌n�I�ɒ�`�������̂ł���B�^�X�N�I���g���W�[�̓��[�U�ƃV�X�e�������ӂ����������̃��f�����̋K���
+存在し、それらの関係はどのようなものか？）を体系的に定義したものである。タスクオントロジーはユーザとシステムが合意した問題解決のモデル化の規約で
 
-����A�������Ղɂ��ăG���h���[�U�������̒m�������f�������A�\������ߒ����x������̂���X���J�����Ă���T�O���x���v���O���~���O��CLEPE
+あり、それを基盤にしてエンドユーザが自分の知識をモデル化し、表現する過程を支援するのが我々が開発している概念レベルプログラミング環境CLEPE
 
-(Conceptual LEvel Programming Environment)�ł���B</p><p>CLEPE�ł́C�X�P�W���[�����O��C���^�v�Z�Ȃǂ̐��Ƃ��s���Ă������I�ȋƖ��M��ΏۂƂ��Ă���C�G���h���[�U�́C�������m�����^�X�N�I
+(Conceptual LEvel Programming Environment)である。</p><p>CLEPEでは，スケジューリングや，給与計算などの専門家が行っている日常的な業務｀を対象としており，エンドユーザは，問題解決知識をタスクオ
 
-���g���W�[�Œ�`���ꂽ���t���g���āC�}�`�\���ŋL�q���邱�Ƃ��ł���B�����āC���̋L�q�ɑ΂���V�X�e���̉��ߌ���CLEPE���񋟂���T�O���x�����s
+ントロジーで定義された言葉を使って，図形表現で記述することができる。そして，その記述に対するシステムの解釈結果CLEPEが提供する概念レベル実行
 
-�@�\��ʂ��Ċm�F���邱�Ƃ��ł��C�K�v�ɉ����Ė������m���̋L�q���C�����邱�Ƃ��ł���B���̐}�`�\������T�O���x���v�Z�Z�}���e�B�N�X�܂ł̘A����
+機能を通じて確認することができ，必要に応じて問題解決知識の記述を修正することができる。この図形表現から概念レベル計算セマンティクスまでの連続性
 
-�́CCLEPE�̓����I�ȋ@�\�̈�ƂȂ��Ă���B</p><p>���̗l�Ȋ����������邱�Ƃɂ���ăG���h���[�U�́C</p><ol>
+は，CLEPEの特徴的な機能の一つとなっている。</p><p>この様な環境を実現することによってエンドユーザは，</p><ol>
 
-<li>�������m�������g���ӎ����Ă���T�O�𒆐S�ɂ��ėe�ՂɋL�q���邱�Ƃ��ł���B</li>
+<li>問題解決知識を自身が意識している概念を中心にして容易に記述することができる。</li>
 
-<li>���������f���̎��s���ʂ�K�؂Ȓ��ۓx�Ŋm�F���鎖���ł���B</li>
+<li>問題解決モデルの実行結果を適切な抽象度で確認する事ができる。</li>
 
-<li>�K�v�ɉ����Ė��������f�����f�o�b�O���邱�Ƃ��ł���B</li>
+<li>必要に応じて問題解決モデルをデバッグすることができる。</li>
 
-</ol><p>��v�_��</p><ol>
+</ol><p>主要論文</p><ol>
 
 <li><a href="http://www.ei.sanken.osaka-u.ac.jp/pub/ikeda/ikeda-KAIS98.pdf">An 
 
@@ -91,8 +91,8 @@
 
     (1998).(also submitted to Knowledge and Information Systems)</li>
 
-        <li><a href="http://www.ei.sanken.osaka-u.ac.jp/japanese/seta-ieice98.pdf">�������I���g���W�[�Ɋ�Â��T�O���x���v���O���~���O��CLEPE</a>, 
-          �M�w�_, Vol. J81-D-II, No.9, pp.2168-2180, (1998)</li>
+        <li><a href="http://www.ei.sanken.osaka-u.ac.jp/japanese/seta-ieice98.pdf">問題解決オントロジーに基づく概念レベルプログラミング環境CLEPE</a>, 
+          信学論, Vol. J81-D-II, No.9, pp.2168-2180, (1998)</li>
 
         <li><a href="http://www.ei.sanken.osaka-u.ac.jp/japanese/um.pdf">Capturing a Conceptual 
           Model for End-user Programming -Task Ontology as a Static User Model-</a>, 
@@ -138,67 +138,67 @@
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="about_us.html">�a���������ɂ���</a>
+		  <a href="about_us.html">溝口研究室について</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="ontology.html">�I���g���W�[�ɂ���</a>
+		  <a href="ontology.html">オントロジーについて</a>
 		  
 		</li>
 		
 		<li class="leftmenu-selected">
 		  
-		  <a href="topics_index.html">�����g�s�b�N</a>
+		  <a href="topics_index.html">研究トピック</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="project.html">�����v���W�F�N�g</a>
+		  <a href="project.html">研究プロジェクト</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="pub-index-jp.html">���\�_��</a>
+		  <a href="pub-index-jp.html">発表論文</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="http://www.hozo.jp/">�I���g���W�[�G�f�B�^</a>
+		  <a href="http://www.hozo.jp/">オントロジーエディタ</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="members.html">�\����</a>
+		  <a href="members.html">構成員</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="meeting.html">���ہE������c���</a>
+		  <a href="meeting.html">国際・国内会議情報</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="opportunities.html">�a�����Ɋ֐S�̂������</a>
+		  <a href="opportunities.html">溝口研に関心のある方へ</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="access.html">�A�N�Z�X���</a>
+		  <a href="access.html">アクセス情報</a>
 		  
 		</li>
 		
 		<li class="leftmenu-head">
 		  
-		  <a href="link.html">�����N</a>
+		  <a href="link.html">リンク</a>
 		  
 		</li>
 		
